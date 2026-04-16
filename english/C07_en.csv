@@ -1,64 +1,64 @@
-CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_en,Status
-00,0,No wind finding,Operational
-01,1,Automatic with auxiliary optical direction finding,Operational
-02,2,Automatic with auxiliary radio direction finding,Operational
-03,3,Automatic with auxiliary ranging,Operational
-04,4,Not used,Operational
-05,5,Automatic with multiple VLF-Omega signals,Operational
-06,6,Automatic cross chain Loran-C,Operational
-07,7,Automatic with auxiliary wind profiler,Operational
-08,8,Automatic satellite navigation,Operational
-09-18,9-18,Reserved,Operational
-19,19,Tracking technique not specified,Operational
-,,TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM,Operational
-,,STATUS OF SHIP SYSTEM,Operational
-20,20,Vessel stopped,Operational
-21,21,Vessel diverted from original destination,Operational
-22,22,Vessel's arrival delayed,Operational
-23,23,Container damaged,Operational
-24,24,Power failure to container,Operational
-25-28,25-28,Reserved for future use,Operational
-29,29,Other problems,Operational
-,,SOUNDING SYSTEM,Operational
-30,30,Major power problems,Operational
-31,31,UPS inoperative,Operational
-32,32,Receiver hardware problems,Operational
-33,33,Receiver software problems,Operational
-34,34,Processor hardware problems,Operational
-35,35,Processor software problems,Operational
-36,36,NAVAID system damaged,Operational
-37,37,Shortage of lifting gas,Operational
-38,38,Reserved,Operational
-39,39,Other problems,Operational
-,,LAUNCH FACILITIES,Operational
-40,40,Mechanical defect,Operational
-41,41,Material defect (hand launcher),Operational
-42,42,Power failure,Operational
-43,43,Control failure,Operational
-44,44,Pneumatic/hydraulic failure,Operational
-45,45,Other problems,Operational
-46,46,Compressor problems,Operational
-47,47,Balloon problems,Operational
-48,48,Balloon release problems,Operational
-49,49,Launcher damaged,Operational
-,,DATA ACQUISITION SYSTEM,Operational
-50,50,R/S receiver antenna defect,Operational
-51,51,NAVAID antenna defect,Operational
-52,52,R/S receiver cabling (antenna) defect,Operational
-53,53,NAVAID antenna cabling defect,Operational
-54-58,54-58,Reserved,Operational
-59,59,Other problems,Operational
-,,COMMUNICATIONS,Operational
-60,60,ASAP communications defect,Operational
-61,61,Communications facility rejected data,Operational
-62,62,No power at transmitting antenna,Operational
-63,63,Antenna cable broken,Operational
-64,64,Antenna cable defect,Operational
-65,65,Message transmitted power below normal,Operational
-66-68,66-68,Reserved,Operational
-69,69,Other problems,Operational
-70,70,All systems in normal operation,Operational
-71-98,71-98,Reserved,Operational
-99,99,Status of system and its components not specified,Operational
-Not available,100-126,Reserved,Operational
-Not available,127,Missing value,Operational
+ID,CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_en,Status,translation_source
+C07/0,00,0,No wind finding,Operational,NA
+C07/1,01,1,Automatic with auxiliary optical direction finding,Operational,NA
+C07/2,02,2,Automatic with auxiliary radio direction finding,Operational,NA
+C07/3,03,3,Automatic with auxiliary ranging,Operational,NA
+C07/4,04,4,Not used,Operational,NA
+C07/5,05,5,Automatic with multiple VLF-Omega signals,Operational,NA
+C07/6,06,6,Automatic cross chain Loran-C,Operational,NA
+C07/7,07,7,Automatic with auxiliary wind profiler,Operational,NA
+C07/8,08,8,Automatic satellite navigation,Operational,NA
+C07/9-18,09-18,9-18,Reserved,Operational,NA
+C07/19,19,19,Tracking technique not specified,Operational,NA
+C07//1,,,TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM,Operational,NA
+C07//2,,,STATUS OF SHIP SYSTEM,Operational,NA
+C07/20,20,20,Vessel stopped,Operational,NA
+C07/21,21,21,Vessel diverted from original destination,Operational,NA
+C07/22,22,22,Vessel's arrival delayed,Operational,NA
+C07/23,23,23,Container damaged,Operational,NA
+C07/24,24,24,Power failure to container,Operational,NA
+C07/25-28,25-28,25-28,Reserved for future use,Operational,NA
+C07/29,29,29,Other problems,Operational,NA
+C07//3,,,SOUNDING SYSTEM,Operational,NA
+C07/30,30,30,Major power problems,Operational,NA
+C07/31,31,31,UPS inoperative,Operational,NA
+C07/32,32,32,Receiver hardware problems,Operational,NA
+C07/33,33,33,Receiver software problems,Operational,NA
+C07/34,34,34,Processor hardware problems,Operational,NA
+C07/35,35,35,Processor software problems,Operational,NA
+C07/36,36,36,NAVAID system damaged,Operational,NA
+C07/37,37,37,Shortage of lifting gas,Operational,NA
+C07/38,38,38,Reserved,Operational,NA
+C07/39,39,39,Other problems,Operational,NA
+C07//1,,,LAUNCH FACILITIES,Operational,NA
+C07/40,40,40,Mechanical defect,Operational,NA
+C07/41,41,41,Material defect (hand launcher),Operational,NA
+C07/42,42,42,Power failure,Operational,NA
+C07/43,43,43,Control failure,Operational,NA
+C07/44,44,44,Pneumatic/hydraulic failure,Operational,NA
+C07/45,45,45,Other problems,Operational,NA
+C07/46,46,46,Compressor problems,Operational,NA
+C07/47,47,47,Balloon problems,Operational,NA
+C07/48,48,48,Balloon release problems,Operational,NA
+C07/49,49,49,Launcher damaged,Operational,NA
+C07//4,,,DATA ACQUISITION SYSTEM,Operational,NA
+C07/50,50,50,R/S receiver antenna defect,Operational,NA
+C07/51,51,51,NAVAID antenna defect,Operational,NA
+C07/52,52,52,R/S receiver cabling (antenna) defect,Operational,NA
+C07/53,53,53,NAVAID antenna cabling defect,Operational,NA
+C07/54-58,54-58,54-58,Reserved,Operational,NA
+C07/59,59,59,Other problems,Operational,NA
+C07//5,,,COMMUNICATIONS,Operational,NA
+C07/60,60,60,ASAP communications defect,Operational,NA
+C07/61,61,61,Communications facility rejected data,Operational,NA
+C07/62,62,62,No power at transmitting antenna,Operational,NA
+C07/63,63,63,Antenna cable broken,Operational,NA
+C07/64,64,64,Antenna cable defect,Operational,NA
+C07/65,65,65,Message transmitted power below normal,Operational,NA
+C07/66-68,66-68,66-68,Reserved,Operational,NA
+C07/69,69,69,Other problems,Operational,NA
+C07/70,70,70,All systems in normal operation,Operational,NA
+C07/71-98,71-98,71-98,Reserved,Operational,NA
+C07/99,99,99,Status of system and its components not specified,Operational,NA
+C07/100-126,Not available,100-126,Reserved,Operational,NA
+C07/127,Not available,127,Missing value,Operational,NA
