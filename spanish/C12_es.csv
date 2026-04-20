@@ -1,0 +1,214 @@
+ID,CodeFigure_OriginatingCentres,Name_OriginatingCentres_es,CodeFigure_SubCentres,Name_SubCentres_es,Status,translation_source
+C12//0,,,0,No existe centro secundario,Operational,PDF
+C12//1,,,,,Operational,NA
+C12//2,,,,,Operational,NA
+C12//3,,,,,Operational,NA
+C12/34/207,34,"Tokio (CMRE), Servicio Meteorológico de Japón",207,Syowa,Operational,PDF
+C12/34/240,34,"Tokio (CMRE), Servicio Meteorológico de Japón",240,Kiyose,Operational,PDF
+C12/34/241,34,"Tokio (CMRE), Servicio Meteorológico de Japón",241,Proyecto de reanálisis,Operational,PDF
+C12/39/225,39,Beijing (CMRE),225,Beijing,Operational,PDF
+C12/39/226,39,Beijing (CMRE),226,Guangzhou,Operational,PDF
+C12/39/228,39,Beijing (CMRE),228,Urumuqi,Operational,PDF
+C12/40/243,40,Seúl,243,Seúl,Operational,PDF
+C12/40/245,40,Seúl,245,Jincheon,Operational,PDF
+C12/110/229,110,"Hong-Kong, China",229,Hong-Kong,Operational,PDF
+C12//4,,,,,Operational,NA
+C12/46/10,46,Agencia del Espacio de Brasil - INPE,10,Cachoeira Paulista (INPE),Operational,PDF
+C12/46/11,46,Agencia del Espacio de Brasil - INPE,11,Cuiaba (INPE),Operational,PDF
+C12/46/12,46,Agencia del Espacio de Brasil - INPE,12,Brasilia (SEPIS - INMET),Operational,PDF
+C12/46/13,46,Agencia del Espacio de Brasil - INPE,13,Fortaleza (FUNCEME),Operational,PDF
+C12/46/14,46,Agencia del Espacio de Brasil - INPE,14,Natal (Centro naviero higrog.),Operational,PDF
+C12/46/15,46,Agencia del Espacio de Brasil - INPE,15,Manaus (SIVAM),Operational,PDF
+C12/46/16,46,Agencia del Espacio de Brasil - INPE,16,Natal (INPE),Operational,PDF
+C12/46/17,46,Agencia del Espacio de Brasil - INPE,17,Boa Vista,Operational,PDF
+C12/46/18,46,Agencia del Espacio de Brasil - INPE,18,SIPAM-Porto Velho-RO,Operational,PDF
+C12/46/19,46,Agencia del Espacio de Brasil - INPE,19,SIPAM-Belém-PA,Operational,PDF
+C12/46/25,46,Agencia del Espacio de Brasil - INPE,25,Universidad de São Paulo (USP),Operational,PDF
+C12/145/1,145,,1,,Operational,NA
+C12/147/10,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,10,Córdoba,Operational,PDF
+C12/147/15,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,15,Ushuaia,Operational,PDF
+C12/147/20,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,20,Marambio,Operational,PDF
+C12/147/30,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,30,Santiago de Chile,Operational,PDF
+C12/147/40,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,40,Punta Arenas,Operational,PDF
+C12/147/50,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,50,Base Presidente Frei,Operational,PDF
+C12/147/60,147,Comisión Nacional de Actividades Espaciales (CONAE) - Argentina,60,Cotopaxi,Operational,PDF
+C12/148/1,148,Departamento de Control del Espacio Aéreo del Brasil (DECEA),1,Centro Integrado de Meteorología Aeronáutica,Operational,PDF
+C12//5,,,,,Operational,NA
+C12/7/1,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",1,Proyecto de reanálisis del NCEP,Operational,PDF
+C12/7/2,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",2,Productos por conjuntos del NCEP,Operational,PDF
+C12/7/3,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",3,Operaciones centrales del NCEP,Operational,PDF
+C12/7/4,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",4,Centro de Modelización Ambiental,Operational,PDF
+C12/7/5,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",5,Centro de Predicción Meteorológica,Operational,PDF
+C12/7/6,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",6,Centro de Predicción Oceánica,Operational,PDF
+C12/7/7,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",7,Centro de Predicción del Clima,Operational,PDF
+C12/7/8,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",8,Centro Meteorológico Aeronáutico,Operational,PDF
+C12/7/9,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",9,Centro de Predicción Tropical,Operational,PDF
+C12/7/10,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",10,Centro Nacional de Huracanes,Operational,PDF
+C12/7/11,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",11,Laboratorio de Perfeccionamiento de Técnicas del Servicio Meteorológico Nacional,Operational,PDF
+C12/7/12,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",12,Oficina de Investigaciones y Aplicaciones del NESDIS,Operational,PDF
+C12/7/13,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",13,Administración Federal de Aviación,Operational,PDF
+C12/7/14,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",14,Laboratorio de Desarrollo Meteorológico del Servicio Meteorológico Nacional,Operational,PDF
+C12/7/15,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",15,Proyecto de reanálisis regional de América del Norte,Operational,PDF
+C12/7/16,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",16,Centro de predicción meteorológica del espacio,Operational,PDF
+C12/7/17,7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",17,División de sistemas globales ESRL,Operational,PDF
+C12/160/1,160,NOAA/NESDIS (EE. UU.),1,Centro Nacional de Datos Climáticos,Operational,PDF
+C12/160/2,160,NOAA/NESDIS (EE. UU.),2,Centro Nacional de Datos Geofísicos,Operational,PDF
+C12/160/3,160,NOAA/NESDIS (EE. UU.),3,Centro Nacional de Datos Oceanográficos,Operational,PDF
+C12/160/4,160,NOAA/NESDIS (EE. UU.),4,Centro de Investigaciones y Aplicaciones Satelitales (STAR),Operational,PDF
+C12/160/5,160,NOAA/NESDIS (EE. UU.),5,Sistema Conjunto de Satélites Polares,Operational,PDF
+C12/160/10,160,NOAA/NESDIS (EE. UU.),10,Tromsø (Noruega),Operational,PDF
+C12/160/11,160,NOAA/NESDIS (EE. UU.),11,McMurdo (Antártida),Operational,PDF
+C12/161/1,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),1,Laboratorio de Investigaciones Ambientales,Operational,PDF
+C12/161/2,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),2,Laboratorio de Investigación del Sistema Terrestre,Operational,PDF
+C12/161/3,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),3,Laboratorio Oceanográfico y Meteorológico del Atlántico,Operational,PDF
+C12/161/4,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),4,Laboratorio del Medio Ambiente Marino del Pacífico,Operational,PDF
+C12/161/5,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),5,Laboratorio de Recursos Atmosféricos,Operational,PDF
+C12/161/6,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),6,Laboratorio de Dinámica de Fluidos Geofísicos,Operational,PDF
+C12/161/7,161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),7,Laboratorio Nacional de Tormentas Severas,Operational,PDF
+C12/173/1,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),1,Centro de investigación Ames,Operational,PDF
+C12/173/2,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),2,Centro de investigación de vuelo Dryden,Operational,PDF
+C12/173/3,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),3,Centro de investigación Glenn,Operational,PDF
+C12/173/4,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),4,Centro de vuelos espaciales Goddard,Operational,PDF
+C12/173/5,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),5,Laboratorio de investigación sobre la propulsión,Operational,PDF
+C12/173/6,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),6,Centro espacial Johnson,Operational,PDF
+C12/173/7,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),7,Centro espacial Kennedy,Operational,PDF
+C12/173/8,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),8,Centro de investigación Langley,Operational,PDF
+C12/173/9,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),9,Centro de vuelos espaciales Marshall,Operational,PDF
+C12/173/10,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),10,Centro espacial Stennis,Operational,PDF
+C12/173/11,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),11,Instituto para estudios espaciales Goddard,Operational,PDF
+C12/173/12,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),12,Instalación independiente de verificación y validación,Operational,PDF
+C12/173/13,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),13,Centro de servicios compartidos de la NASA,Operational,PDF
+C12/173/14,173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),14,Instalaciones de vuelo Wallops,Operational,PDF
+C12/176/10,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),10,Tromsø (Noruega),Operational,PDF
+C12/176/11,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),11,McMurdo (Antártida),Operational,PDF
+C12/176/12,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),12,Sodankyla (Finlandia),Operational,PDF
+C12/176/13,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),13,Fairbanks (EE. UU.),Operational,PDF
+C12/176/14,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),14,Barrow (EE. UU.),Operational,PDF
+C12/176/15,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),15,Rothera (Antártida),Operational,PDF
+C12/176/20,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),20,Honolulu (EE. UU.),Operational,PDF
+C12/176/21,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),21,Gilmore Creek (EE. UU.),Operational,PDF
+C12/176/22,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),22,Madison (EE. UU.),Operational,PDF
+C12/176/23,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),23,Miami (EE. UU.),Operational,PDF
+C12/176/24,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),24,Mayaguez (Puerto Rico),Operational,PDF
+C12/176/25,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),25,Monterrey (EE. UU.),Operational,PDF
+C12/176/26,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),26,Guam,Operational,PDF
+C12/176/27,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),27,Corvallis (EE. UU.),Operational,PDF
+C12/176/28,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),28,Hampton (EE. UU.),Operational,PDF
+C12/176/29,176,Instituto Cooperativo de Estudios MeteorológicosSatelitales (CIMSS) EE. UU.),29,Ciudad de New York (EE. UU.),Operational,PDF
+C12/177/1,177,Servicio Oceánico Nacional de la NOAA (EE. UU.),1,Centro de productos y servicios,Operational,PDF
+C12/177/2,177,Servicio Oceánico Nacional de la NOAA (EE. UU.),2,Laboratorio para el desarrollo del estudio de la costa,Operational,PDF
+C12/183/1,183,,1,,Operational,NA
+C12/183/2,183,,2,,Operational,NA
+C12//6,,,,,Operational,NA
+C12/2/201,2,Melbourne,201,,Operational,PDF
+C12/2/203,2,Melbourne,203,Davis,Operational,PDF
+C12/2/210,2,Melbourne,210,Alice Springs,Operational,PDF
+C12/2/211,2,Melbourne,211,Melbourne Crib Point 1,Operational,PDF
+C12/2/214,2,Melbourne,214,Darwin,Operational,PDF
+C12/2/217,2,Melbourne,217,Perth,Operational,PDF
+C12/2/219,2,Melbourne,219,Townsville,Operational,PDF
+C12/2/232,2,Melbourne,232,Fiji,Operational,PDF
+C12/2/235,2,Melbourne,235,Noumea,Operational,PDF
+C12/2/237,2,Melbourne,237,Papeete,Operational,PDF
+C12/2/250,2,Melbourne,250,Vladivostock,Operational,PDF
+C12/2/251,2,Melbourne,251,Guam,Operational,PDF
+C12/2/252,2,Melbourne,252,Honolulú,Operational,PDF
+C12/69/204,69,Wellington (CMRE),204,"Instituto Nacional de Investigaciones Hidrológicas y Atmosféricas (NIWA, Nueva Zelandia)",Operational,PDF
+C12/69/205,69,Wellington (CMRE),205,Niue,Operational,PDF
+C12/69/206,69,Wellington (CMRE),206,Rarotonga (Islas Cook),Operational,PDF
+C12/69/207,69,Wellington (CMRE),207,Apia (Samoa),Operational,PDF
+C12/69/208,69,Wellington (CMRE),208,Tonga,Operational,PDF
+C12/69/209,69,Wellington (CMRE),209,Tuvalu,Operational,PDF
+C12/69/210,69,Wellington (CMRE),210,Kiribati,Operational,PDF
+C12/69/211,69,Wellington (CMRE),211,Tokelau,Operational,PDF
+C12/69/243,69,Wellington (CMRE),243,Kelburn,Operational,PDF
+C12/72/249,72,Singapur,249,Singapur,Operational,PDF
+C12/191/1,191,Polinesia Francesa (CMN),1,Estación RARS de Tahití (Polinesia Francesa),Operational,PDF
+C12/204/101,204,Instituto Nacional de Investigaciones Hidrológicas y Atmosféricas (NIWA - Nueva Zelandia),101,Maupuia,Operational,PDF
+C12/204/102,204,Instituto Nacional de Investigaciones Hidrológicas y Atmosféricas (NIWA - Nueva Zelandia),102,Lauder,Operational,PDF
+C12//7,,,,,Operational,NA
+C12/74/1,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",1,Centro de Control de Área Oceánica de,Operational,PDF
+C12/74/2,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",2,Fucino,Operational,PDF
+C12/74/3,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",3,Gatineau,Operational,PDF
+C12/74/4,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",4,Maspalomas,Operational,PDF
+C12/74/5,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",5,Instalaciones centrales EAA ERS,Operational,PDF
+C12/74/6,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",6,Prince Albert,Operational,PDF
+C12/74/7,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",7,West Freugh,Operational,PDF
+C12/74/13,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",13,Tromsø,Operational,PDF
+C12/74/21,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",21,Agenzia Spaziale Italiana (Italia),Operational,PDF
+C12/74/22,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",22,Centre National de la Recherche Scientifique (Francia),Operational,PDF
+C12/74/23,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",23,GeoForschungs Zentrum (Alemania),Operational,PDF
+C12/74/24,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",24,Observatorio Geodético Pecny (Chequia),Operational,PDF
+C12/74/25,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",25,Institut d'Estudis Espacials de Catalunya (España),Operational,PDF
+C12/74/26,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",26,Oficina Federal Suiza de Topografía,Operational,PDF
+C12/74/27,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",27,Comisión de Geodesia de los países nórdicos (Noruega),Operational,PDF
+C12/74/28,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",28,Comisión de Geodesia de los países nórdicos (Suecia),Operational,PDF
+C12/74/29,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",29,Institut de Géographique National - Service de géodésie (Francia),Operational,PDF
+C12/74/30,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",30,Bundesamt für Kartographie und Geodäsie (Alemania) and Geodesy (Reino Unido),Operational,PDF
+C12/74/31,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",31,,Operational,PDF
+C12/74/32,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",32,Centro común de meteorología y oceanografía operativas (JOMOC),Operational,PDF
+C12/74/33,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",33,Real Instituto Meteorológico (Países Bajos),Operational,PDF
+C12/74/34,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",34,Centro nórdico de análisis de la atmósfera mediante datos de GPS (Suecia),Operational,PDF
+C12/74/35,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",35,Instituto Geográfico Nacional de España (España),Operational,PDF
+C12/74/36,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",36,Met Eireann (Irlanda),Operational,PDF
+C12/74/37,74,"Oficina Meteorológica de Reino Unido, Exeter (CMRE)",37,Observatorio Real de Bélgica (Bélgica),Operational,PDF
+C12/78/10,78,Offenbach (CMRE),10,POLARA (ejemplar de algoritmos radáricos polarimétricos) Bundeswehr (BGIO)l,Operational,PDF
+C12/78/64,78,Offenbach (CMRE),64,,Operational,PDF
+C12/78/110,78,Offenbach (CMRE),110,NowCast móvil (datos sobre rayos),Operational,PDF
+C12/78/221,78,Offenbach (CMRE),221,"Schleswig-Holstein, Centro de computación de operaciones de tráfico (CCOT) Kiel/Neumünster",Operational,PDF
+C12/78/222,78,Offenbach (CMRE),222,"Hamburgo, CCOT Hamburgo",Operational,PDF
+C12/78/223,78,Offenbach (CMRE),223,"Niedersachsen, CCOT Hannover",Operational,PDF
+C12/78/224,78,Offenbach (CMRE),224,Austria (CMN),Operational,PDF
+C12/78/225,78,Offenbach (CMRE),225,"Nordrhein-Westfalen, CCOT Kamen, Leverkusen",Operational,PDF
+C12/78/226,78,Offenbach (CMRE),226,"Hessen, CCOT Rüsselsheim",Operational,PDF
+C12/78/227,78,Offenbach (CMRE),227,"Renania-Pfalz, CCOT Coblenza",Operational,PDF
+C12/78/228,78,Offenbach (CMRE),228,"Baden-Württemberg, CCOT Ludwigsburg",Operational,PDF
+C12/78/229,78,Offenbach (CMRE),229,"Baviera, CCOT Freimann",Operational,PDF
+C12/78/230,78,Offenbach (CMRE),230,"Saarland, CCOT Rohrbach",Operational,PDF
+C12/78/231,78,Offenbach (CMRE),231,"Baviera, Dirección de autopistas del norte de Baviera",Operational,PDF
+C12/78/232,78,Offenbach (CMRE),232,"Brandenburgo, CCOT Stolpe",Operational,PDF
+C12/78/233,78,Offenbach (CMRE),233,"Mecklenburg-Vorpommern, CCOT Malchow",Operational,PDF
+C12/78/234,78,Offenbach (CMRE),234,"Sachsen, CCOT Dresde",Operational,PDF
+C12/78/235,78,Offenbach (CMRE),235,"Sachsen-Anhalt, CCOT Halle",Operational,PDF
+C12/78/236,78,Offenbach (CMRE),236,"Thüringen, CCOT Erfurt",Operational,PDF
+C12/78/237,78,Offenbach (CMRE),237,EasyWay - Meteotrans,Operational,PDF
+C12/78/254,78,Offenbach (CMRE),254,EUMETSAT,Operational,PDF
+C12/80/101,80,Roma (CMRE),101,Albania (CMN),Operational,PDF
+C12/80/102,80,Roma (CMRE),102,Consejo Nacional de Investigaciones/ Instituto de Ciencias Atmosféricas y del Clima (CNI-ISAC),Operational,PDF
+C12/85/200,85,Toulouse (CMRE),200,Institut National de l'Environnement Industriel et des Risques (Francia),Operational,PDF
+C12/85/201,85,Toulouse (CMRE),201,Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Alemania),Operational,PDF
+C12/85/202,85,Toulouse (CMRE),202,Institut Français de Recherche pour l'Exploitation de la Mer,Operational,PDF
+C12/85/203,85,Toulouse (CMRE),203,Universidad de Aarhus (Dinamarca),Operational,PDF
+C12/85/204,85,Toulouse (CMRE),204,Instituto de Protección Medioambiental - Instituto Nacional de Investigación (Polonia),Operational,PDF
+C12/89/1,89,Praga (RTH),1,Observatorio de la radiación solar y del ozono Hradec Kralove,Operational,PDF
+C12/96/1,96,Atenas,1,Chipre (CMN),Operational,PDF
+C12/211/10,211,,10,,Operational,NA
+C12/227/1,227,Bélgica (CMN),1,Luxemburgo (CMN),Operational,PDF
+C12/250/76,250,COSMO (Consorcio para la modernización en pequeña escala),76,Roshydromet (Federación de Rusia),Operational,PDF
+C12/250/78,250,COSMO (Consorcio para la modernización en pequeña escala),78,Deutscher Wetterdienst (Alemania),Operational,PDF
+C12/250/80,250,COSMO (Consorcio para la modernización en pequeña escala),80,Ufficio Generale Spazio Aereo e Meteorologia (Italia),Operational,PDF
+C12/250/96,250,COSMO (Consorcio para la modernización en pequeña escala),96,Servicio Meteorológico Nacional Helénico(Grecia),Operational,PDF
+C12/250/215,250,COSMO (Consorcio para la modernización en pequeña escala),215,MeteoSwiss (Suiza),Operational,PDF
+C12/250/220,250,COSMO (Consorcio para la modernización en pequeña escala),220,Instituto de Meteorología y Gestión del Agua (Polonia),Operational,PDF
+C12/250/242,250,COSMO (Consorcio para la modernización en pequeña escala),242,Administración Meteorológica Nacional (Rumania),Operational,PDF
+C12/254/10,254,Centro de operaciones de EUMETSAT,10,Tromsø (Noruega),Operational,PDF
+C12/254/20,254,Centro de operaciones de EUMETSAT,20,Maspalomas (España),Operational,PDF
+C12/254/30,254,Centro de operaciones de EUMETSAT,30,Kangerlussuaq (Groenlandia),Operational,PDF
+C12/254/40,254,Centro de operaciones de EUMETSAT,40,Edmonton (Canadá),Operational,PDF
+C12/254/50,254,Centro de operaciones de EUMETSAT,50,Bedford (Canadá),Operational,PDF
+C12/254/60,254,Centro de operaciones de EUMETSAT,60,Gander (Canadá),Operational,PDF
+C12/254/70,254,Centro de operaciones de EUMETSAT,70,Monterrey (Estados Unidos),Operational,PDF
+C12/254/80,254,Centro de operaciones de EUMETSAT,80,Isla Wallops (Estados Unidos),Operational,PDF
+C12/254/90,254,Centro de operaciones de EUMETSAT,90,Gilmore Creek (Estados Unidos),Operational,PDF
+C12/254/100,254,Centro de operaciones de EUMETSAT,100,Atenas (Grecia),Operational,PDF
+C12/254/120,254,Centro de operaciones de EUMETSAT,120,"Ewa Beach, Hawái",Operational,PDF
+C12/254/125,254,Centro de operaciones de EUMETSAT,125,"Isla Ford, Hawái",Operational,PDF
+C12/254/130,254,Centro de operaciones de EUMETSAT,130,"Miami, Florida",Operational,PDF
+C12/254/140,254,Centro de operaciones de EUMETSAT,140,Lannion (Francia),Operational,PDF
+C12/254/150,254,Centro de operaciones de EUMETSAT,150,Svalbard (Noruega),Operational,PDF
+C12/254/170,254,Centro de operaciones de EUMETSAT,170,St. Denis (La Reunión),Operational,PDF
+C12/254/180,254,Centro de operaciones de EUMETSAT,180,Moscú,Operational,PDF
+C12/254/190,254,Centro de operaciones de EUMETSAT,190,Mascate,Operational,PDF
+C12/254/200,254,Centro de operaciones de EUMETSAT,200,Jabarovsk,Operational,PDF
+C12/254/210,254,Centro de operaciones de EUMETSAT,210,Novosibirsk,Operational,PDF
+C12/254/220,254,Centro de operaciones de EUMETSAT,220,,Operational,PDF

@@ -1,0 +1,44 @@
+ID,CodeFigureForXRXR,CodeFigureForBUFR,Meaning_ru,Status,translation_source
+C04/1,01,1,Ленточный самописец Sippican,Operational,PDF
+C04/2,02,2,Sippican MK2A/SSQ-61,Operational,PDF
+C04/3,03,3,Sippican MK-9,Operational,PDF
+C04/4,04,4,Sippican AN/BHQ-7/MK8,Operational,PDF
+C04/5,05,5,Sippican MK-12,Operational,PDF
+C04/6,06,6,Sippican MK-21,Operational,PDF
+C04/7,07,7,Линейный регистратор Sippican MK-8,Operational,PDF
+C04/8,08,8,Sippican MK-10,Operational,PDF
+C04/10,10,10,Sparton SOC BT/SV Processor Model 100,Operational,PDF
+C04/11,11,11,Lockheed-Sanders Model OL5005,Operational,PDF
+C04/20,20,20,ARGOS XBT-ST,Operational,PDF
+C04/21,21,21,CLS-ARGOS/Protecno XBT-ST Model-1,Operational,PDF
+C04/22,22,22,CLS-ARGOS/Protecno XBT-ST Model-2,Operational,PDF
+C04/30,30,30,BATHY Systems SA-810,Operational,PDF
+C04/31,31,31,Scripps Metrobyte Controller,Operational,PDF
+C04/32,32,32,Murayama Denki Z-60-16 III,Operational,PDF
+C04/33,33,33,Murayama Denki Z-60-16 II,Operational,PDF
+C04/34,34,34,Protecno ETSM2,Operational,PDF
+C04/35,35,35,Nautilus Marine Service NMS-XBT,Operational,PDF
+C04/40,40,40,TSK MK-2A,Operational,PDF
+C04/41,41,41,TSK MK-2S,Operational,PDF
+C04/42,42,42,TSK MK-30,Operational,PDF
+C04/43,43,43,TSK MK-30N,Operational,PDF
+C04/45,45,45,TSK MK-100,Operational,PDF
+C04/46,46,46,"Самописец TSK MK-130, совместимый как с ОБТ, так и с ОПТГ",Operational,PDF
+C04/47,47,47,Самописец TSK MK-130А XCTD,Operational,PDF
+C04/48,48,48,TSK AXBT RECEIVER MK-300,Operational,PDF
+C04/49,49,49,"Самописец TSK MK-150/MK-150N, совместимый как с ОБТ, так и с ОПТГ",Operational,PDF
+C04/50,50,50,"ASTOS, ЯМА",Operational,PDF
+C04/60,60,60,"Связь АРГОС, замеры при подъеме",Operational,PDF
+C04/61,61,61,"Связь АРГОС, замеры при погружении",Operational,PDF
+C04/62,62,62,"Связь Orbcomm, замеры при подъеме",Operational,PDF
+C04/63,63,63,"Связь Orbcomm, замеры при погружении",Operational,PDF
+C04/64,64,64,"Система связи Iridium, замеры при подъеме",Operational,PDF
+C04/65,65,65,"Система связи Iridium, замеры при погружении",Operational,PDF
+C04/70,70,70,Система получения данных ОБТ CSIRO Devil-1,Operational,PDF
+C04/71,71,71,Система получения данных ОБТ CSIRO Devil-2,Operational,PDF
+C04/72,72,72,Система получения данных ОБТ TURO/CSIRO Quoll,Operational,PDF
+C04/80,80,80,"Applied Microsystems Ltd., MICRO-SVT&P",Operational,PDF
+C04/81,81,81,"Отдел научных исследований морских млекопитающих, Университет Св. Эндрю, СК; нескорректированная соленость по показаниям датчика, установленного на морском млекопитающем",Operational,PDF
+C04/82,82,82,"Отдел научных исследований морских млекопитающих, Университет Св. Эндрю, СК; скорректированная соленость по показаниям датчика, установленного на морском млекопитающем",Operational,PDF
+C04/99,99,99,Неизвестно 127 Отсутствующее,Operational,PDF
+C04/127,,127,,Operational,NA

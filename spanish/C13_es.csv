@@ -1,0 +1,141 @@
+ID,CodeFigure_DataCategories,Name_DataCategories_es,CodeFigure_InternationalDataSubcategories,Name_InternationalDataSubcategories_es,Status,translation_source
+C13/0/0,0,Datos de superficie - terrestres,0,Observaciones sinópticas horarias desde estaciones terrestres fijas (SYNOP,Operational,PDF
+C13/0/1,0,Datos de superficie - terrestres,1,Observaciones sinópticas intermedias desde estaciones terrestres fijas (SYNOP),Operational,PDF
+C13/0/2,0,Datos de superficie - terrestres,2,Principales observaciones sinópticas desde estaciones terrestres fijas (SYNOP),Operational,PDF
+C13/0/3,0,Datos de superficie - terrestres,3,Observaciones sinópticas horarias desde estaciones terrestres móviles (SYNOP MOBIL),Operational,PDF
+C13/0/4,0,Datos de superficie - terrestres,4,Observaciones sinópticas intermedias desde estaciones terrestres móviles (SYNOP MOBIL),Operational,PDF
+C13/0/5,0,Datos de superficie - terrestres,5,Principales observaciones sinópticas desde estaciones terrestres móviles (SYNOP MOBIL),Operational,PDF
+C13/0/6,0,Datos de superficie - terrestres,6,Observaciones en una hora desde estaciones automáticas,Operational,PDF
+C13/0/7,0,Datos de superficie - terrestres,7,Observaciones en n-minutos desde estaciones meteorológicas automáticas,Operational,PDF
+C13/0/8,0,Datos de superficie - terrestres,8,Observaciones de radiación en períodos de una hora,Operational,PDF
+C13/0/9,0,Datos de superficie - terrestres,9,Observaciones de radiación en período de n-minutos,Operational,PDF
+C13/0/10,0,Datos de superficie - terrestres,10,Observaciones aeronáuticas habituales (METAR),Operational,PDF
+C13/0/11,0,Datos de superficie - terrestres,11,Observaciones aeronáuticas especiales (SPECI),Operational,PDF
+C13/0/14,0,Datos de superficie - terrestres,14,Observaciones de la humedad por medio de un GPS en tierra (GPS-IWV),Operational,PDF
+C13/0/20,0,Datos de superficie - terrestres,20,Observaciones climatológicas (CLIMAT) de los datos climáticos diarios),Operational,PDF
+C13/0/21,0,Datos de superficie - terrestres,21,,Operational,PDF
+C13/0/30,0,Datos de superficie - terrestres,30,Ubicaciones de parásitos atmosféricos (SFLOC),Operational,PDF
+C13/0/40,0,Datos de superficie - terrestres,40,,Operational,PDF
+C13/0/50,0,Datos de superficie - terrestres,50,Observaciones sinópticas horarias con datos suplementarios de una hora,Operational,PDF
+C13/0/51,0,Datos de superficie - terrestres,51,Observaciones sinópticas intermedias con datos suplementarios de una hora,Operational,PDF
+C13/0/52,0,Datos de superficie - terrestres,52,Observaciones sinópticas principales con datos suplementarios de una hora,Operational,PDF
+C13/1/0,1,Datos de superficie - marinos,0,Observaciones sinópticas (SHIP),Operational,PDF
+C13/1/6,1,Datos de superficie - marinos,6,Observaciones en una hora desde estaciones automáticas,Operational,PDF
+C13/1/7,1,Datos de superficie - marinos,7,Observaciones en n-minutos desde estaciones meteorológicas automáticas,Operational,PDF
+C13/1/15,1,Datos de superficie - marinos,15,,Operational,PDF
+C13/1/20,1,Datos de superficie - marinos,20,Perfiles ASDAR/ACARS (AMDAR),Operational,PDF
+C13/1/25,1,Datos de superficie - marinos,25,Observaciones climatológicas desde estaciones terrestres fijas (CLIMAT TEMP),Operational,PDF
+C13/1/30,1,Datos de superficie - marinos,30,Mareógrafo,Operational,PDF
+C13/1/31,1,Datos de superficie - marinos,31,Serie temporal observada al nivel del agua terrestres fijas (PILOT) SHIP) terrestres móviles (PILOT MOBIL),Operational,PDF
+C13/2/1,2,,1,,Operational,NA
+C13/2/2,2,,2,,Operational,NA
+C13/2/3,2,,3,,Operational,NA
+C13/2/4,2,,4,,Operational,NA
+C13/2/5,2,,5,,Operational,NA
+C13/2/6,2,,6,,Operational,NA
+C13/2/7,2,,7,,Operational,NA
+C13/2/10,2,,10,,Operational,NA
+C13/2/11,2,,11,,Operational,NA
+C13/2/14,2,,14,,Operational,NA
+C13/2/15,2,,15,,Operational,NA
+C13/2/16,2,,16,,Operational,NA
+C13/2/20,2,,20,,Operational,NA
+C13/2/21,2,,21,,Operational,NA
+C13/2/25,2,,25,,Operational,NA
+C13/2/26,2,,26,,Operational,NA
+C13/2/40,2,,40,,Operational,NA
+C13/2/50,2,,50,,Operational,NA
+C13/2/104,2,,104,,Operational,NA
+C13/2/105,2,,105,,Operational,NA
+C13/2/106,2,,106,,Operational,NA
+C13/2/114,2,,114,,Operational,NA
+C13/2/115,2,,115,,Operational,NA
+C13/2/116,2,,116,,Operational,NA
+C13/3/0,3,Sondeos verticales (por satélite),0,Temperatura (SATEM),Operational,PDF
+C13/3/1,3,Sondeos verticales (por satélite),1,TIROS (TOVS),Operational,PDF
+C13/3/2,3,Sondeos verticales (por satélite),2,ATOVS,Operational,PDF
+C13/3/3,3,Sondeos verticales (por satélite),3,AMSU-A,Operational,PDF
+C13/3/4,3,Sondeos verticales (por satélite),4,AMSU-B,Operational,PDF
+C13/3/5,3,Sondeos verticales (por satélite),5,HIRS,Operational,PDF
+C13/3/6,3,Sondeos verticales (por satélite),6,MHS,Operational,PDF
+C13/3/7,3,Sondeos verticales (por satélite),7,IASI,Operational,PDF
+C13/3/8,3,Sondeos verticales (por satélite),8,VASS (sistema de sondeo atmosférico vertical),Operational,PDF
+C13/3/20,3,Sondeos verticales (por satélite),20,Sondeo de temperatura/humedad por infrarrojos,Operational,PDF
+C13/3/30,3,Sondeos verticales (por satélite),30,Sondeo de temperatura/humedad hiperes,Operational,PDF
+C13/3/40,3,Sondeos verticales (por satélite),40,Sondeo de temperatura/humedad en microondas,Operational,PDF
+C13/3/50,3,Sondeos verticales (por satélite),50,Sondeo de ocultación radio,Operational,PDF
+C13/4/0,4,Datos de observaciones en altitud de,0,ASDAR/ACARS (AMDAR),Operational,PDF
+C13/4/1,4,Datos de observaciones en altitud de,1,"Manual (AIREP, PIREP)",Operational,PDF
+C13/4/2,4,Datos de observaciones en altitud de,2,,Operational,PDF
+C13/4/3,4,Datos de observaciones en altitud de,3,,Operational,PDF
+C13/5/0,5,Datos de observaciones en altitud de,0,Datos de viento derivados del desplazamiento de las,Operational,PDF
+C13/5/1,5,Datos de observaciones en altitud de,1,Propiedades de nubes,Operational,PDF
+C13/6/0,6,Datos de radar,0,Datos de reflectividad,Operational,PDF
+C13/6/1,6,Datos de radar,1,Perfiles de viento Doppler,Operational,PDF
+C13/6/2,6,Datos de radar,2,Productos derivados,Operational,PDF
+C13/6/3,6,Datos de radar,3,Observación meteorológica por radar terrestre,Operational,PDF
+C13/7/0,7,Características sinópticas,0,Trayectorias previstas de ciclones tropicales obtenidas mediante sistemas de predicción por conjuntos,Operational,PDF
+C13/7/1,7,Características sinópticas,1,Línea de turbonada,Operational,PDF
+C13/7/2,7,Características sinópticas,2,Predicción de ciclón tropical a partir de sistema determinista,Operational,PDF
+C13/7/3,7,Características sinópticas,3,,Operational,PDF
+C13/7/4,7,Características sinópticas,4,,Operational,PDF
+C13/8/0,8,Componentes físicos/químicos,0,Ozono en superficie,Operational,PDF
+C13/8/1,8,Componentes físicos/químicos,1,Sondeo vertical del ozono,Operational,PDF
+C13/8/2,8,Componentes físicos/químicos,2,Ozono total,Operational,PDF
+C13/8/3,8,Componentes físicos/químicos,3,Lluvia ácida,Operational,PDF
+C13/8/4,8,Componentes físicos/químicos,4,,Operational,PDF
+C13/9/0,9,Dispersión y transporte,0,"Trayectorias, análisis o predicción",Operational,PDF
+C13/10/1,10,Datos radiológicos,1,Observación (RADREP),Operational,PDF
+C13/10/2,10,Datos radiológicos,2,Predicción (RADOF),Operational,PDF
+C13/12/0,12,Datos de observaciones en superficie,0,Producto UWA-ERS,Operational,PDF
+C13/12/1,12,Datos de observaciones en superficie,1,Producto UWI-ERS,Operational,PDF
+C13/12/2,12,Datos de observaciones en superficie,2,Producto URA-ERS,Operational,PDF
+C13/12/3,12,Datos de observaciones en superficie,3,Producto UAT-ERS,Operational,PDF
+C13/12/4,12,Datos de observaciones en superficie,4,Radiómetro SSM/I,Operational,PDF
+C13/12/5,12,Datos de observaciones en superficie,5,Quickscat,Operational,PDF
+C13/12/6,12,Datos de observaciones en superficie,6,Temperatura/radiación en superficie (SATOB),Operational,PDF
+C13/12/7,12,Datos de observaciones en superficie,7,Datos ASCAT,Operational,PDF
+C13/12/8,12,Datos de observaciones en superficie,8,Humedad de suelo,Operational,PDF
+C13/12/9,12,Datos de observaciones en superficie,9,Índice de vegetación diferencial normalizado,Operational,PDF
+C13/12/10,12,Datos de observaciones en superficie,10,Retrodispersión radárica normalizada,Operational,PDF
+C13/12/11,12,Datos de observaciones en superficie,11,Emisividad superficial,Operational,PDF
+C13/12/12,12,Datos de observaciones en superficie,12,Temperatura en la superficie del mar,Operational,PDF
+C13/12/13,12,Datos de observaciones en superficie,13,Precipitación,Operational,PDF
+C13/21/0,21,Radiancias (medidas por satélite),0,Presupuesto de radiación de la Tierra,Operational,PDF
+C13/21/5,21,Radiancias (medidas por satélite),5,Sonda infrarroja transversal a la trayectoria,Operational,PDF
+C13/21/6,21,Radiancias (medidas por satélite),6,Sonda de microondas de tecnología avanzada,Operational,PDF
+C13/21/7,21,Radiancias (medidas por satélite),7,Serie de radiómetro imagenizador visible/ infrarrojo,Operational,PDF
+C13/22/0,22,"Radar (satélite), pero no altímetro y",0,Radar de nubes y precipitación,Operational,PDF
+C13/22/1,22,"Radar (satélite), pero no altímetro y",1,Radar de abertura sintética,Operational,PDF
+C13/23/0,23,Lidar (satélite),0,"Misiones desde lidar (de viento, nubes/ aerosoles, vapor de agua, altimetría)",Operational,PDF
+C13/24/0,24,Dispersometría (satélite),0,Dispersometría de viento,Operational,PDF
+C13/25/0,25,Altimetría (satélite),0,Altimetría radárica,Operational,PDF
+C13/26/0,26,Espectrometría (satélite),0,Espectrometría de onda corta a través del nadir (para aplicaciones químicas),Operational,PDF
+C13/26/1,26,Espectrometría (satélite),1,Espectrometría en infrarrojos a través del nadir (para aplicaciones químicas),Operational,PDF
+C13/26/2,26,Espectrometría (satélite),2,Espectrometría de sondeo límbico en onda corta,Operational,PDF
+C13/26/3,26,Espectrometría (satélite),3,Espectrometría de sondeo límbico en infrarrojos,Operational,PDF
+C13/26/4,26,Espectrometría (satélite),4,Espectrometría de sondeo límbico en ondas submilimétricas,Operational,PDF
+C13/30/0,30,Conjunto de datos de calibración,0,Datos en subconjuntos,Operational,PDF
+C13/30/1,30,Conjunto de datos de calibración,1,Datos coubicados,Operational,PDF
+C13/30/2,30,Conjunto de datos de calibración,2,Datos de calibración a bordo,Operational,PDF
+C13/30/3,30,Conjunto de datos de calibración,3,Monitoreo de errores sistemáticos,Operational,PDF
+C13/30/4,30,Conjunto de datos de calibración,4,Corrección en tiempo casi real,Operational,PDF
+C13/30/5,30,Conjunto de datos de calibración,5,Corrección de reanálisis,Operational,PDF
+C13/31/0,31,Datos oceanográficos,0,Observación en superficie,Operational,PDF
+C13/31/1,31,Datos oceanográficos,1,Imágenes de barrido cónico en microondas (frecuencias intermedias),Operational,PDF
+C13/31/2,31,Datos oceanográficos,2,Imágenes en microondas de baja frecuencia,Operational,PDF
+C13/31/3,31,Datos oceanográficos,3,Imágenes del color del océano,Operational,PDF
+C13/31/4,31,Datos oceanográficos,4,Imágenes con geometría de visualización especial,Operational,PDF
+C13/31/5,31,Datos oceanográficos,5,Imágenes de rayos,Operational,PDF
+C13/31/6,31,Datos oceanográficos,6,Imágenes en onda corta de alta resultado para observaciones terrestres,Operational,PDF
+C13/31/7,31,Datos oceanográficos,7,Datos SMOS,Operational,PDF
+C13/31/8,31,Datos oceanográficos,8,,Operational,PDF
+C13/32/0,32,,0,,Operational,NA
+C13/101/0,101,,0,,Operational,NA
+C13/101/1,101,,1,,Operational,NA
+C13/101/2,101,,2,,Operational,NA
+C13/101/3,101,,3,,Operational,NA
+C13/101/4,101,,4,,Operational,NA
+C13/101/5,101,,5,,Operational,NA
+C13/101/6,101,,6,,Operational,NA
+C13/101/7,101,,7,,Operational,NA

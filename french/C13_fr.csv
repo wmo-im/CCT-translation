@@ -1,0 +1,141 @@
+ID,CodeFigure_DataCategories,Name_DataCategories_fr,CodeFigure_InternationalDataSubcategories,Name_InternationalDataSubcategories_fr,Status,translation_source
+C13/0/0,0,Données de surface - terre,0,Observations synoptiques horaires provenant de stations terrestres fixes (SYNOP),Operational,PDF
+C13/0/1,0,Données de surface - terre,1,Observations synoptiques intermédiaires provenant de stations terrestres fixes (SYNOP),Operational,PDF
+C13/0/2,0,Données de surface - terre,2,Observations synoptiques principales provenant de stations terrestres fixes (SYNOP),Operational,PDF
+C13/0/3,0,Données de surface - terre,3,Observations synoptiques horaires provenant de stations terrestres mobiles (SYNOP MOBIL),Operational,PDF
+C13/0/4,0,Données de surface - terre,4,Observations synoptiques intermédiaires provenant de stations terrestres mobiles (SYNOP MOBIL),Operational,PDF
+C13/0/5,0,Données de surface - terre,5,Observations synoptiques principales provenant de stations terrestres mobiles (SYNOP MOBIL),Operational,PDF
+C13/0/6,0,Données de surface - terre,6,Observations sur une heure provenant de stations automatiques,Operational,PDF
+C13/0/7,0,Données de surface - terre,7,Observations sur n minutes provenant de stations météorologiques automatiques,Operational,PDF
+C13/0/8,0,Données de surface - terre,8,Observations du rayonnement sur une heure,Operational,PDF
+C13/0/9,0,Données de surface - terre,9,Observations du rayonnement sur n minutes,Operational,PDF
+C13/0/10,0,Données de surface - terre,10,Observations aéronautiques régulières (METAR),Operational,PDF
+C13/0/11,0,Données de surface - terre,11,Observations aéronautiques spéciales (SPECI),Operational,PDF
+C13/0/14,0,Données de surface - terre,14,Observation de l'humidité par GPS au sol (GPSIWV),Operational,PDF
+C13/0/20,0,Données de surface - terre,20,Observations climatologiques (CLIMAT),Operational,PDF
+C13/0/21,0,Données de surface - terre,21,Observations climatologiques (transmission de données climatologiques quotidiennes une fois par mois),Operational,PDF
+C13/0/30,0,Données de surface - terre,30,Positions géographiques d'atmosphériques,Operational,PDF
+C13/0/40,0,Données de surface - terre,40,Observations hydrologiques,Operational,PDF
+C13/0/50,0,Données de surface - terre,50,Observations synoptiques horaires avec données supplémentaires sur une heure,Operational,PDF
+C13/0/51,0,Données de surface - terre,51,Observations synoptiques intermédiaires avec données supplémentaires sur une heure,Operational,PDF
+C13/0/52,0,Données de surface - terre,52,Observations synoptiques principales avec données supplémentaires sur une heure,Operational,PDF
+C13/1/0,1,Données de surface - mer,0,Observations synoptiques (SHIP),Operational,PDF
+C13/1/6,1,Données de surface - mer,6,Observations sur une heure provenant de stations automatiques,Operational,PDF
+C13/1/7,1,Données de surface - mer,7,Observations sur n minutes provenant de stations météorologiques automatiques,Operational,PDF
+C13/1/15,1,Données de surface - mer,15,,Operational,PDF
+C13/1/20,1,Données de surface - mer,20,Observations climatologiques (CLIMAT SHIP),Operational,PDF
+C13/1/25,1,Données de surface - mer,25,Observations provenant de bouées (BUOY),Operational,PDF
+C13/1/30,1,Données de surface - mer,30,Observations provenant de marégraphes,Operational,PDF
+C13/1/31,1,Données de surface - mer,31,,Operational,PDF
+C13/2/1,2,Sondages verticaux,1,TIROS (TOVS),Operational,PDF
+C13/2/2,2,Sondages verticaux,2,ATOVS,Operational,PDF
+C13/2/3,2,Sondages verticaux,3,AMSU-A,Operational,PDF
+C13/2/4,2,Sondages verticaux,4,AMSU-B,Operational,PDF
+C13/2/5,2,Sondages verticaux,5,HIRS,Operational,PDF
+C13/2/6,2,Sondages verticaux,6,MHS,Operational,PDF
+C13/2/7,2,Sondages verticaux,7,IASI,Operational,PDF
+C13/2/10,2,Sondages verticaux,10,Messages d'observation provenant de profileurs du vent,Operational,PDF
+C13/2/11,2,Sondages verticaux,11,Profils de la température provenant de systèmes de sondage radio-acoustique,Operational,PDF
+C13/2/14,2,Sondages verticaux,14,"Messages d'observation en altitude de la température, de l'humidité et du vent provenant de radiosondes parachutées initialement lancées depuis des stations terrestres fixes",Operational,PDF
+C13/2/15,2,Sondages verticaux,15,"Messages d'observation en altitude de la température, de l'humidité et du vent provenant de radiosondes parachutées initialement lancées depuis des navires",Operational,PDF
+C13/2/16,2,Sondages verticaux,16,"Messages d'observation en altitude de la température, de l'humidité et du vent provenant de radiosondes parachutées initialement lancées depuis des stations terrestres mobiles",Operational,PDF
+C13/2/20,2,Sondages verticaux,20,Sondage température/humidité - Infrarouge,Operational,PDF
+C13/2/21,2,Sondages verticaux,21,Profils des concentrations des constituants atmosphériques,Operational,PDF
+C13/2/25,2,Sondages verticaux,25,Observations climatologiques provenant de,Operational,PDF
+C13/2/26,2,Sondages verticaux,26,Observations climatologiques provenant de navires (CLIMAT TEMP SHIP),Operational,PDF
+C13/2/40,2,Sondages verticaux,40,Sondage température/humidité - Hyperfréquences,Operational,PDF
+C13/2/50,2,Sondages verticaux,50,Sondage par radio-occultation,Operational,PDF
+C13/2/104,2,Sondages verticaux,104,,Operational,PDF
+C13/2/105,2,Sondages verticaux,105,,Operational,PDF
+C13/2/106,2,Sondages verticaux,106,,Operational,PDF
+C13/2/114,2,Sondages verticaux,114,,Operational,PDF
+C13/2/115,2,Sondages verticaux,115,,Operational,PDF
+C13/2/116,2,Sondages verticaux,116,,Operational,PDF
+C13/3/0,3,,0,,Operational,NA
+C13/3/1,3,,1,,Operational,NA
+C13/3/2,3,,2,,Operational,NA
+C13/3/3,3,,3,,Operational,NA
+C13/3/4,3,,4,,Operational,NA
+C13/3/5,3,,5,,Operational,NA
+C13/3/6,3,,6,,Operational,NA
+C13/3/7,3,,7,,Operational,NA
+C13/3/8,3,,8,,Operational,NA
+C13/3/20,3,,20,,Operational,NA
+C13/3/30,3,,30,,Operational,NA
+C13/3/40,3,,40,,Operational,NA
+C13/3/50,3,,50,,Operational,NA
+C13/4/0,4,Données d'observation en,0,ASDAR ou ACARS (AMDAR),Operational,PDF
+C13/4/1,4,Données d'observation en,1,"Observations manuelles (AIREP, PIREP)",Operational,PDF
+C13/4/2,4,Données d'observation en,2,,Operational,PDF
+C13/4/3,4,Données d'observation en,3,,Operational,PDF
+C13/5/0,5,Données d'observation en,0,Données sur le vent déduit du déplacement,Operational,PDF
+C13/5/1,5,Données d'observation en,1,Propriétés des nuages,Operational,PDF
+C13/6/0,6,Données radar,0,Données sur la réflectivité,Operational,PDF
+C13/6/1,6,Données radar,1,Profils de vents Doppler,Operational,PDF
+C13/6/2,6,Données radar,2,Produits dérivés,Operational,PDF
+C13/6/3,6,Données radar,3,Observations météorologiques exécutées par des radars au sol (RADOB),Operational,PDF
+C13/7/0,7,Caractéristiques synoptiques,0,Trajectoires prévues de cyclones tropicaux fournies par un système de prévision d'ensemble,Operational,PDF
+C13/7/1,7,Caractéristiques synoptiques,1,Ligne de grains,Operational,PDF
+C13/7/2,7,Caractéristiques synoptiques,2,,Operational,PDF
+C13/7/3,7,Caractéristiques synoptiques,3,,Operational,PDF
+C13/7/4,7,Caractéristiques synoptiques,4,,Operational,PDF
+C13/8/0,8,Constituants physiques/chimiques,0,Ozone en surface,Operational,PDF
+C13/8/1,8,Constituants physiques/chimiques,1,Sondage vertical de l'ozone,Operational,PDF
+C13/8/2,8,Constituants physiques/chimiques,2,Ozone total,Operational,PDF
+C13/8/3,8,Constituants physiques/chimiques,3,Pluies acides,Operational,PDF
+C13/8/4,8,Constituants physiques/chimiques,4,,Operational,PDF
+C13/9/0,9,Dispersion et transport,0,Trajectoires - analyses ou prévisions,Operational,PDF
+C13/10/1,10,Données radiologiques,1,Observations (RADREP),Operational,PDF
+C13/10/2,10,Données radiologiques,2,Prévisions (RADOF),Operational,PDF
+C13/12/0,12,Données d'observation en surface,0,Produits UWA - ERS,Operational,PDF
+C13/12/1,12,Données d'observation en surface,1,Produits UWI - ERS,Operational,PDF
+C13/12/2,12,Données d'observation en surface,2,Produits URA - ERS,Operational,PDF
+C13/12/3,12,Données d'observation en surface,3,Produits UAT - ERS,Operational,PDF
+C13/12/4,12,Données d'observation en surface,4,Radiomètre SSM/I,Operational,PDF
+C13/12/5,12,Données d'observation en surface,5,Température de surface et rayonnement (SATOB),Operational,PDF
+C13/12/6,12,Données d'observation en surface,6,QuikSCAT,Operational,PDF
+C13/12/7,12,Données d'observation en surface,7,ASCAT,Operational,PDF
+C13/12/8,12,Données d'observation en surface,8,Humidité du sol,Operational,PDF
+C13/12/9,12,Données d'observation en surface,9,Indice différentiel normalisé de végétation (NDVI),Operational,PDF
+C13/12/10,12,Données d'observation en surface,10,Rétrodiffusion radar normalisée,Operational,PDF
+C13/12/11,12,Données d'observation en surface,11,Émissivité de la surface,Operational,PDF
+C13/12/12,12,Données d'observation en surface,12,Température de la surface de la mer,Operational,PDF
+C13/12/13,12,Données d'observation en surface,13,Précipitations,Operational,PDF
+C13/21/0,21,Luminance énergétique,0,Bilan radiatif de la Terre,Operational,PDF
+C13/21/5,21,Luminance énergétique,5,,Operational,PDF
+C13/21/6,21,Luminance énergétique,6,Sondeur hyperfréquence à technologie avancée,Operational,PDF
+C13/21/7,21,Luminance énergétique,7,Ensemble de radiomètres imageurs dans le spectre visible et l'infrarouge,Operational,PDF
+C13/22/0,22,,0,,Operational,NA
+C13/22/1,22,,1,,Operational,NA
+C13/23/0,23,,0,,Operational,NA
+C13/24/0,24,,0,,Operational,NA
+C13/25/0,25,,0,,Operational,NA
+C13/26/0,26,,0,,Operational,NA
+C13/26/1,26,,1,,Operational,NA
+C13/26/2,26,,2,,Operational,NA
+C13/26/3,26,,3,,Operational,NA
+C13/26/4,26,,4,,Operational,NA
+C13/30/0,30,Jeux de données d'étalonnage,0,Sous-ensemble de données,Operational,PDF
+C13/30/1,30,Jeux de données d'étalonnage,1,,Operational,PDF
+C13/30/2,30,Jeux de données d'étalonnage,2,Données d'étalonnage à bord,Operational,PDF
+C13/30/3,30,Jeux de données d'étalonnage,3,Suivi d'erreur systématique,Operational,PDF
+C13/30/4,30,Jeux de données d'étalonnage,4,Correction en temps quasi réel,Operational,PDF
+C13/30/5,30,Jeux de données d'étalonnage,5,Correction de réanalyse,Operational,PDF
+C13/31/0,31,Données océanographiques,0,Observations en surface,Operational,PDF
+C13/31/1,31,Données océanographiques,1,"Imagerie hyperfréquences (fréquences intermédiaires), balayage conique",Operational,PDF
+C13/31/2,31,Données océanographiques,2,Imagerie hyperfréquences (basses fréquences),Operational,PDF
+C13/31/3,31,Données océanographiques,3,Imagerie couleur de l'océan,Operational,PDF
+C13/31/4,31,Données océanographiques,4,"Imagerie, géométrie de visée spéciale",Operational,PDF
+C13/31/5,31,Données océanographiques,5,Imagerie de la foudre,Operational,PDF
+C13/31/6,31,Données océanographiques,6,Imagerie ondes courtes de grande résolution pour l'observation des terres émergées,Operational,PDF
+C13/31/7,31,Données océanographiques,7,Données SMOS,Operational,PDF
+C13/31/8,31,Données océanographiques,8,,Operational,PDF
+C13/32/0,32,,0,,Operational,NA
+C13/101/0,101,,0,,Operational,NA
+C13/101/1,101,,1,,Operational,NA
+C13/101/2,101,,2,,Operational,NA
+C13/101/3,101,,3,,Operational,NA
+C13/101/4,101,,4,,Operational,NA
+C13/101/5,101,,5,,Operational,NA
+C13/101/6,101,,6,,Operational,NA
+C13/101/7,101,,7,,Operational,NA

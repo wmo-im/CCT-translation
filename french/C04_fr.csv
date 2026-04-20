@@ -1,0 +1,44 @@
+ID,CodeFigureForXRXR,CodeFigureForBUFR,Meaning_fr,Status,translation_source
+C04/1,01,1,Enregistreur Sippican à papier déroulant,Operational,PDF
+C04/2,02,2,Sippican MK2A/SSQ-61,Operational,PDF
+C04/3,03,3,Sippican MK-9,Operational,PDF
+C04/4,04,4,Sippican AN/BHQ-7/MK8,Operational,PDF
+C04/5,05,5,Sippican MK-12,Operational,PDF
+C04/6,06,6,Sippican MK-21,Operational,PDF
+C04/7,07,7,Enregistreur linéaire Sippican MK-8,Operational,PDF
+C04/8,08,8,Sippican MK-10,Operational,PDF
+C04/10,10,10,Processeur Sparton SOC BT/SV modèle 100,Operational,PDF
+C04/11,11,11,Lockheed-Sanders Model OL5005,Operational,PDF
+C04/20,20,20,ARGOS XBT-ST,Operational,PDF
+C04/21,21,21,CLS-ARGOS/Protecno XBT-ST modèle 1,Operational,PDF
+C04/22,22,22,CLS-ARGOS/Protecno XBT-ST modèle 2,Operational,PDF
+C04/30,30,30,BATHY Systems SA-810,Operational,PDF
+C04/31,31,31,Contrôleur Scripps Metrobyte,Operational,PDF
+C04/32,32,32,Murayama Denki Z-60-16 III,Operational,PDF
+C04/33,33,33,Murayama Denki Z-60-16 II,Operational,PDF
+C04/34,34,34,Protecno ETSM2,Operational,PDF
+C04/35,35,35,Nautilus Marine Service NMS-XBT,Operational,PDF
+C04/40,40,40,TSK MK-2A,Operational,PDF
+C04/41,41,41,TSK MK-2S,Operational,PDF
+C04/42,42,42,TSK MK-30,Operational,PDF
+C04/43,43,43,TSK MK-30N,Operational,PDF
+C04/45,45,45,TSK MK-100,Operational,PDF
+C04/46,46,46,TSK MK-130 Enregistreur compatible pour XBT et XCTD,Operational,PDF
+C04/47,47,47,Enregistreur TSK MK-130A XCTD,Operational,PDF
+C04/48,48,48,tsk axbt receiver mk-300,Operational,PDF
+C04/49,49,49,TSK MK-150/MK-150N Enregistreur compatible pour XBT et XCTD,Operational,PDF
+C04/50,50,50,JMA ASTOS,Operational,PDF
+C04/60,60,60,"Communications ARGOS, échantillonnage pendant la montée",Operational,PDF
+C04/61,61,61,"Communications ARGOS, échantillonnage pendant la descente",Operational,PDF
+C04/62,62,62,"Communications Orbcomm, échantillonnage pendant la montée",Operational,PDF
+C04/63,63,63,"Communications Orbcomm, échantillonnage pendant la descente",Operational,PDF
+C04/64,64,64,"Communications Iridium, échantillonnage pendant la montée",Operational,PDF
+C04/65,65,65,"Communications Iridium, échantillonnage pendant la descente",Operational,PDF
+C04/70,70,70,Système d'acquisition de données XBT Devil-1 (CSIRO),Operational,PDF
+C04/71,71,71,Système d'acquisition de données XBT Devil-2 (CSIRO),Operational,PDF
+C04/72,72,72,Système d'acquisition de données TURO/CSIRO Quoll XBT,Operational,PDF
+C04/80,80,80,"Applied Microsystems Ltd., MICRO-SVT&P",Operational,PDF
+C04/81,81,81,"Sea Mammal Research Unit, Univ. St Andrews, Royaume-Uni, données non corrigées sur la salinité provenant d'un",Operational,PDF
+C04/82,82,82,"Sea Mammal Research Unit, Univ. St Andrews, Royaume-Uni, fixé sur un mammifère marin",Operational,PDF
+C04/99,99,99,Inconnu,Operational,PDF
+C04/127,,127,,Operational,NA

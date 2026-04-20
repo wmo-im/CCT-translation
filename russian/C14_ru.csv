@@ -1,0 +1,617 @@
+ID,CodeFigure,Meaning_ru,ChemicalFormula,Status,translation_source
+C14/0,0,Озон,O3,Operational,PDF
+C14/1,1,Водяной пар,H2O,Operational,PDF
+C14/2,2,Метан,CH4,Operational,PDF
+C14/3,3,Двуокись углерода,CO2,Operational,PDF
+C14/4,4,Оксид углерода,CO,Operational,PDF
+C14/5,5,Двуокись азота,NO2,Operational,PDF
+C14/6,6,Закись азота,N2O,Operational,PDF
+C14/7,7,Формальдегид,HCHO,Operational,PDF
+C14/8,8,Двуокись серы,SO2,Operational,PDF
+C14/9,9,Аммиак,NH3,Operational,PDF
+C14/10,10,Аммоний,NH4+,Operational,PDF
+C14/11,11,Закись азота,NO,Operational,PDF
+C14/12,12,Атомарный кислород,O,Operational,PDF
+C14/13,13,Нитрат-радикал,NO3*,Operational,PDF
+C14/14,14,Гидропероксил-радикал,HOO*,Operational,PDF
+C14/15,15,Пятиокись азота,N2O5,Operational,PDF
+C14/16,16,Азотистая кислота,HONO,Operational,PDF
+C14/17,17,Азотная кислота,HNO3,Operational,PDF
+C14/18,18,Пероксоазотная кислота,HO2NO2,Operational,PDF
+C14/19,19,Перекись водорода,H2O2,Operational,PDF
+C14/20,20,Диводород,H2,Operational,PDF
+C14/21,21,Атомарный азот,N,Operational,PDF
+C14/22,22,Сульфат-анион,SO42-,Operational,PDF
+C14/23,23,Атомный радон,Rn,Operational,PDF
+C14/24,24,Пары ртути,Hg(0),Operational,PDF
+C14/25,25,Катион ртути (II),Hg2+,Operational,PDF
+C14/26,26,Атомарный хлор,Cl,Operational,PDF
+C14/27,27,Окись хлора,ClO,Operational,PDF
+C14/28,28,Перекись хлора,Cl2O2,Operational,PDF
+C14/29,29,Хлорноватистая кислота,HClO,Operational,PDF
+C14/30,30,Нитрат хлора,ClONO2,Operational,PDF
+C14/31,31,Двуокись хлора,ClO2,Operational,PDF
+C14/32,32,Атомарный бром,Br,Operational,PDF
+C14/33,33,Окись брома,BrO,Operational,PDF
+C14/34,34,Хлорид брома,BrCl,Operational,PDF
+C14/35,35,Бромистый водород,HBr,Operational,PDF
+C14/36,36,Бромноватистая кислота,HBrO,Operational,PDF
+C14/37,37,Нитрат брома,BrONO2,Operational,PDF
+C14/38,38,Дикислород,O2,Operational,PDF
+C14/39,39,Хлорид нитрила,NO2Cl,Operational,PDF
+C14/40,40,Серная кислота,H2SO4,Operational,PDF
+C14/41,41,Сульфид водорода,H2S,Operational,PDF
+C14/42,42,Оксид серы (VI),SO3,Operational,PDF
+C14/43,43,Бром,Br2,Operational,PDF
+C14/44,44,Фтороводородная кислота,HF,Operational,PDF
+C14/45,45,Гексафторид серы,SF6,Operational,PDF
+C14/46,46,Хлор,Cl2,Operational,PDF
+C14/47-9999,47-9999,,,Operational,NA
+C14/10000,10000,Гидроксил-радикал,HO*,Operational,PDF
+C14/10001,10001,Метилпероксид (радикал),CH3OO*,Operational,PDF
+C14/10002,10002,Метилгидропероксид,CH3OOH,Operational,PDF
+C14/10004,10004,Метанол,CH3OH,Operational,PDF
+C14/10005,10005,Муравьиная кислота,HCOOH,Operational,PDF
+C14/10006,10006,Цианид водорода,HCN,Operational,PDF
+C14/10007,10007,Ацетонитрил,CH3CN,Operational,PDF
+C14/10008,10008,Этан,C2H6,Operational,PDF
+C14/10009,10009,Этен (= этилен),C2H4,Operational,PDF
+C14/10010,10010,Этин (= ацетилен),C2H2,Operational,PDF
+C14/10011,10011,Этанол,C2H5OH,Operational,PDF
+C14/10012,10012,Уксусная кислота,C2H5OOH,Operational,PDF
+C14/10013,10013,Пероксиацетилнитрат,CH3C(O)OONO2,Operational,PDF
+C14/10014,10014,Пропан,C3H8,Operational,PDF
+C14/10015,10015,Пропен,C3H6,Operational,PDF
+C14/10016,10016,Бутан (все изомеры),C4H10,Operational,PDF
+C14/10017,10017,Изопрен,C5H10,Operational,PDF
+C14/10018,10018,Альфа-пинен,C10H16,Operational,PDF
+C14/10019,10019,Бета-пинен,C10H16,Operational,PDF
+C14/10020,10020,Лимонен,C10H16,Operational,PDF
+C14/10021,10021,Бензол,C6H6,Operational,PDF
+C14/10022,10022,Толуол,C7H8,Operational,PDF
+C14/10023,10023,Ксилол,C8H10,Operational,PDF
+C14/10024,10024,Метансульфоновая кислота,CH3SO3H,Operational,PDF
+C14/10025,10025,Метилглиоксаль (2-оксопропаналь),CH3C(O)CHO,Operational,PDF
+C14/10026,10026,Пероксиацетил-радикал,CH3C(O)OO*,Operational,PDF
+C14/10027,10027,Метакриловая кислота (2-метил-2-пропеновая кислота),CH2C(CH3)COOH,Operational,PDF
+C14/10028,10028,Метакролеин (2-метилпропеналь),CH2C(CH3)CHO,Operational,PDF
+C14/10029,10029,Ацентон (пропан-2-он),CH3C(O)CH3,Operational,PDF
+C14/10030,10030,Этил-диоксиданил-радикал,CH3CH2OO*,Operational,PDF
+C14/10031,10031,"Бутадиен (бута-1,3-диен)",(CH2CH)2,Operational,PDF
+C14/10032,10032,Ацетальдегид (этаналь),CH3CHO,Operational,PDF
+C14/10033,10033,Гликольальдегид (гидроксиэтаналь),HOCH2CHO,Operational,PDF
+C14/10034,10034,"Крезол (метилфенол), все изомеры",CH3C6H4OH,Operational,PDF
+C14/10035,10035,Надуксусная кислота (пероксиуксусная кислота),CH3C(O)OOH,Operational,PDF
+C14/10036,10036,2-гидроксиэтил-оксиданил-радикал,HOCH2CH2O*,Operational,PDF
+C14/10037,10037,2-гидроксиэтил-диоксиданил-радикал,HOCH2CH2OO*,Operational,PDF
+C14/10038,10038,Глиоксаль (оксальдегид),OCHCHO,Operational,PDF
+C14/10039,10039,Изопропил-диоксиданил-радикал,(CH3)2CHOO*,Operational,PDF
+C14/10040,10040,Гидропероксид изопропила (2-гидропероксипропан),(CH3)2CHOOH,Operational,PDF
+C14/10041,10041,Гидроксиацетон (1-гидроксипропан-2-он),CH3C(O)CH2OH,Operational,PDF
+C14/10042,10042,Пероксиуксусная кислота (этанэпероксовая кислота),CH3C(O)OOH,Operational,PDF
+C14/10043,10043,Метилвинилкетон (3-бутен-2-он),CH3C(O)CHCH2,Operational,PDF
+C14/10044,10044,Фенокси-радикал,C6H5O*,Operational,PDF
+C14/10045,10045,Метил-радикал,CH3*,Operational,PDF
+C14/10046,10046,Сероксид углерода (сульфид-оксид углерода),OCS,Operational,PDF
+C14/10047,10047,Дибромметан,CH2Br2,Operational,PDF
+C14/10048,10048,Метокси-радикал,CH3O*,Operational,PDF
+C14/10049,10049,Трибромметан,CHBr3,Operational,PDF
+C14/10050,10050,Формил-радикал (оксометил-радикал),HOC*,Operational,PDF
+C14/10051,10051,Гидроксиметил-диоксиданил-радикал,HOCH2OO*,Operational,PDF
+C14/10052,10052,Гидроперикись этила,CH3CH2OOH,Operational,PDF
+C14/10053,10053,3-гидроксипропил-диоксиданил-радикал,HOCH2CH2CH2OO*,Operational,PDF
+C14/10054,10054,3-гидроксипропил гидропероксид,HOCH2CH2CH2OOH,Operational,PDF
+C14/10055,10055,,CH3OONO2,Operational,NA
+C14/10056,10056,,HOCH2C(CH3)(OO*)CHCH2,Operational,NA
+C14/10057,10057,,HOCH2CH(OO*)C(CH3)CH2,Operational,NA
+C14/10058,10058,,CH2(OOH)CHC(CH3)CHO,Operational,NA
+C14/10059,10059,,CH2(OOH)C(CH3)CHCHO,Operational,NA
+C14/10060,10060,,C4H8,Operational,NA
+C14/10061,10061,,C5H10,Operational,NA
+C14/10062,10062,,C6H12,Operational,NA
+C14/10063,10063,,C7H14,Operational,NA
+C14/10064,10064,,C8H16,Operational,NA
+C14/10065,10065,,C5H12,Operational,NA
+C14/10066,10066,,C6H14,Operational,NA
+C14/10067,10067,,C7H16,Operational,NA
+C14/10068,10068,,C8H18,Operational,NA
+C14/10069-10499,10069-10499,,,Operational,NA
+C14/10500,10500,Диметилсульфид,CH3SCH3 (DMS),Operational,PDF
+C14/10501,10501,ДМСО (диметилсульфоксид),(CH3)2SO,Operational,PDF
+C14/10502-20000,10502-20000,,,Operational,NA
+C14/20001,20001,Хлористый водород,HCl,Operational,PDF
+C14/20002,20002,ХФУ-11 (трихлорфторметан),CCl3F,Operational,PDF
+C14/20003,20003,ХФУ-12 (дихлордифторметан),CCl2F2,Operational,PDF
+C14/20004,20004,"ХФУ-113 (1,1,2-трихлор-1,2,2-трифторэтан)",Cl2FC-CClF2,Operational,PDF
+C14/20005,20005,"ХФУ-113a (1,1,1-трихлор -2,2,2-трифторэтан)",Cl3C-CF3,Operational,PDF
+C14/20006,20006,"ХФУ-114 (1,2-дихлор-1,1,2,2-тетрафтоэтан)",ClF2C-CClF2,Operational,PDF
+C14/20007,20007,"ХФУ-115 (1-хлор-1,1,2,2,2-пентафтоэтан)",ClF2C-CF3,Operational,PDF
+C14/20008,20008,ГФХУ-22 (дифтормонохлорметан),CHClF2,Operational,PDF
+C14/20009,20009,"ГФХУ-141b (1,1-дихлор-1-фторэтан)",Cl2FC-CH3,Operational,PDF
+C14/20010,20010,"ГФХУ-142b (1-хлор-1,1-дифторэтан)",ClF2C-CH3,Operational,PDF
+C14/20011,20011,Галон-1202 (дибромдифторметан),CBr2F2,Operational,PDF
+C14/20012,20012,Галон-1211 (бромхлордифтометан),CBrClF2,Operational,PDF
+C14/20013,20013,Галон-1301 (бромтрифторметан),CBrF3,Operational,PDF
+C14/20014,20014,"Галон-2402 (1,2-дибром-1,1,2,2-тетрафторэтан)",BrF2C-CBrF2,Operational,PDF
+C14/20015,20015,,CH3Cl,Operational,NA
+C14/20016,20016,,CCl4,Operational,NA
+C14/20017,20017,,Cl3C-CH3,Operational,NA
+C14/20018,20018,,CH3Br,Operational,NA
+C14/20019,20019,HCH (гексахлорциклогексан) все изомеры,C6H6Cl6,Operational,PDF
+C14/20020,20020,α -HCH ( α -гексахлорциклогексан) оба энантиомера,&alpha;-C6H6Cl6,Operational,PDF
+C14/20021,20021,"ПСБ-153 (2,2',4,4',5,5'-гексахлорбифенил)",(C6H2Cl3)2,Operational,PDF
+C14/20022,20022,"ГФХУ-141a (1,1-дихлор-2-фторэтан)",Cl2HC-CH2F,Operational,PDF
+C14/20023-29999,20023-29999,,,Operational,NA
+C14/30000,30000,"Радиоактивное загрязняющее вещество (трассер, определяется центром-поставщиком)",,Operational,PDF
+C14/30001-30009,30001-30009,,,Operational,NA
+C14/30010,30010,Тритий (водород 3),H-3,Operational,PDF
+C14/30011,30011,Тритий связанный органически,H-3o,Operational,PDF
+C14/30012,30012,Тритий неорганический,H-3a,Operational,PDF
+C14/30013,30013,Бериллий-7,Be-7,Operational,PDF
+C14/30014,30014,Бериллий-10,Be-10,Operational,PDF
+C14/30015,30015,,C-14,Operational,NA
+C14/30016,30016,,C-14CO2,Operational,NA
+C14/30017,30017,,C-14og,Operational,NA
+C14/30018,30018,Азот-13,N-13,Operational,PDF
+C14/30019,30019,Азот-16,N-16,Operational,PDF
+C14/30020,30020,Фтор-18,F-18,Operational,PDF
+C14/30021,30021,Натрий-22,Na-22,Operational,PDF
+C14/30022,30022,Фосфат-32,P-32,Operational,PDF
+C14/30023,30023,Фосфат-33,P-33,Operational,PDF
+C14/30024,30024,Сера-35,S-35,Operational,PDF
+C14/30025,30025,Хлор-36,Cl-36,Operational,PDF
+C14/30026,30026,Калий-40,K-40,Operational,PDF
+C14/30027,30027,Аргон-41,Ar-41,Operational,PDF
+C14/30028,30028,Кальций-41,Ca-41,Operational,PDF
+C14/30029,30029,Кальций-45,Ca-45,Operational,PDF
+C14/30030,30030,Титан-44,Ti-44,Operational,PDF
+C14/30031,30031,,Sc-46,Operational,NA
+C14/30032,30032,Ванадий-48,V-48,Operational,PDF
+C14/30033,30033,Ванадий-49,V-49,Operational,PDF
+C14/30034,30034,Хром-51,Cr-51,Operational,PDF
+C14/30035,30035,Марганец-52,Mn-52,Operational,PDF
+C14/30036,30036,Марганец-54,Mn-54,Operational,PDF
+C14/30037,30037,Железо-55,Fe-55,Operational,PDF
+C14/30038,30038,Железо-59,Fe-59,Operational,PDF
+C14/30039,30039,Кобальт-56,Co-56,Operational,PDF
+C14/30040,30040,Кобальт-57,Co-57,Operational,PDF
+C14/30041,30041,Кобальт-58,Co-58,Operational,PDF
+C14/30042,30042,Кобальт-60,Co-60,Operational,PDF
+C14/30043,30043,Никель-59,Ni-59,Operational,PDF
+C14/30044,30044,Никель-63,Ni-63,Operational,PDF
+C14/30045,30045,Цинк-65,Zn-65,Operational,PDF
+C14/30046,30046,Галлий-67,Ga-67,Operational,PDF
+C14/30047,30047,Галлий-68,Ga-68,Operational,PDF
+C14/30048,30048,Германий-68,Ge-68,Operational,PDF
+C14/30049,30049,Германий-69,Ge-69,Operational,PDF
+C14/30050,30050,Мышьяк-73,As-73,Operational,PDF
+C14/30051,30051,Селен-75,Se-75,Operational,PDF
+C14/30052,30052,Селен-79,Se-79,Operational,PDF
+C14/30053,30053,Рубидий-81,Rb-81,Operational,PDF
+C14/30054,30054,Рубидий-83,Rb-83,Operational,PDF
+C14/30055,30055,Рубидий-84,Rb-84,Operational,PDF
+C14/30056,30056,Рубидий-86,Rb-86,Operational,PDF
+C14/30057,30057,Рубидий-87,Rb-87,Operational,PDF
+C14/30058,30058,Рубидий-88,Rb-88,Operational,PDF
+C14/30059,30059,Криптон-85,Kr-85,Operational,PDF
+C14/30060,30060,Криптон-85 метастабильный,Kr-85m,Operational,PDF
+C14/30061,30061,Криптон-87,Kr-87,Operational,PDF
+C14/30062,30062,Криптон-88,Kr-88,Operational,PDF
+C14/30063,30063,Криптон-89,Kr-89,Operational,PDF
+C14/30064,30064,Стронций-85,Sr-85,Operational,PDF
+C14/30065,30065,Стронций-89,Sr-89,Operational,PDF
+C14/30066,30066,Стронций-89/90,Sr-8990,Operational,PDF
+C14/30067,30067,Стронций-90,Sr-90,Operational,PDF
+C14/30068,30068,Стронций-91,Sr-91,Operational,PDF
+C14/30069,30069,Стронций-92,Sr-92,Operational,PDF
+C14/30070,30070,Иттрий-87,Y-87,Operational,PDF
+C14/30071,30071,Иттрий-88,Y-88,Operational,PDF
+C14/30072,30072,Иттрий-90,Y-90,Operational,PDF
+C14/30073,30073,Иттрий-91,Y-91,Operational,PDF
+C14/30074,30074,Иттрий-91 метастабильный,Y-91m,Operational,PDF
+C14/30075,30075,Иттрий-92,Y-92,Operational,PDF
+C14/30076,30076,Иттрий-93,Y-93,Operational,PDF
+C14/30077,30077,Цирконий-89,Zr-89,Operational,PDF
+C14/30078,30078,Цирконий-93,Zr-93,Operational,PDF
+C14/30079,30079,Цирконий-95,Zr-95,Operational,PDF
+C14/30080,30080,Цирконий-97,Zr-97,Operational,PDF
+C14/30081,30081,Ниобий-93 метастабильный,Nb-93m,Operational,PDF
+C14/30082,30082,Ниобий-94,Nb-94,Operational,PDF
+C14/30083,30083,Ниобий-95,Nb-95,Operational,PDF
+C14/30084,30084,Ниобий-95 метастабильный,Nb-95m,Operational,PDF
+C14/30085,30085,Ниобий-97,Nb-97,Operational,PDF
+C14/30086,30086,Ниобий-97 метастабильный,Nb-97m,Operational,PDF
+C14/30087,30087,Молибден-93,Mo-93,Operational,PDF
+C14/30088,30088,Молибден-99,Mo-99,Operational,PDF
+C14/30089,30089,,Tc-95m,Operational,NA
+C14/30090,30090,,Tc-96,Operational,NA
+C14/30091,30091,,Tc-99,Operational,NA
+C14/30092,30092,,Tc-99m,Operational,NA
+C14/30093,30093,Родий-99,Rh-99,Operational,PDF
+C14/30094,30094,Родий-101,Rh-101,Operational,PDF
+C14/30095,30095,Родий-102 метастабильный,Rh-102m,Operational,PDF
+C14/30096,30096,Родий-103 метастабильный,Rh-103m,Operational,PDF
+C14/30097,30097,Родий-105,Rh-105,Operational,PDF
+C14/30098,30098,Родий-106,Rh-106,Operational,PDF
+C14/30099,30099,Палладий-100,Pd-100,Operational,PDF
+C14/30100,30100,Палладий-103,Pd-103,Operational,PDF
+C14/30101,30101,Палладий-107,Pd-107,Operational,PDF
+C14/30102,30102,Рутений-103,Ru-103,Operational,PDF
+C14/30103,30103,Рутений-105,Ru-105,Operational,PDF
+C14/30104,30104,Рутений-106,Ru-106,Operational,PDF
+C14/30105,30105,Серебро-108 метастабильный,Ag-108m,Operational,PDF
+C14/30106,30106,Серебро-110 метастабильный,Ag-110m,Operational,PDF
+C14/30107,30107,Кадмий-109,Cd-109,Operational,PDF
+C14/30108,30108,Кадмий-113 метастабильный,Cd-113m,Operational,PDF
+C14/30109,30109,Кадмий-115 метастабильный,Cd-115m,Operational,PDF
+C14/30110,30110,Индий-114 метастабильный,In-114m,Operational,PDF
+C14/30111,30111,Олово-113,Sn-113,Operational,PDF
+C14/30112,30112,Олово-119 метастабильный,Sn-119m,Operational,PDF
+C14/30113,30113,Олово-121 метастабильный,Sn-121m,Operational,PDF
+C14/30114,30114,Олово-122,Sn-122,Operational,PDF
+C14/30115,30115,Олово-123,Sn-123,Operational,PDF
+C14/30116,30116,Олово-126,Sn-126,Operational,PDF
+C14/30117,30117,Сурьма-124,Sb-124,Operational,PDF
+C14/30118,30118,Сурьма-125,Sb-125,Operational,PDF
+C14/30119,30119,Сурьма-126,Sb-126,Operational,PDF
+C14/30120,30120,Сурьма-127,Sb-127,Operational,PDF
+C14/30121,30121,Сурьма-129,Sb-129,Operational,PDF
+C14/30122,30122,Теллур-123 метастабильный,Te-123m,Operational,PDF
+C14/30123,30123,Теллур-125 метастабильный,Te-125m,Operational,PDF
+C14/30124,30124,Теллур-127,Te-127,Operational,PDF
+C14/30125,30125,Теллур-127 метастабильный,Te-127m,Operational,PDF
+C14/30126,30126,Теллур-129,Te-129,Operational,PDF
+C14/30127,30127,Теллур-129 метастабильный,Te-129m,Operational,PDF
+C14/30128,30128,Теллур-131 метастабильный,Te-131m,Operational,PDF
+C14/30129,30129,Теллур-132,Te-132,Operational,PDF
+C14/30130,30130,Йод-123,I-123,Operational,PDF
+C14/30131,30131,Йод-124,I-124,Operational,PDF
+C14/30132,30132,Йод-125,I-125,Operational,PDF
+C14/30133,30133,Йод-126,I-126,Operational,PDF
+C14/30134,30134,Йод-129,I-129,Operational,PDF
+C14/30135,30135,Йод-129 элементарный газообразный,I-129g,Operational,PDF
+C14/30136,30136,Йод-129 связанный органически,I-129o,Operational,PDF
+C14/30137,30137,Йод-131,I-131,Operational,PDF
+C14/30138,30138,Йод-131 элементарный газообразный,I-131g,Operational,PDF
+C14/30139,30139,Йод-131 связанный органически,I-131o,Operational,PDF
+C14/30140,30140,Йод-131 газообразный элементарный,I-131go,Operational,PDF
+C14/30141,30141,Йод-131 в аэрозоле,I-131a,Operational,PDF
+C14/30142,30142,Йод-132,I-132,Operational,PDF
+C14/30143,30143,Йод-132 элементарный газообразный,I-132g,Operational,PDF
+C14/30144,30144,Йод-132 связанный органически,I-132o,Operational,PDF
+C14/30145,30145,Йод-132 газообразный элементарный,I-132go,Operational,PDF
+C14/30146,30146,Йод-132 в аэрозоле,I-132a,Operational,PDF
+C14/30147,30147,Йод-133,I-133,Operational,PDF
+C14/30148,30148,Йод-133 элементарный газообразный,I-133g,Operational,PDF
+C14/30149,30149,Йод-133 связанный органически,I-133o,Operational,PDF
+C14/30150,30150,Йод-133 газообразный элементарный,I-133go,Operational,PDF
+C14/30151,30151,Йод-133 в аэрозоле,I-133a,Operational,PDF
+C14/30152,30152,Йод-134,I-134,Operational,PDF
+C14/30153,30153,Йод-134 элементарный газообразный,I-134g,Operational,PDF
+C14/30154,30154,Йод-134 связанный органически,I-134o,Operational,PDF
+C14/30155,30155,Йод-135,I-135,Operational,PDF
+C14/30156,30156,Йод-135 элементарный газообразный,I-135g,Operational,PDF
+C14/30157,30157,Йод-135 связанный органически,I-135o,Operational,PDF
+C14/30158,30158,Йод-135 газообразный элементарный,I-135go,Operational,PDF
+C14/30159,30159,Йод-135 в аэрозоле,I-135a,Operational,PDF
+C14/30160,30160,Ксенон-131 метастабильный,Xe-131m,Operational,PDF
+C14/30161,30161,Ксенон-133,Xe-133,Operational,PDF
+C14/30162,30162,Ксенон-133 метастабильный,Xe-133m,Operational,PDF
+C14/30163,30163,Ксенон-135,Xe-135,Operational,PDF
+C14/30164,30164,Ксенон-135 метастабильный,Xe-135m,Operational,PDF
+C14/30165,30165,Ксенон-137,Xe-137,Operational,PDF
+C14/30166,30166,Ксенон-138,Xe-138,Operational,PDF
+C14/30167,30167,Сумма всех изотопов ксенона,Xe-sum,Operational,PDF
+C14/30168,30168,Цезий-131,Cs-131,Operational,PDF
+C14/30169,30169,Цезий-134,Cs-134,Operational,PDF
+C14/30170,30170,Цезий-135,Cs-135,Operational,PDF
+C14/30171,30171,Цезий-136,Cs-136,Operational,PDF
+C14/30172,30172,Цезий-137,Cs-137,Operational,PDF
+C14/30173,30173,Барий-133,Ba-133,Operational,PDF
+C14/30174,30174,Барий-137 метастабильный,Ba-137m,Operational,PDF
+C14/30175,30175,Барий-140,Ba-140,Operational,PDF
+C14/30176,30176,Церий-139,Ce-139,Operational,PDF
+C14/30177,30177,Церий-141,Ce-141,Operational,PDF
+C14/30178,30178,Церий-143,Ce-143,Operational,PDF
+C14/30179,30179,Церий-144,Ce-144,Operational,PDF
+C14/30180,30180,Лантан-140,La-140,Operational,PDF
+C14/30181,30181,Лантан-141,La-141,Operational,PDF
+C14/30182,30182,Празеодимий-143,Pr-143,Operational,PDF
+C14/30183,30183,Празеодимий-144,Pr-144,Operational,PDF
+C14/30184,30184,Празеодимий-144 метастабильный,Pr-144m,Operational,PDF
+C14/30185,30185,Самарий-145,Sm-145,Operational,PDF
+C14/30186,30186,Самарий-147,Sm-147,Operational,PDF
+C14/30187,30187,Самарий-151,Sm-151,Operational,PDF
+C14/30188,30188,Неодим-147,Nd-147,Operational,PDF
+C14/30189,30189,Прометий-146,Pm-146,Operational,PDF
+C14/30190,30190,Прометий-147,Pm-147,Operational,PDF
+C14/30191,30191,Прометий-151,Pm-151,Operational,PDF
+C14/30192,30192,Европий-152,Eu-152,Operational,PDF
+C14/30193,30193,Европий-154,Eu-154,Operational,PDF
+C14/30194,30194,Европий-155,Eu-155,Operational,PDF
+C14/30195,30195,Гадолиний-153,Gd-153,Operational,PDF
+C14/30196,30196,Тербий-160,Tb-160,Operational,PDF
+C14/30197,30197,Гольмий-166 метастабильный,Ho-166m,Operational,PDF
+C14/30198,30198,Тулий-170,Tm-170,Operational,PDF
+C14/30199,30199,Иттербий-169,Yb-169,Operational,PDF
+C14/30200,30200,Гафний-175,Hf-175,Operational,PDF
+C14/30201,30201,Гафний-181,Hf-181,Operational,PDF
+C14/30202,30202,Тантал-179,Ta-179,Operational,PDF
+C14/30203,30203,Тантал-182,Ta-182,Operational,PDF
+C14/30204,30204,Рений-184,Re-184,Operational,PDF
+C14/30205,30205,Иридий-192,Ir-192,Operational,PDF
+C14/30206,30206,Mercury-203,Hg-203,Operational,PDF
+C14/30207,30207,Таллий-204,Tl-204,Operational,PDF
+C14/30208,30208,Таллий-207,Tl-207,Operational,PDF
+C14/30209,30209,Таллий-208,Tl-208,Operational,PDF
+C14/30210,30210,Таллий-209,Tl-209,Operational,PDF
+C14/30211,30211,Висмут-205,Bi-205,Operational,PDF
+C14/30212,30212,Висмут-207,Bi-207,Operational,PDF
+C14/30213,30213,Висмут-210,Bi-210,Operational,PDF
+C14/30214,30214,Висмут-211,Bi-211,Operational,PDF
+C14/30215,30215,Висмут-212,Bi-212,Operational,PDF
+C14/30216,30216,Висмут-213,Bi-213,Operational,PDF
+C14/30217,30217,Висмут-214,Bi-214,Operational,PDF
+C14/30218,30218,Полоний-208,Po-208,Operational,PDF
+C14/30219,30219,Полоний-210,Po-210,Operational,PDF
+C14/30220,30220,Полоний-212,Po-212,Operational,PDF
+C14/30221,30221,Полоний-213,Po-213,Operational,PDF
+C14/30222,30222,Полоний-214,Po-214,Operational,PDF
+C14/30223,30223,Полоний-215,Po-215,Operational,PDF
+C14/30224,30224,Полоний-216,Po-216,Operational,PDF
+C14/30225,30225,Полоний-218,Po-218,Operational,PDF
+C14/30226,30226,Свинец-209,Pb-209,Operational,PDF
+C14/30227,30227,Свинец-210,Pb-210,Operational,PDF
+C14/30228,30228,Свинец-211,Pb-211,Operational,PDF
+C14/30229,30229,Свинец-212,Pb-212,Operational,PDF
+C14/30230,30230,Свинец-214,Pb-214,Operational,PDF
+C14/30231,30231,Астат-217,At-217,Operational,PDF
+C14/30232,30232,Радон-219,Rn-219,Operational,PDF
+C14/30233,30233,Радон-220,Rn-220,Operational,PDF
+C14/30234,30234,Радон-222,Rn-222,Operational,PDF
+C14/30235,30235,Франций-221,Fr-221,Operational,PDF
+C14/30236,30236,Франций-223,Fr-223,Operational,PDF
+C14/30237,30237,Радий-223,Ra-223,Operational,PDF
+C14/30238,30238,Радий-224,Ra-224,Operational,PDF
+C14/30239,30239,Радий-225,Ra-225,Operational,PDF
+C14/30240,30240,Радий-226,Ra-226,Operational,PDF
+C14/30241,30241,Радий-228,Ra-228,Operational,PDF
+C14/30242,30242,,Ac-225,Operational,NA
+C14/30243,30243,,Ac-227,Operational,NA
+C14/30244,30244,,Ac-228,Operational,NA
+C14/30245,30245,Торий-227,Th-227,Operational,PDF
+C14/30246,30246,Торий-228,Th-228,Operational,PDF
+C14/30247,30247,Торий-229,Th-229,Operational,PDF
+C14/30248,30248,Торий-230,Th-230,Operational,PDF
+C14/30249,30249,Торий-231,Th-231,Operational,PDF
+C14/30250,30250,Торий-232,Th-232,Operational,PDF
+C14/30251,30251,Торий-234,Th-234,Operational,PDF
+C14/30252,30252,Протактиний-231,Pa-231,Operational,PDF
+C14/30253,30253,Протактиний-233,Pa-233,Operational,PDF
+C14/30254,30254,Протактиний-234 метастабильный,Pa-234m,Operational,PDF
+C14/30255,30255,Уран-232,U-232,Operational,PDF
+C14/30256,30256,Уран-233,U-233,Operational,PDF
+C14/30257,30257,Уран-234,U-234,Operational,PDF
+C14/30258,30258,Уран-235,U-235,Operational,PDF
+C14/30259,30259,Уран-236,U-236,Operational,PDF
+C14/30260,30260,Уран-237,U-237,Operational,PDF
+C14/30261,30261,Уран-238,U-238,Operational,PDF
+C14/30262,30262,Плутоний-236,Pu-236,Operational,PDF
+C14/30263,30263,Плутоний-238,Pu-238,Operational,PDF
+C14/30264,30264,Плутоний-239,Pu-239,Operational,PDF
+C14/30265,30265,Плутоний-240,Pu-240,Operational,PDF
+C14/30266,30266,Плутоний-241,Pu-241,Operational,PDF
+C14/30267,30267,Плутоний-242,Pu-242,Operational,PDF
+C14/30268,30268,Плутоний-244,Pu-244,Operational,PDF
+C14/30269,30269,Нептуний-237,Np-237,Operational,PDF
+C14/30270,30270,Нептуний-238,Np-238,Operational,PDF
+C14/30271,30271,Нептуний-239,Np-239,Operational,PDF
+C14/30272,30272,Америций-241,Am-241,Operational,PDF
+C14/30273,30273,Америций-242,Am-242,Operational,PDF
+C14/30274,30274,Америций-242 метастабильный,Am-242m,Operational,PDF
+C14/30275,30275,Америций-243,Am-243,Operational,PDF
+C14/30276,30276,Кюрий-242,Cm-242,Operational,PDF
+C14/30277,30277,Кюрий-243,Cm-243,Operational,PDF
+C14/30278,30278,Кюрий-244,Cm-244,Operational,PDF
+C14/30279,30279,Кюрий-245,Cm-245,Operational,PDF
+C14/30280,30280,Кюрий-246,Cm-246,Operational,PDF
+C14/30281,30281,Кюрий-247,Cm-247,Operational,PDF
+C14/30282,30282,Кюрий-248,Cm-248,Operational,PDF
+C14/30283,30283,Кюрий-243/244,Cm-243244,Operational,PDF
+C14/30284,30284,Плутоний-238/Америций-241,Pu-238Am-241,Operational,PDF
+C14/30285,30285,Плутоний-239/240,Pu-239240,Operational,PDF
+C14/30286,30286,Берклий-249,Bk-249,Operational,PDF
+C14/30287,30287,Калифорний-249,Cf-249,Operational,PDF
+C14/30288,30288,Калифорний-250,Cf-250,Operational,PDF
+C14/30289,30289,Калифорний-252,Cf-252,Operational,PDF
+C14/30290,30290,Сумма аэрозольных частиц,SumAer,Operational,PDF
+C14/30291,30291,Суммарный йод,SumIod,Operational,PDF
+C14/30292,30292,Сумма благородных газов,SumNG,Operational,PDF
+C14/30293,30293,Активационный газ,ActGas,Operational,PDF
+C14/30294,30294,Cs-137 эквивалент,EquCs137,Operational,PDF
+C14/30295,30295,,C-13,Operational,NA
+C14/30296,30296,Свинец,Pb,Operational,PDF
+C14/30297,30297,,Te-131,Operational,NA
+C14/30298,30298,,Nd-137,Operational,NA
+C14/30299,30299,,,Operational,NA
+C14/30300,30300,,Ag-112,Operational,NA
+C14/30301,30301,,Ag-115,Operational,NA
+C14/30302,30302,,Ba-139,Operational,NA
+C14/30303,30303,,Ba-141,Operational,NA
+C14/30304,30304,,Ba-142,Operational,NA
+C14/30305,30305,,Br-84,Operational,NA
+C14/30306,30306,,Cd-115,Operational,NA
+C14/30307,30307,,Cd-117,Operational,NA
+C14/30308,30308,,Cd-117m,Operational,NA
+C14/30309,30309,,Ce-145,Operational,NA
+C14/30310,30310,,Ce-146,Operational,NA
+C14/30311,30311,,Co-58m,Operational,NA
+C14/30312,30312,,Cs-138,Operational,NA
+C14/30313,30313,,Cs-139,Operational,NA
+C14/30314,30314,,I-130a,Operational,NA
+C14/30315,30315,,I-130e,Operational,NA
+C14/30316,30316,,I-130o,Operational,NA
+C14/30317,30317,,I-132m,Operational,NA
+C14/30318,30318,,I-134m,Operational,NA
+C14/30319,30319,,In-115m,Operational,NA
+C14/30320,30320,,In-117m,Operational,NA
+C14/30321,30321,,Kr-83m,Operational,NA
+C14/30322,30322,,La-142,Operational,NA
+C14/30323,30323,,La-143,Operational,NA
+C14/30324,30324,,Mn-56,Operational,NA
+C14/30325,30325,,Mo-101,Operational,NA
+C14/30326,30326,,Mo-102,Operational,NA
+C14/30327,30327,,Nd-149,Operational,NA
+C14/30328,30328,,Nd-151,Operational,NA
+C14/30329,30329,,Pd-109,Operational,NA
+C14/30330,30330,,Pd-112,Operational,NA
+C14/30331,30331,,Pr-145,Operational,NA
+C14/30332,30332,,Pr-146,Operational,NA
+C14/30333,30333,,Pr-147,Operational,NA
+C14/30334,30334,,Rb-89,Operational,NA
+C14/30335,30335,,Rb-90,Operational,NA
+C14/30336,30336,,Rb-90m,Operational,NA
+C14/30337,30337,,Rh-105m,Operational,NA
+C14/30338,30338,,Rh-107,Operational,NA
+C14/30339,30339,,Sb-128,Operational,NA
+C14/30340,30340,,Sb-128m,Operational,NA
+C14/30341,30341,,Sb-129m,Operational,NA
+C14/30342,30342,,Sb-130,Operational,NA
+C14/30343,30343,,Sb-130m,Operational,NA
+C14/30344,30344,,Sb-131,Operational,NA
+C14/30345,30345,,Sb-132,Operational,NA
+C14/30346,30346,,Sb-132m,Operational,NA
+C14/30347,30347,,Sb-133,Operational,NA
+C14/30348,30348,,Se-83,Operational,NA
+C14/30349,30349,,Sn-127,Operational,NA
+C14/30350,30350,,Sn-127m,Operational,NA
+C14/30351,30351,,Sn-128,Operational,NA
+C14/30352,30352,,Sn-129m,Operational,NA
+C14/30353,30353,,Sn-130,Operational,NA
+C14/30354,30354,,Sr-93,Operational,NA
+C14/30355,30355,,Tc-101,Operational,NA
+C14/30356,30356,,Tc-102,Operational,NA
+C14/30357,30357,,Tc-104,Operational,NA
+C14/30358,30358,,Tc-105,Operational,NA
+C14/30359,30359,,Te-133,Operational,NA
+C14/30360,30360,,Te-133m,Operational,NA
+C14/30361,30361,,Te-134,Operational,NA
+C14/30362,30362,,Y-93m,Operational,NA
+C14/30363,30363,,Y-94,Operational,NA
+C14/30364,30364,,Y-95,Operational,NA
+C14/30365,30365,,Zr-96,Operational,NA
+C14/30366,30366,,In-117,Extension,NA
+C14/30367,30367,,Pb-203,Extension,NA
+C14/30368,30368,,Na-24,Extension,NA
+C14/30369,30369,,Ru-107,Extension,NA
+C14/30370,30370,,U-239,Extension,NA
+C14/30371-39999,30371-39999,,,Operational,NA
+C14/40000,40000,Синглетный сигма-кислород (дикислород (сигма-синглет)),O2(1&Sigma;+g),Operational,PDF
+C14/40001,40001,Синглетный дельта-кислород (дикислород (дельта-синглет)),O2(1&Delta;g),Operational,PDF
+C14/40002,40002,Синглетный возбужденный атом кислорода,O(1D),Operational,PDF
+C14/40003,40003,Атом кислорода в триплетном основном состоянии,O(3P),Operational,PDF
+C14/40004-59999,40004-59999,,,Operational,NA
+C14/60000,60000,HO радикал (OH+HO ),HOx*,Operational,PDF
+C14/60001,60001,Суммарные неорганические и органические перекисные радикалы (HO • + RO •) 2 2,ROO*,Operational,PDF
+C14/60002,60002,Пассивный озон,,Operational,PDF
+C14/60003,60003,"NO , выраженный как азот",NOx,Operational,PDF
+C14/60004,60004,"Все окислы азота (NO ), выраженные как азот",NOy,Operational,PDF
+C14/60005,60005,Суммарный неорганический хлор,Clx,Operational,PDF
+C14/60006,60006,Суммарный неорганический бром,Brx,Operational,PDF
+C14/60007,60007,"Суммарный неорганический хлор, кроме HCl, ClONO : ClO 2 x",,Operational,PDF
+C14/60008,60008,"Суммарный неорганический бром, кроме HBr, BrONO : BrO 2 x",,Operational,PDF
+C14/60009,60009,Агрегированные алканы,,Operational,PDF
+C14/60010,60010,Агрегированные алкены,,Operational,PDF
+C14/60011,60011,Агрегированные ароматические соединения,,Operational,PDF
+C14/60012,60012,Агрегированные терпены,,Operational,PDF
+C14/60013,60013,"Неметановые летучие органические соединения,",NMVOC,Operational,PDF
+C14/60014,60014,"Неметановые летучие органические соединения антропогенного происхождения, выраженные",aNMVOC,Operational,PDF
+C14/60015,60015,Биогенные летучие неметановые органические,bNMVOC,Operational,PDF
+C14/60016,60016,Агрегированные кислородсодержащие,OVOC,Operational,PDF
+C14/60017,60017,"NOx, выраженные как двуокись азота (NO ) 2",NOx,Operational,PDF
+C14/60018,60018,Органические альдегиды,RCHO,Operational,PDF
+C14/60019,60019,Органические пероксиды,ROOH,Operational,PDF
+C14/60020,60020,Органические нитраты,RNO3,Operational,PDF
+C14/60021,60021,Эфиры,ROR',Operational,PDF
+C14/60022,60022,Амины,NRR'R'',Operational,PDF
+C14/60023,60023,Кетоны,RC(O)R',Operational,PDF
+C14/60024,60024,Ненасыщенные дикарбонилы,RC(O)CH2C(O)R',Operational,PDF
+C14/60025,60025,Ненасыщенные гидроксидикарбонилы,RC(O)CHOHC(O)R',Operational,PDF
+C14/60026,60026,Гидроксикетоны,RC(OH)C(O)R',Operational,PDF
+C14/60027,60027,Оксиды,Ox,Operational,PDF
+C14/60028,60028,,RC(O)OONO2,Operational,NA
+C14/60029,60029,,ArOO*,Operational,NA
+C14/60030,60030,,,Operational,NA
+C14/60031,60031,,,Operational,NA
+C14/60032,60032,,ISOPOOH,Operational,NA
+C14/60033,60033,,aVOC,Operational,NA
+C14/60034,60034,,bbVOC,Operational,NA
+C14/60035,60035,,,Operational,NA
+C14/60036-61999,60036-61999,,,Operational,NA
+C14/62000,62000,Суммарный аэрозоль,,Operational,PDF
+C14/62001,62001,Сухая пыль,,Operational,PDF
+C14/62002,62002,Вода в окружающей среде,,Operational,PDF
+C14/62003,62003,Сухой аммоний,,Operational,PDF
+C14/62004,62004,Сухой нитрат,,Operational,PDF
+C14/62005,62005,Тригидрат азотной кислоты,,Operational,PDF
+C14/62006,62006,Сухой сульфат,,Operational,PDF
+C14/62007,62007,Сухая ртуть,,Operational,PDF
+C14/62008,62008,Сухая морская соль,,Operational,PDF
+C14/62009,62009,Сухой технический углерод,,Operational,PDF
+C14/62010,62010,Сухие твердые органические частицы,,Operational,PDF
+C14/62011,62011,Первичные сухие твердые органические частицы,,Operational,PDF
+C14/62012,62012,Вторичные сухие твердые органические частицы,,Operational,PDF
+C14/62013,62013,Сухой гидрофильный технический углерод,,Operational,PDF
+C14/62014,62014,Сухой гидрофобный технический углерод,,Operational,PDF
+C14/62015,62015,Сухие гидрофильные твердые органические частицы,,Operational,PDF
+C14/62016,62016,Сухие гидрофобные твердые органические частицы,,Operational,PDF
+C14/62017,62017,Сухой гидрофильный нитрат,,Operational,PDF
+C14/62018,62018,Сухой гидрофобный нитрат,,Operational,PDF
+C14/62019,62019,Зарезервировано,,Operational,PDF
+C14/62020,62020,Дым - высокое поглощение,,Operational,PDF
+C14/62021,62021,Дым - низкое поглощение,,Operational,PDF
+C14/62022,62022,Аэрозоль - высокое поглощение,,Operational,PDF
+C14/62023,62023,Аэрозоль - низкое поглощение,,Operational,PDF
+C14/62024,62024,Зарезервировано,,Operational,PDF
+C14/62025,62025,Вулканический пепел,,Operational,PDF
+C14/62026,62026,Взвешенные частицы (ВЧ),,Operational,PDF
+C14/62027,62027,Зарезервированы,,Operational,PDF
+C14/62028,62028,Суммарный гидрофильный аэрозоль,,Operational,PDF
+C14/62029,62029,Суммарный гидрофобный аэрозоль,,Operational,PDF
+C14/62030,62030,,,Operational,NA
+C14/62031,62031,,,Operational,NA
+C14/62032,62032,,,Operational,NA
+C14/62033,62033,,,Operational,NA
+C14/62034,62034,,H2Orain,Operational,NA
+C14/62035,62035,,H2Ocloud,Operational,NA
+C14/62036,62036,,,Operational,NA
+C14/62037,62037,,,Operational,NA
+C14/62038-62099,62038-62099,,,Operational,NA
+C14/62100,62100,Пыльца Alnus (ольха),,Operational,PDF
+C14/62101,62101,Пыльца Betula (береза),,Operational,PDF
+C14/62102,62102,Пыльца Castanea (каштан),,Operational,PDF
+C14/62103,62103,Пыльца Carpinus (граб),,Operational,PDF
+C14/62104,62104,Пыльца Corylus (лещина),,Operational,PDF
+C14/62105,62105,Пыльца Fagus (бук),,Operational,PDF
+C14/62106,62106,Пыльца Fraxinus (ясень),,Operational,PDF
+C14/62107,62107,Пыльца Pinus (сосна),,Operational,PDF
+C14/62108,62108,Пыльца Platanus (платан),,Operational,PDF
+C14/62109,62109,"Пыльца Populus (тополь трехгранный, тополь)",,Operational,PDF
+C14/62110,62110,Пыльца Quercus (дуб),,Operational,PDF
+C14/62111,62111,Пыльца Salix (ива),,Operational,PDF
+C14/62112,62112,Пыльца Taxus (тис),,Operational,PDF
+C14/62113,62113,Пыльца Tilia (липа),,Operational,PDF
+C14/62114,62114,Пыльца Ulmus (вяз),,Operational,PDF
+C14/62115,62115,,,Operational,NA
+C14/62116-62199,62116-62199,,,Operational,NA
+C14/62200,62200,"Пыльца Ambrosia (амброзия, амброзия скученноцветковая)",,Operational,PDF
+C14/62201,62201,"Пыльца Artemisia (полынь, полынь горькая)",,Operational,PDF
+C14/62202,62202,"Пыльца Brassica (рапс, брокколи, капуста брюссельская, капуста кочанная, капуста цветная, капуста листовая, кольраби, горчица, брюква)",,Operational,PDF
+C14/62203,62203,Пыльца Plantago (подорожник),,Operational,PDF
+C14/62204,62204,Пыльца Rumex (щавель),,Operational,PDF
+C14/62205,62205,Пыльца Urtica (крапива),,Operational,PDF
+C14/62206-62299,62206-62299,,,Operational,NA
+C14/62300,62300,Пыльца Poaceae (семейство злаковых),,Operational,PDF
+C14/62301-62999,62301-62999,,,Operational,NA
+C14/63000-65534,63000-65534,,,Operational,NA
+C14/65535,65535,Отсутствующее _______________,,Operational,PDF
