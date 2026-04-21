@@ -15,13 +15,13 @@ C08/42,42,CNES,Lidar,DORIS-NG,Détermination Doppler d'orbite et radiolocalisati
 C08/47,47,CNES,Altimètre radar,POSEIDON-1,Navigateur en orbite de localisation de,Operational,PDF
 C08/48,48,CNES,Altimètre radar,POSEIDON-2,Navigateur en orbite de localisation de,Operational,PDF
 C08/49,49,CNES,Altimètre radar,POSEIDON-3,Navigateur en orbite de localisation de,Operational,PDF
-C08/50,50,CNES,Radiomètre imageur	 ATSR/M multispectral,,ATSR/M,Operational,PDF
+C08/50,50,CNES,Radiomètre imageur,ATSR/M multispectral,ATSR/M,Operational,PDF
 C08/51,51,CNES,Imageur optique haute résolution,HRG,,Operational,PDF
 C08/52,52,CNES,Radiomètre,HRV,Haute résolution dans le spectre visible,Operational,PDF
 C08/53,53,CNES,Radiomètre,HRVIR,Haute résolution dans le spectre visible et l'infrarouge,Operational,PDF
 C08/54,54,CNES,Radiomètre,ScaRaB/MV2,Scanner du bilan radiatif de la Terre,Operational,PDF
 C08/55,55,CNES,Radiomètre,POLDER,POLDER,Operational,PDF
-C08/56,56,CNES,Radiomètre imageur	 IIR multispectral,,Radiomètre imageur dans l'infrarouge,Operational,PDF
+C08/56,56,CNES,Radiomètre imageur,IIR multispectral,Radiomètre imageur dans l'infrarouge,Operational,PDF
 C08/57,57,,,,,Operational,NA
 C08/60,60,CNES,Spectromètre,VEGETATION,VEGETATION,Operational,PDF
 C08/61,61,CNES,Spectromètre,WINDII,WINDII,Operational,PDF
@@ -35,11 +35,11 @@ C08/91,91,,,,,Operational,NA
 C08/92,92,CSA,Sondage au limbe,ACE-FTS,Expérience sur la chimie atmosphérique - Spectromètre à transformée de Fourier,Operational,PDF
 C08/97,97,CSIRO,Radiomètre,,Imageur panchromatique,Operational,PDF
 C08/98,98,CRCSS,Sondeur de température et d'humidité de l'atmosphère,Récepteur GPS,,Operational,PDF
-C08/102,102,DLR,Radiomètre,Sondeur GPS CHAMP	 Récepteur spatial GPS TurboRogue,(TRSR),Operational,PDF
+C08/102,102,DLR,Radiomètre,Sondeur GPS CHAMP,Récepteur spatial GPS TurboRogue (TRSR),Operational,PDF
 C08/103,103,DLR,Radiomètre,IGOR,Récepteur intégré à radio-occultation GPS,Operational,PDF
 C08/104,104,NASA,Sondeur à occultation GNSS,Tri-G,"Triple-G (GPS, Galileo, GLONASS)",Operational,PDF
 C08/116,116,DLR,Magnétomètre,Ensemble de gravité CHAMP (accéléromètre + GPS),Accéléromètre STAR,Operational,PDF
-C08/117,117,DLR,Magnétomètre,Ensemble de magné-	 Magnétomètre Overhauser (OVM) et,,Operational,PDF
+C08/117,117,DLR,Magnétomètre,Ensemble de magné-,Magnétomètre Overhauser (OVM) et,Operational,PDF
 C08/120,120,ESA,Communications,ENVISAT Comms,Ensemble de communications pour ENVISAT,Operational,PDF
 C08/121,121,ESA,Communications,ERS Comms,Ensemble de communications pour ERS de l'atmosphère,Operational,PDF
 C08/130,130,,,,,Operational,NA
@@ -144,19 +144,19 @@ C08/351,351,NASA,Sondeur de température et d'humidité de l'atmosphère,GPSDR,R
 C08/353,353,,,,,Operational,NA
 C08/354,354,,,,,Operational,NA
 C08/356,356,NASA,Radiomètre,LIS,Capteur d'imagerie de la foudre,Operational,PDF
-C08/358,358,NASA,"Champ magnétique,	 PEM",,Moniteur de particules dans,Operational,PDF
+C08/358,358,NASA,"Champ magnétique,",PEM,Moniteur de particules dans,Operational,PDF
 C08/359,359,,,,,Operational,NA
 C08/360,360,,,,,Operational,NA
 C08/363,363,,,,,Operational,NA
 C08/365,365,NASA,Radiomètre imageur multispectral (hyperfréquence passive),TMI,Imageur hyperfréquence TRMM,Operational,PDF
 C08/366,366,NASA,Radiomètre imageur multispectral (hyperfréquence passive),JMR,Radiomètre hyperfréquence JASON-1,Operational,PDF
-C08/367,367,NASA,Radiomètre imageur 	 AMR,,Radiomètre perfectionné hyperfréquence,Operational,PDF
+C08/367,367,NASA,Radiomètre imageur,AMR,Radiomètre perfectionné hyperfréquence,Operational,PDF
 C08/368,368,,,,,Operational,NA
 C08/369,369,,,,,Operational,NA
 C08/370,370,,,,,Operational,NA
 C08/371,371,,,,,Operational,NA
 C08/372,372,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,NISTAR,Radiomètre perfectionné NIST,Operational,PDF
-C08/373,373,NASA,"Champ magnétique,	 Plasma-Mag imagerie aurorale, seuil de scintillation",,,Operational,PDF
+C08/373,373,NASA,"Champ magnétique,","Plasma-Mag imagerie aurorale, seuil de scintillation",,Operational,PDF
 C08/374,374,NASA,Autre,XPS,Système photomètre XUV,Operational,PDF
 C08/375,375,NASA,Radiomètre,VIRS,Scanner dans le spectre visible et,Operational,PDF
 C08/376,376,CNES,Radiomètre,POLDER II,Polarisation et directivité de la,Operational,PDF
@@ -259,7 +259,7 @@ C08/600,600,NOAA,Radiomètre,ERBE,Expérience sur la bilan radiatif de la Terre,
 C08/601,601,NOAA,Radiomètre,ETM+,Système perfectionné de cartographie thématique,Operational,PDF
 C08/604,604,NOAA,Radiomètre,HIRS/1,Sondeur infrarouge perfectionné haute résolution/1,Operational,PDF
 C08/605,605,NOAA,Radiomètre,HIRS/2,Sondeur infrarouge perfectionné haute résolution/2,Operational,PDF
-C08/606,606,NOAA,Radiomètre,HIRS/3,Sondeur infrarouge perfectionné haute résolution/ 607 NOAA	 Radiomètre HIRS/4 Sondeur infrarouge perfectionné haute résolution/4,Operational,PDF
+C08/606,606,NOAA,Radiomètre,HIRS/3,Sondeur infrarouge perfectionné haute résolution/3,Operational,PDF
 C08/607,607,,,,,Operational,NA
 C08/615,615,NOAA,Radiomètre,IMAGER,Imageur,Operational,PDF
 C08/616,616,NOAA,Radiomètre,VIIRS,Ensemble de radiomètres imageurs,Operational,PDF
@@ -278,7 +278,7 @@ C08/629,629,NOAA,Radiomètre,TOVS (HIRS/2,Sondeur vertical opérationnel,Operati
 C08/630,630,NOAA,Radiomètre,VAS,Sondeur atmosphérique du VISSR,Operational,PDF
 C08/631,631,NOAA,Radiomètre,SSZ,,Operational,PDF
 C08/645,645,NOAA,Spectromètre,SEM,Appareil de surveillance du milieu spatial,Operational,PDF
-C08/650,650,NRSCC,Radiomètre,MVIRSR (10 canaux)	 Radiomètre à balayage multispectral,dans le spectre visible et l'infrarouge,Operational,PDF
+C08/650,650,NRSCC,Radiomètre,MVIRSR (10 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational,PDF
 C08/651,651,NRSCC,Radiomètre,MVIRSR (3 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational,PDF
 C08/652,652,NRSCC,Radiomètre,MVIRSR (5 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational,PDF
 C08/670,670,NSAU,Radar,RLSBO,Radar latéral hyperfréquence,Operational,PDF
@@ -370,13 +370,13 @@ C08/938,938,NRSCC,Radiomètre,MWRI,Imageur à rayonnement,Operational,PDF
 C08/940,940,ROSCOSMOS,Sondeur de,MTVZA-CK,Radiomètre hyperfréquence à,Operational,PDF
 C08/941,941,CNES,Sondeur de température et d'humidité de l'atmosphère,SAPHIR,,Operational,PDF
 C08/942,942,CNES,Imageur,MADRAS,Analyse et détection de la pluie et,Operational,PDF
-C08/943,943,CNSA,Diffusiomètre,SCAT (sur CFOSAT)	 Diffusiomètre,,Operational,PDF
+C08/943,943,CNSA,Diffusiomètre,SCAT (sur CFOSAT),Diffusiomètre,Operational,PDF
 C08/944,944,NOAA,Altimètre radar,ALT,Altimètre,Operational,PDF
 C08/945,945,NOAA,Radiomètre,TSIS,Capteur de rayonnement solaire,Operational,PDF
 C08/946,946,NOAA,Radiomètre,CMIS,Sondeur/imageur hyperfréquence,Operational,PDF
 C08/947,947,,,,,Operational,NA
 C08/948,948,NOAA,"Sondeur de l'environnement spatial, sondeur de température et d'humidité de l'atmosphère",GPSOS,Capteur à occultation GPS,Operational,PDF
-C08/949,949,NOAA,"Champ magnétique,	 SESS",,Ensemble de capteurs pour la mesure,Operational,PDF
+C08/949,949,NOAA,"Champ magnétique,",SESS,Ensemble de capteurs pour la mesure,Operational,PDF
 C08/950,950,NRSCC,Radiomètre,VIRR,Radiomètre à balayage multispectral,Operational,PDF
 C08/951,951,,,,,Operational,NA
 C08/952,952,,,,,Operational,NA
