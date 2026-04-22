@@ -52,7 +52,7 @@ C06/320,320,degré vrai,°,˚,deg,DEG,,,,Operational,PDF
 C06/321,321,degré par seconde,degré/s,degree/s,deg/s,DEG/S,,,,Operational,PDF
 C06/350,350,degré Celsius (8),°C,˚C,C,C,,(see Note 8),13,Operational,PDF
 C06/351,351,degré Celsius par mètre,°C/m,˚C/m,C/m,C/M,,,,Operational,PDF
-C06/352,352,degré Celsius par 100 mètres	 °C/100 m,,˚C/100 m,C/100 m,C/100 M,,,,Operational,PDF
+C06/352,352,degré Celsius par 100 mètres,,˚C/100 m,C/100 m,C/100 M,,,,Operational,PDF
 C06/360,360,Dobson (9),DU,DU,DU,DU,,(see Note 9),4,Operational,PDF
 C06/430,430,mois,mon,mon,mon,MON,,,,Operational,PDF
 C06/441,441,par seconde (identique à hertz),s -1,s^-1,/s,/S,,,,Operational,PDF

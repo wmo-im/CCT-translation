@@ -10,7 +10,7 @@ C08/14,14,,,,,Operational,NA
 C08/15,15,,,,,Operational,NA
 C08/30,30,CNES,Communications,ARGOS,,Operational,PDF
 C08/40,40,CNES,Lidar,Réflecteurs laser,,Operational,PDF
-C08/41,41,CNES,Lidar,DORIS,Détermination Doppler d'orbite et radio-,Operational,PDF
+C08/41,41,CNES,Lidar,DORIS,Détermination Doppler d'orbite et radiopositionnement,Operational,PDF
 C08/42,42,CNES,Lidar,DORIS-NG,Détermination Doppler d'orbite et radiolocalisation intégrées par,Operational,PDF
 C08/47,47,CNES,Altimètre radar,POSEIDON-1,Navigateur en orbite de localisation de,Operational,PDF
 C08/48,48,CNES,Altimètre radar,POSEIDON-2,Navigateur en orbite de localisation de,Operational,PDF
@@ -39,7 +39,7 @@ C08/102,102,DLR,Radiomètre,Sondeur GPS CHAMP,Récepteur spatial GPS TurboRogue 
 C08/103,103,DLR,Radiomètre,IGOR,Récepteur intégré à radio-occultation GPS,Operational,PDF
 C08/104,104,NASA,Sondeur à occultation GNSS,Tri-G,"Triple-G (GPS, Galileo, GLONASS)",Operational,PDF
 C08/116,116,DLR,Magnétomètre,Ensemble de gravité CHAMP (accéléromètre + GPS),Accéléromètre STAR,Operational,PDF
-C08/117,117,DLR,Magnétomètre,Ensemble de magné-,Magnétomètre Overhauser (OVM) et,Operational,PDF
+C08/117,117,DLR,Magnétomètre,Ensemble de magnétomètres,Magnétomètre Overhauser (OVM) et,Operational,PDF
 C08/120,120,ESA,Communications,ENVISAT Comms,Ensemble de communications pour ENVISAT,Operational,PDF
 C08/121,121,ESA,Communications,ERS Comms,Ensemble de communications pour ERS de l'atmosphère,Operational,PDF
 C08/130,130,,,,,Operational,NA
@@ -264,7 +264,7 @@ C08/607,607,,,,,Operational,NA
 C08/615,615,NOAA,Radiomètre,IMAGER,Imageur,Operational,PDF
 C08/616,616,NOAA,Radiomètre,VIIRS,Ensemble de radiomètres imageurs,Operational,PDF
 C08/617,617,NOAA,Radiomètre imageur multispectral,ABI,Imageur perfectionné de référence,Operational,PDF
-C08/618,618,NOAA,Imageur optique,GLM,Système géostationnaire de cartogra-,Operational,PDF
+C08/618,618,NOAA,Imageur optique,GLM,Système géostationnaire de cartographie,Operational,PDF
 C08/620,620,NOAA,Sondeur de,CrIRS/NP,Sondeur infrarouge/NPOESS,Operational,PDF
 C08/621,621,NOAA,Sondeur de,ATMS,Sondeur hyperfréquence à technologie,Operational,PDF
 C08/622,622,NOAA,Radiomètre,MSS,Système de balayage multispectral,Operational,PDF
