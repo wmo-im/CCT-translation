@@ -1,8 +1,5 @@
 ID,CodeFigure_OriginatingCentres,Name_OriginatingCentres_fr,CodeFigure_SubCentres,Name_SubCentres_fr,Status,translation_source
 C12//0,,,0,Pas de centre secondaire,Operational,PDF
-C12//1,,,,,Operational,NA
-C12//2,,,,,Operational,NA
-C12//3,,,,,Operational,NA
 C12/34/207,34,Tokyo (CMRS) Service météorologique japonais,207,Syowa,Operational,PDF
 C12/34/240,34,Tokyo (CMRS) Service météorologique japonais,240,Kiyose,Operational,PDF
 C12/34/241,34,Tokyo (CMRS) Service météorologique japonais,241,Projet de réanalyse,Operational,PDF
@@ -12,7 +9,6 @@ C12/39/228,39,Beijing (CMRS),228,Urumuqi,Operational,PDF
 C12/40/243,40,Séoul,243,Séoul,Operational,PDF
 C12/40/245,40,Séoul,245,Jincheon,Operational,PDF
 C12/110/229,110,"Hong-Kong, Chine",229,Hong-Kong,Operational,PDF
-C12//4,,,,,Operational,NA
 C12/46/10,46,Institut national de recherches spatiales (INPE) - Brésil,10,Cachoeira Paulista (INPE),Operational,PDF
 C12/46/11,46,Institut national de recherches spatiales (INPE) - Brésil,11,Cuiaba (INPE),Operational,PDF
 C12/46/12,46,Institut national de recherches spatiales (INPE) - Brésil,12,Brasilia (SEPIS - INMET),Operational,PDF
@@ -24,7 +20,6 @@ C12/46/17,46,Institut national de recherches spatiales (INPE) - Brésil,17,Boa V
 C12/46/18,46,Institut national de recherches spatiales (INPE) - Brésil,18,SIPAM-Porto Velho-RO,Operational,PDF
 C12/46/19,46,Institut national de recherches spatiales (INPE) - Brésil,19,SIPAM-Belém-PA,Operational,PDF
 C12/46/25,46,Institut national de recherches spatiales (INPE) - Brésil,25,Université de São Paulo - USP,Operational,PDF
-C12/145/1,145,,1,,Operational,NA
 C12/147/10,147,Commission nationale des activités spatiales (CONAE) - Argentine,10,Córdoba,Operational,PDF
 C12/147/15,147,Commission nationale des activités spatiales (CONAE) - Argentine,15,Ushuaia,Operational,PDF
 C12/147/20,147,Commission nationale des activités spatiales (CONAE) - Argentine,20,Marambio,Operational,PDF
@@ -33,7 +28,6 @@ C12/147/40,147,Commission nationale des activités spatiales (CONAE) - Argentine
 C12/147/50,147,Commission nationale des activités spatiales (CONAE) - Argentine,50,Base Presidente Frei,Operational,PDF
 C12/147/60,147,Commission nationale des activités spatiales (CONAE) - Argentine,60,Cotopaxi,Operational,PDF
 C12/148/1,148,Département brésilien du contrôle de l'espace aérien (DECEA),1,Centre intégré de météorologie,Operational,PDF
-C12//5,,,,,Operational,NA
 C12/7/1,7,"Service météorologique national des États-Unis d'Amérique, NCEP",1,Projet de réanalyse des NCEP,Operational,PDF
 C12/7/2,7,"Service météorologique national des États-Unis d'Amérique, NCEP",2,Produits d'ensemble des NCEP,Operational,PDF
 C12/7/3,7,"Service météorologique national des États-Unis d'Amérique, NCEP",3,Opérations centrales des NCEP,Operational,PDF
@@ -97,9 +91,6 @@ C12/176/28,176,Institut coopératif pour les études de (CIMSS) - États-Unis d'
 C12/176/29,176,Institut coopératif pour les études de (CIMSS) - États-Unis d'Amérique,29,New York (États-Unis d'Amérique),Operational,PDF
 C12/177/1,177,National Ocean Service de la NOAA - États-Unis d'Amérique,1,Center for Operational Oceanographic,Operational,PDF
 C12/177/2,177,National Ocean Service de la NOAA - États-Unis d'Amérique,2,Coast Survey Development Laboratory,Operational,PDF
-C12/183/1,183,,1,,Operational,NA
-C12/183/2,183,,2,,Operational,NA
-C12//6,,,,,Operational,NA
 C12/2/201,2,Melbourne,201,C asey,Operational,PDF
 C12/2/203,2,Melbourne,203,Davis,Operational,PDF
 C12/2/210,2,Melbourne,210,Alice Springs,Operational,PDF
@@ -126,7 +117,6 @@ C12/72/249,72,Singapour,249,Singapour,Operational,PDF
 C12/191/1,191,Polynésie française (CMN),1,Station RARS de Tahiti (Polynésie française),Operational,PDF
 C12/204/101,204,National Institute of Water and Atmospheric Research (NIWA) - Nouvelle-Zélande,101,Maupia,Operational,PDF
 C12/204/102,204,National Institute of Water and Atmospheric Research (NIWA) - Nouvelle-Zélande,102,Lauder,Operational,PDF
-C12//7,,,,,Operational,NA
 C12/74/1,74,"Met Office du Royaume-Uni, Exeter (CMRS)",1,Shanwick Oceanic Area Control Centre,Operational,PDF
 C12/74/2,74,"Met Office du Royaume-Uni, Exeter (CMRS)",2,Fucino,Operational,PDF
 C12/74/3,74,"Met Office du Royaume-Uni, Exeter (CMRS)",3,Gatineau,Operational,PDF
@@ -182,7 +172,6 @@ C12/85/203,85,Toulouse (CMRS),203,Université d'Aarhus (Danemark),Operational,PD
 C12/85/204,85,Toulouse (CMRS),204,Institut de protection environnementale - Institut national de recherche (Pologne),Operational,PDF
 C12/89/1,89,Prague (RTH),1,Observatoire du rayonnement solaire et de l'ozone de Hradec Kralove,Operational,PDF
 C12/96/1,96,Athènes,1,Chypre (CMN),Operational,PDF
-C12/211/10,211,,10,,Operational,NA
 C12/227/1,227,Belgique (CMN),1,Luxembourg (CMN),Operational,PDF
 C12/250/76,250,COSMO (Consortium pour la modélisation à petite échelle),76,Roshydromet (Fédération de Russie),Operational,PDF
 C12/250/78,250,COSMO (Consortium pour la modélisation à petite échelle),78,Deutscher Wetterdienst (Allemagne),Operational,PDF

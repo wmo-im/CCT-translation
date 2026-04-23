@@ -106,7 +106,6 @@ C01/096,96,096,96,Афины,Operational,PDF
 C01/097,97,097,97,Европейское космическое агентство (ЕКА),Operational,PDF
 C01/098,98,098,98,Европейский центр среднесрочных прогнозов погоды (ЕЦСПП) (РСМЦ),Operational,PDF
 C01/099,99,099,99,Де-Бильт,Operational,PDF
-C01//8,,,,,Operational,NA
 C01/100,Not applicable,100,100,Браззавиль,Operational,PDF
 C01/101,Not applicable,101,101,Абиджан,Operational,PDF
 C01/102,Not applicable,102,102,Ливия (НМЦ),Operational,PDF
@@ -144,7 +143,6 @@ C01/133,Not applicable,133,133,Туркменистан (НМЦ),Operational,PDF
 C01/134,Not applicable,134,134,Объединенные Арабские Эмираты (НМЦ),Operational,PDF
 C01/135,Not applicable,135,135,Узбекистан (НМЦ),Operational,PDF
 C01/136,Not applicable,136,136,Вьетнам (НМЦ),Operational,PDF
-C01/137-139,Not applicable,137-139,137-139,,Operational,NA
 C01/140,Not applicable,140,140,Боливия (Многонациональное Государство) (НМЦ),Operational,PDF
 C01/141,Not applicable,141,141,Гайана (НМЦ),Operational,PDF
 C01/142,Not applicable,142,142,Парагвай (НМЦ),Operational,PDF
@@ -159,11 +157,9 @@ C01/150,Not applicable,150,150,Арнтигуа и Барбуда (НМЦ),Opera
 C01/151,Not applicable,151,151,Багамские Острова (НМЦ),Operational,PDF
 C01/152,Not applicable,152,152,Барбадос (НМЦ),Operational,PDF
 C01/153,Not applicable,153,153,Белиз (НМЦ) Центр Британских Карибских территорий,Operational,PDF
-C01/154,Not applicable,154,154,,Operational,NA
 C01/155,Not applicable,155,155,Сан-Хосе,Operational,PDF
 C01/156,Not applicable,156,156,Куба (НМЦ),Operational,PDF
 C01/157,Not applicable,157,157,Доминика (НМЦ) Доминиканская Республика (НМЦ),Operational,PDF
-C01/158,Not applicable,158,158,,Operational,NA
 C01/159,Not applicable,159,159,Сальвадор (НМЦ),Operational,PDF
 C01/160,Not applicable,160,160,НУОА США/НЕСДИС,Operational,PDF
 C01/161,Not applicable,161,161,Бюро исследований океана и атмосферы НУОА США,Operational,PDF
@@ -184,12 +180,6 @@ C01/175,Not applicable,175,175,Университетская корпораци
 C01/176,Not applicable,176,176,"Кооперативный институт метеорологических спутниковых исследований (КИМСИ), США",Operational,PDF
 C01/177,Not applicable,177,177,Национальная океаническая служба НУОА - США,Operational,PDF
 C01/178,Not applicable,178,178,Корпорация Spire Global,Operational,PDF
-C01/179,Not applicable,179,179,,Operational,NA
-C01/180,Not applicable,180,180,,Operational,NA
-C01/181,Not applicable,181,181,,Operational,NA
-C01/182,Not applicable,182,182,,Operational,NA
-C01/183,Not applicable,183,183,,Operational,NA
-C01/184-189,Not applicable,184-189,184-189,,Operational,NA
 C01/190,Not applicable,190,190,Острова Кука (НМЦ),Operational,PDF
 C01/191,Not applicable,191,191,Французская Полинезия (НМЦ),Operational,PDF
 C01/192,Not applicable,192,192,Тонга (НМЦ),Operational,PDF
@@ -205,7 +195,6 @@ C01/201,Not applicable,201,201,Филиппины (НМЦ),Operational,PDF
 C01/202,Not applicable,202,202,Самоа (НМЦ),Operational,PDF
 C01/203,Not applicable,203,203,Соломоновы Острова (НМЦ),Operational,PDF
 C01/204,Not applicable,204,204,Национальный институт водных и атмосферных исследований (NIWA - Новая Зеландия),Operational,PDF
-C01/205-209,Not applicable,205-209,205-209,,Operational,NA
 C01/210,Not applicable,210,210,Фраскати (ЕКА/ЕСРИН),Operational,PDF
 C01/211,Not applicable,211,211,Ланьон,Operational,PDF
 C01/212,Not applicable,212,212,Лиссабон,Operational,PDF
@@ -252,4 +241,3 @@ C01/252,Not applicable,252,252,Институт метеорологии им. �
 C01/253,Not applicable,253,253,Зарезервировано для других центров,Operational,PDF
 C01/254,Not applicable,254,254,Оперативный центр ЕВМЕТСАТ,Operational,PDF
 C01/255,Not applicable,255,255,Отсутствующее значение,Operational,PDF
-C01/256-999,Not applicable,256-999,Not applicable,,Operational,NA

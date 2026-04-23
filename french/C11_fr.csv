@@ -48,7 +48,6 @@ C11/42,00042,42,),Operational,PDF
 C11/43,00043,43,Brasilia (CMRS),Operational,PDF
 C11/44,00044,44,),Operational,PDF
 C11/45,00045,45,Santiago,Operational,PDF
-C11/46,00046,46,,Operational,NA
 C11/47,00047,47,Colombie (CMN),Operational,PDF
 C11/48,00048,48,Équateur (CMN),Operational,PDF
 C11/49,00049,49,Pérou (CMN),Operational,PDF
@@ -102,10 +101,8 @@ C11/93,00093,93,Londres (WAFC),Operational,PDF
 C11/94,00094,94,Copenhague,Operational,PDF
 C11/95,00095,95,Rota,Operational,PDF
 C11/96,00096,96,Athènes,Operational,PDF
-C11/97,00097,97,,Operational,NA
 C11/98,00098,98,Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) (CMRS),Operational,PDF
 C11/99,00099,99,De Bilt,Operational,PDF
-C11//7,,,,Operational,NA
 C11/100,00100,100,Brazzaville,Operational,PDF
 C11/101,00101,101,Abidjan,Operational,PDF
 C11/102,00102,102,Libye (CMN),Operational,PDF
@@ -143,10 +140,8 @@ C11/133,00133,133,Turkménistan (CMN),Operational,PDF
 C11/134,00134,134,Émirats arabes unis (CMN),Operational,PDF
 C11/135,00135,135,Ouzbékistan (CMN),Operational,PDF
 C11/136,00136,136,Viet Nam (CMN),Operational,PDF
-C11/137-139,00137-00139,137-139,,Operational,NA
 C11/140,00140,140,Bolivie (État plurinational de) (CMN),Operational,PDF
 C11/141,00141,141,Guyana (CMN),Operational,PDF
-C11/142,00142,142,,Operational,NA
 C11/143,00143,143,Suriname (CMN),Operational,PDF
 C11/144,00144,144,Uruguay (CMN),Operational,PDF
 C11/145,00145,145,Guyane française,Operational,PDF
@@ -180,16 +175,8 @@ C11/172,00172,172,Départements français dans la Région IV,Operational,PDF
 C11/173,00173,173,Administration américaine pour l'aéronautique et l'espace (NASA),Operational,PDF
 C11/174,00174,174,Gestion des données scientifiques intégrées/Service des données sur le milieu marin (GDSI/SDMM) - Canada,Operational,PDF
 C11/175,00175,175,Corporation universitaire pour la recherche atmosphérique (UCAR) - États-Unis d'Amérique météorologiques (CIMSS) - États-Unis d'Amérique,Operational,PDF
-C11/176,00176,176,,Operational,NA
 C11/177,00177,177,National Ocean Service de la NOAA - État-Unis d'Amérique,Operational,PDF
 C11/178,00178,178,"Spire Global, Inc.",Operational,PDF
-C11/179,00179,179,,Operational,NA
-C11/180,00180,180,,Operational,NA
-C11/181,00181,181,,Operational,NA
-C11/182,00182,182,,Operational,NA
-C11/183,00183,183,,Operational,NA
-C11/184-189,00184-00189,184-189,,Operational,NA
-C11/190,00190,190,,Operational,NA
 C11/191,00191,191,Polynésie française (CMN),Operational,PDF
 C11/192,00192,192,Tonga (CMN),Operational,PDF
 C11/193,00193,193,Vanuatu (CMN),Operational,PDF
@@ -204,7 +191,6 @@ C11/201,00201,201,Philippines (CMN),Operational,PDF
 C11/202,00202,202,Samoa (CMN),Operational,PDF
 C11/203,00203,203,Îles Salomon (CMN),Operational,PDF
 C11/204,00204,204,National Institute of Water and Atmospheric Research (NIWA) - Nouvelle-Zélande,Operational,PDF
-C11/205-209,00205-00209,205-209,,Operational,NA
 C11/210,00210,210,Frascati (ESA/ESRIN),Operational,PDF
 C11/211,00211,211,Lannion,Operational,PDF
 C11/212,00212,212,Lisbonne,Operational,PDF
@@ -242,7 +228,6 @@ C11/243,00243,243,République arabe syrienne (CMN),Operational,PDF
 C11/244,00244,244,Macédoine du Nord (CMN),Operational,PDF
 C11/245,00245,245,Ukraine (CMN),Operational,PDF
 C11/246,00246,246,République de Moldova (CMN) obtenues par radar météorologique (OPERA) - EUMETNET,Operational,PDF
-C11/247,00247,247,,Operational,NA
 C11/248,00248,248,Monténégro (CMN),Operational,PDF
 C11/249,00249,249,"Centre de prévision des tempêtes de poussière, Barcelone",Operational,PDF
 C11/250,00250,250,Consortium pour la modélisation à petite échelle (COSMO),Operational,PDF
@@ -266,7 +251,6 @@ C11/267,00267,267,Djibouti (CMN),Operational,PDF
 C11/268,00268,268,Érythrée (CMN),Operational,PDF
 C11/269,00269,269,Éthiopie (CMN),Operational,PDF
 C11/270,00270,270,Gabon (CMN),Operational,PDF
-C11/271,00271,271,,Operational,NA
 C11/272,00272,272,Ghana (CMN),Operational,PDF
 C11/273,00273,273,Guinée (CMN),Operational,PDF
 C11/274,00274,274,Guinée-Bissau (CMN),Operational,PDF
@@ -286,38 +270,4 @@ C11/287,00287,287,Eswatini (CMN),Operational,PDF
 C11/288,00288,288,Togo (CMN),Operational,PDF
 C11/289,00289,289,Zambie (CMN),Operational,PDF
 C11/290,00290,290,E-Profile (EUMETNET),Operational,PDF
-C11/291,00291,291,,Operational,NA
-C11/292,00292,292,,Operational,NA
-C11/293,00293,293,,Operational,NA
-C11/294,00294,294,,Operational,NA
-C11/295,00295,295,,Operational,NA
-C11/296,00296,296,,Operational,NA
-C11/297,00297,297,,Operational,NA
-C11/298,00298,298,,Operational,NA
-C11/299,00299,299,,Operational,NA
-C11/300,00300,300,,Operational,NA
-C11/301,00301,301,,Operational,NA
-C11/302,00302,302,,Operational,NA
-C11/303,00303,303,,Operational,NA
-C11/304,00304,304,,Operational,NA
-C11/305,00305,305,,Operational,NA
-C11/306,00306,306,,Operational,NA
-C11/307,00307,307,,Operational,NA
-C11/308,00308,308,,Operational,NA
-C11/309,00309,309,,Operational,NA
-C11/310,00310,310,,Operational,NA
-C11/311,00311,311,,Operational,NA
-C11/312,00312,312,,Operational,NA
-C11/313,00313,313,,Operational,NA
-C11/314,00314,314,,Operational,NA
-C11/315,00315,315,,Operational,NA
-C11/316,00316,316,,Operational,NA
-C11/317,00317,317,,Operational,NA
-C11/318,00318,318,,Operational,NA
-C11/319,00319,319,,Operational,NA
-C11/320,00320,320,,Operational,NA
-C11/321,00321,321,,Operational,NA
-C11/322,00322,322,,Operational,NA
-C11/323-65534,00323-65534,323-65534,,Operational,NA
 C11/65535,65535,65535,Valeur manquante,Operational,PDF
-C11/Not applicable,65536-99999,Not applicable,,Operational,NA

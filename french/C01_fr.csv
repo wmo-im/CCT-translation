@@ -49,7 +49,6 @@ C01/042,42,042,42,),Operational,PDF
 C01/043,43,043,43,Brasilia (CMRS),Operational,PDF
 C01/044,44,044,44,),Operational,PDF
 C01/045,45,045,45,Santiago,Operational,PDF
-C01/046,46,046,46,,Operational,NA
 C01/047,47,047,47,Colombie (CMN),Operational,PDF
 C01/048,48,048,48,Équateur (CMN),Operational,PDF
 C01/049,49,049,49,Pérou (CMN),Operational,PDF
@@ -67,7 +66,6 @@ C01/059,59,059,59,"Laboratoire des systèmes de prévision de la NOAA, Boulder, 
 C01/060,60,060,60,Centre national de recherche atmosphérique des États-Unis d'Amérique (NCAR),Operational,PDF
 C01/061,61,061,61,Service ARGOS-Landover,Operational,PDF
 C01/062,62,062,62,Bureau naval océanographique des États-Unis d'Amérique,Operational,PDF
-C01/063,63,063,63,,Operational,NA
 C01//6,,,,64-73: Centres dans la Région V,Operational,PDF
 C01/064,64,064,64,Honolulu (CMRS),Operational,PDF
 C01/065,65,065,65,Darwin (CMRS),Operational,PDF
@@ -103,10 +101,8 @@ C01/093,93,093,93,Londres (WAFC),Operational,PDF
 C01/094,94,094,94,Copenhague,Operational,PDF
 C01/095,95,095,95,Rota,Operational,PDF
 C01/096,96,096,96,Athènes,Operational,PDF
-C01/097,97,097,97,,Operational,NA
 C01/098,98,098,98,Centre européen pour les prévisions météoro logiques à moyen terme (CEPMMT) (CMRS),Operational,PDF
 C01/099,99,099,99,De Bilt,Operational,PDF
-C01//8,,,,,Operational,NA
 C01/100,Not applicable,100,100,Brazzaville,Operational,PDF
 C01/101,Not applicable,101,101,Abidjan,Operational,PDF
 C01/102,Not applicable,102,102,Libye (CMN),Operational,PDF
@@ -144,7 +140,6 @@ C01/133,Not applicable,133,133,Turkménistan (CMN),Operational,PDF
 C01/134,Not applicable,134,134,Émirats arabes unis (CMN),Operational,PDF
 C01/135,Not applicable,135,135,Ouzbékistan (CMN),Operational,PDF
 C01/136,Not applicable,136,136,Viet Nam (CMN),Operational,PDF
-C01/137-139,Not applicable,137-139,137-139,,Operational,NA
 C01/140,Not applicable,140,140,Bolivie (État plurinational de) (CMN),Operational,PDF
 C01/141,Not applicable,141,141,Guyana (CMN),Operational,PDF
 C01/142,Not applicable,142,142,Paraguay (CMN),Operational,PDF
@@ -184,12 +179,6 @@ C01/175,Not applicable,175,175,Corporation universitaire pour la recherche atmos
 C01/176,Not applicable,176,176,Institut coopératif des États-Unis d'Amérique (CIMSS),Operational,PDF
 C01/177,Not applicable,177,177,National Ocean Service de la NOAA (États-Unis,Operational,PDF
 C01/178,Not applicable,178,178,"Spire Global, Inc.",Operational,PDF
-C01/179,Not applicable,179,179,,Operational,NA
-C01/180,Not applicable,180,180,,Operational,NA
-C01/181,Not applicable,181,181,,Operational,NA
-C01/182,Not applicable,182,182,,Operational,NA
-C01/183,Not applicable,183,183,,Operational,NA
-C01/184-189,Not applicable,184-189,184-189,,Operational,NA
 C01/190,Not applicable,190,190,Îles Cook (CMN),Operational,PDF
 C01/191,Not applicable,191,191,Polynésie française (CMN),Operational,PDF
 C01/192,Not applicable,192,192,Tonga (CMN),Operational,PDF
@@ -205,7 +194,6 @@ C01/201,Not applicable,201,201,Philippines (CMN),Operational,PDF
 C01/202,Not applicable,202,202,Samoa (CMN),Operational,PDF
 C01/203,Not applicable,203,203,Îles Salomon (CMN),Operational,PDF
 C01/204,Not applicable,204,204,National Institute of Water and Atmospheric Research (NIWA) - Nouvelle-Zélande,Operational,PDF
-C01/205-209,Not applicable,205-209,205-209,,Operational,NA
 C01/210,Not applicable,210,210,Frascati (ESA/ESRIN),Operational,PDF
 C01/211,Not applicable,211,211,Lannion,Operational,PDF
 C01/212,Not applicable,212,212,Lisbonne,Operational,PDF
@@ -252,4 +240,3 @@ C01/252,Not applicable,252,252,Institut de météorologie Max Planck (MPI-M),Ope
 C01/253,Not applicable,253,253,En réserve pour d'autres centres,Operational,PDF
 C01/254,Not applicable,254,254,Centre d'exploitation d'EUMETSAT,Operational,PDF
 C01/255,Not applicable,255,255,Valeur manquante,Operational,PDF
-C01/256-999,Not applicable,256-999,Not applicable,,Operational,NA

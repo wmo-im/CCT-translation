@@ -45,8 +45,6 @@ C03/742,742,742,TSK XCTD-2,3.43898,-0.31,Operational,PDF
 C03/743,743,743,TSK XCTD-2F,3.43898,-0.31,Operational,PDF
 C03/744,744,744,TSK XCTD-3,5.07598,-0.72,Operational,PDF
 C03/745,745,745,TSK XCTD-4,3.68081,-0.47,Operational,PDF
-C03/746,746,746,,,,Operational,NA
-C03/747,747,747,,,,Operational,NA
 C03/751,751,751,TSK AXCTD,,,Operational,PDF
 C03/780,780,780,"Sea-Bird, SBE21 termosalinógrafo SBE21 SeaCAT",Not applicable,Not applicable,Operational,PDF
 C03/781,781,781,"Sea-Bird, termosalinógrafo SBE45 MicroTSG",Not applicable,Not applicable,Operational,PDF
@@ -103,18 +101,6 @@ C03/877,877,877,APEX RBR,Not applicable,Not applicable,Operational,PDF
 C03/878,878,878,ARVOR RBR,Not applicable,Not applicable,Operational,PDF
 C03/879,879,879,SOLO II RBR,Not applicable,Not applicable,Operational,PDF
 C03/880,880,880,S2A RBR,Not applicable,Not applicable,Operational,PDF
-C03/881,881,881,,Not applicable,Not applicable,Operational,NA
-C03/882,882,882,,Not applicable,Not applicable,Operational,NA
-C03/883,883,883,,Not applicable,Not applicable,Operational,NA
-C03/884,884,884,,Not applicable,Not applicable,Operational,NA
-C03/885,885,885,,Not applicable,Not applicable,Operational,NA
-C03/886,886,886,,Not applicable,Not applicable,Operational,NA
-C03/887,887,887,,Not applicable,Not applicable,Operational,NA
-C03/888,888,888,,Not applicable,Not applicable,Operational,NA
-C03/889,889,889,,Not applicable,Not applicable,Operational,NA
-C03/890,890,890,,Not applicable,Not applicable,Operational,NA
-C03/891,891,891,,Not applicable,Not applicable,Operational,NA
-C03/892-899,892-899,892-899,,,,Operational,NA
 C03/900,900,900,Sippican LMP-5 XBT,9.727,-0.0473,Operational,PDF
 C03/901,901,901,Perfilador anclado al hielo SBE CTD,,,Operational,PDF
 C03/902,902,902,Brooke Ocean Moving Vessel Profiler (MVP),,,Operational,PDF
@@ -126,9 +112,3 @@ C03/907,907,907,CTD Valeport,,,Operational,PDF
 C03/908,908,908,Perfilador de buques en movimiento Ocean Science,,,Operational,PDF
 C03/909,909,909,CTD IDRONAUT,,,Operational,PDF
 C03/910,910,910,SBE38 Sea-Bird,,,Operational,PDF
-C03/911-994,911-994,911-994,,,,Operational,NA
-C03/995,995,995,,Not applicable,Not applicable,Operational,NA
-C03/996,996,996,,Not applicable,Not applicable,Operational,NA
-C03/997-999,997-999,997-999,,,,Operational,NA
-C03/1000-1022,,1000-1022,,,,Operational,NA
-C03/1023,,1023,,,,Operational,NA

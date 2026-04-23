@@ -99,11 +99,8 @@ ID,DateOfAssignment_ru,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,До,97,97,Радиозонд РДП iMet-2/iMet-1500 с чипом для датчика давления (Южная Африка),Operational,PDF
 ,До,98,98,"Радиозонд ГСОМ iMet-2/iMet-1500 без датчика давления, которое рассчитывается по высоте ГСОМ (Южная Африка)",Operational,PDF
 ,До,99,99,"Радиозонд ГСОМ iMet-2/iMet-3200 без датчика давления, которое рассчитывается по высоте ГСОМ (Южная Африка)",Operational,PDF
-,,Not available,100,,Operational,NA
 ,,01,101,Занято,Operational,PDF
-,,Not available,102-106,,Operational,NA
 ,,07,107,Занято,Operational,PDF
-,,Not available,108-109,,Operational,NA
 ,01.01.2008,10,110,"Sippican LMS5 с термистором с интегральной схемой; ёмкостный датчик относительной влажности, установленный в трубке; без датчика давления, которое рассчитывается по высоте ГСОМ",Operational,PDF
 ,01.01.2008,11,111,"Sippican LMS6 с термистором с интегральной схемой; емкостный датчик относительной влажности, установленный на внешнем крепеже; без датчика давления, которое рассчитывается по высоте ГСОМ",Operational,PDF
 ,06.05.2015,12,112,"Jin Yang RSG-20A, давление рассчитывается по высоте ГСОМ/GL-5000P (Республика Корея)",Operational,PDF
@@ -133,7 +130,6 @@ ID,DateOfAssignment_ru,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,02.05.2018,36,136,"Сбрасываемый радиозонд ГСОМ Meisei iMDS-17 с термисторным датчиком, емкостным датчиком относительной влажности и емкостным датчиком давления (Япония)",Operational,PDF
 ,,37,137,Занято,Operational,PDF
 ,До,38,138,VIZ LOCATE Loran-C (США),Operational,PDF
-,,39-40,139-140,,Operational,NA
 ,03.11.2011,41,141,"RS41 без датчика давления, которое рассчитывается по высоте ГСОМ/DigiCORA MW41, Вайсала (Финляндия)",Operational,PDF
 ,03.11.2011,42,142,"RS41 без датчика давления, которое рассчитывается по высоте ГСОМ /AUTOSONDE, Вайсала (Финляндия)",Operational,PDF
 ,07.05.2014,43,143,NanJing Daqiao XGP-3G (Китай),Operational,PDF
@@ -148,7 +144,6 @@ ID,DateOfAssignment_ru,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,03.11.2011,52,152,"RS92-NGP/Intermet IMS-2000, Вайсала (США)",Operational,PDF
 ,06.05.2015,53,153,АВК - И-2012 (Российская Федерация),Operational,PDF
 ,08.05.2019,54,154,Graw DFM-17 (Германия),Operational,PDF
-,,55-59,155-159,,Operational,NA
 ,06.05.2015,60,160,МАРЛ-А или Вектор-М - И-2012 (Российская Федерация),Operational,PDF
 ,,61,161,Занято,Operational,PDF
 ,06.05.2015,62,162,МАРЛ-A или Вектор-M - МРЗ-3МК (Российская Федерация),Operational,PDF
@@ -156,30 +151,8 @@ ID,DateOfAssignment_ru,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,07.11.2018,64,164,Радиозонд Modem PilotSonde GPS (Франция),Operational,PDF
 ,До,65,165,"VIZ ретранслирующий радиозонд, модель номер 1499- 520 (США)",Operational,PDF
 ,До,66,166,Vaisala RS80/Autosonde (Финляндия),Operational,PDF
-,,67-72,167-172,,Operational,NA
 ,02.11.2016,73,173,МАРЛ-А (Российская Федерация) - АСПАН-15 (Казахстан),Operational,PDF
-,,74-76,174-176,,Operational,NA
 ,15.03.2010,77,177,Модем GPSonde M10 (Франция),Operational,PDF
-,,78-81,178-181,,Operational,NA
 ,До,82,182,"Sippican MK2 GPS/STAR (США) со стержневым термистором, углеродным элементом и без датчика давления",Operational,PDF
 ,07.11.2012,83,183,"RS92-D/Intermet IMS 1500 с кремниевым емкостным датчиком давления; емкостным проводным датчиком температуры; спаренным тонкопленочным емкостным полимерным датчиком относительной влажности с подогревом; и системой радиопеленгации ветра, Вайсала",Operational,PDF
 ,06.11.2019,84,184,"Радиозонд ГСОМ iMet-54/iMet-3200/3400 без датчика давления, которое рассчитывается по высоте ГСОМ (Южная Африка)",Operational,PDF
-,,85-89,185-189,,Operational,NA
-,,Not available,190,,Operational,NA
-,,Not available,191,,Operational,NA
-,,Not available,192,,Operational,NA
-,,Not available,193,,Operational,NA
-,,Not available,194-196,,Operational,NA
-,,97-99,197-199,,Operational,NA
-,,Not available,200,,Operational,NA
-,,Not available,201,,Operational,NA
-,,Not available,202,,Operational,NA
-,,Not available,203,,Operational,NA
-,,Not available,204,,Operational,NA
-,,Not available,205,,Operational,NA
-,,Not available,206,,Operational,NA
-,,Not available,207,,Operational,NA
-,,Not available,208,,Operational,NA
-,,Not available,209,,Operational,NA
-,,Not available,210-254,,Operational,NA
-,,,255,,Operational,NA

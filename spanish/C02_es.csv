@@ -37,7 +37,6 @@ ID,DateOfAssignment_es,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,07/05/2014,35,35,"Radiosonda Meisei iMS-100 GPS con sensor de termistor, sensor de humedad relativa por capacitancia, y presión obtenida a partir de la altura mediante GPS (Japón)",Operational,PDF
 ,02/05/2018,36,36,"Radiosonda GPS Meisei iMDS-17 con paracaídas y con sensor de termistor, sensor capacitivo de humedad relativa y sensor de presión capacitivo (Japón)",Operational,PDF
 ,,37,37,No vacante,Operational,PDF
-,,38,38,,Operational,NA
 ,Antes,39,39,Sprenger E076 (Alemania),Operational,PDF
 ,Antes,40,40,Sprenger E084 (Alemania),Operational,PDF
 ,03/11/2011,41,41,Vaisala RS41 con presión obtenida de la altura mediante GPS/DigiCORA MW41 (Finlandia),Operational,PDF
@@ -64,7 +63,6 @@ ID,DateOfAssignment_es,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,06/05/2015,62,62,MARL-A o Vektor-M - MRZ-3MK (Federación de Rusia),Operational,PDF
 ,07/11/2018,63,63,"Radiosonda Modem M20 con sensor de termistor, sensor de humedad relativa por capacitancia y presión obtenida a partir de la altura mediante GPS (Francia)",Operational,PDF
 ,07/11/2018,64,64,Radiosonda por GPS Modem PilotSonde (Francia),Operational,PDF
-,,65,65,,Operational,NA
 ,Antes,66,66,Vaisala RS80/Autosonde (Finlandia),Operational,PDF
 ,Antes,67,67,Vaisala RS80/DigiCora III (Finlandia),Operational,PDF
 ,Antes,68,68,AVK-RZM-2 (Federación de Rusia),Operational,PDF
@@ -90,20 +88,14 @@ ID,DateOfAssignment_es,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,Antes,88,88,MARL-A o Vektor-M-MRZ (Federación de Rusia),Operational,PDF
 ,Antes,89,89,MARL-A o Vektor-M-BAR (Federación de Rusia),Operational,PDF
 ,Sin aplicación,90,90,Radiosonda no especificada o desconocida,Operational,PDF
-,,91,91,,Operational,NA
-,,92,92,,Operational,NA
-,,93,93,,Operational,NA
 ,Sin aplicación,94,94,Radiosonda que no mide la presión equipada con un transpondedor,Operational,PDF
 ,Sin aplicación,95,95,Radiosonda que no mide la presión equipada con un radar reflector,Operational,PDF
 ,Sin aplicación,96,96,Radiosonda descendente,Operational,PDF
 ,Antes,97,97,Sistema de radiogoniometría (RDF) por radiosonda iMet-2/ iMet-1500 con chip sensor de presión (Sudáfrica),Operational,PDF
 ,Antes,98,98,Radiosonda GPS iMet-2/iMet-1500 con presión derivada de la altura del GPS (Sudáfrica),Operational,PDF
 ,Antes,99,99,Radiosonda GPS iMet-2/iMet-3200 con presión derivada de la altura del GPS (Sudáfrica),Operational,PDF
-,,Not available,100,,Operational,NA
 ,,01,101,No vacante,Operational,PDF
-,,Not available,102-106,,Operational,NA
 ,,07,107,No vacante,Operational,PDF
-,,Not available,108-109,,Operational,NA
 ,01/01/2008,10,110,"Sippican LMS5 con termistor de chip, sensor de humedad relativa instalado en un conducto y presión derivada de la altura del GPS",Operational,PDF
 ,01/01/2008,11,111,"Sippican LMS6 con termistor de chip, sensor de humedad relativa fijado a un brazo externo y presión derivada de la altura del GPS",Operational,PDF
 ,06/05/2015,12,112,RSG-20A Jin Yang con presión derivada de la altura del GPS/GL- 5000P (República de Corea),Operational,PDF
@@ -132,8 +124,6 @@ ID,DateOfAssignment_es,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,07/05/2014,35,135,"Radiosonda Meisei iMS-100 GPS con sensor de termistor, sensor de humedad relativa por capacitancia, y presión obtenida a partir de la altura mediante GPS (Japón)",Operational,PDF
 ,02/05/2018,36,136,"Radiosonda GPS Meisei iMDS-17 con paracaídas y con sensor de termistor, sensor capacitivo de humedad relativa y sensor de presión capacitivo (Japón)",Operational,PDF
 ,,37,137,No vacante,Operational,PDF
-,,38,138,,Operational,NA
-,,39-40,139-140,,Operational,NA
 ,03/11/2011,41,141,Vaisala RS41 con presión obtenida de la altura mediante GPS/DigiCORA MW41 (Finlandia),Operational,PDF
 ,03/11/2011,42,142,Vaisala RS41 con presión obtenida de la altura mediante GPS/AUTOSONDE (Finlandia),Operational,PDF
 ,07/05/2014,43,143,NanJing Daqiao XGP-3G (China),Operational,PDF
@@ -148,38 +138,14 @@ ID,DateOfAssignment_es,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,03/11/2011,52,152,Vaisala RS92-NGP/Intermet IMS-2000 (Estados Unidos),Operational,PDF
 ,06/05/2015,53,153,AVK - I-2012 (Federación de Rusia),Operational,PDF
 ,08/05/2019,54,154,Graw DFM-17 (Alemania),Operational,PDF
-,,55-59,155-159,,Operational,NA
 ,06/05/2015,60,160,MARL-A o Vektor-M - I-2012 (Federación de Rusia),Operational,PDF
 ,,61,161,No vacante,Operational,PDF
 ,06/05/2015,62,162,MARL-A o Vektor-M - MRZ-3MK (Federación de Rusia),Operational,PDF
 ,07/11/2018,63,163,"Radiosonda Modem M20 con sensor de termistor, sensor de humedad relativa por capacitancia y presión obtenida a partir de la altura mediante GPS (Francia)",Operational,PDF
 ,07/11/2018,64,164,Radiosonda por GPS Modem PilotSonde (Francia),Operational,PDF
-,,65,165,,Operational,NA
 ,Antes,66,166,Vaisala RS80/Autosonde (Finlandia),Operational,PDF
-,,67-72,167-172,,Operational,NA
 ,02/11/2016,73,173,MARL-A (Federación de Rusia) - ASPAN-15 (Kazajstán),Operational,PDF
-,,74-76,174-176,,Operational,NA
 ,15/03/2010,77,177,Módem GPSonde M10 (Francia),Operational,PDF
-,,78-81,178-181,,Operational,NA
 ,07/11/2012,82,182,"Lockheed Martin LMS-6 con termistor de chip; sensor capacitivo de HR, de polímero, sobre soporte móvil externo; sensor capacitivo de presión y sensor de viento mediante GPS",Operational,PDF
 ,07/11/2012,83,183,"Sensor de presión capacitivo con silicio Vaisala RS92-D/Intermet IMS 1500, sensor de temperatura capacitivo de hilo conductor, sensor de HR capacitivo de polímero calentado y película fina doble y sensor de viento mediante RDF",Operational,PDF
 ,06/11/2019,84,184,Radiosonda GPS iMet-54/iMet-3200/3400 con presión derivada de la altura del GPS (Sudáfrica),Operational,PDF
-,,85-89,185-189,,Operational,NA
-,,Not available,190,,Operational,NA
-,,Not available,191,,Operational,NA
-,,Not available,192,,Operational,NA
-,,Not available,193,,Operational,NA
-,,Not available,194-196,,Operational,NA
-,,97-99,197-199,,Operational,NA
-,,Not available,200,,Operational,NA
-,,Not available,201,,Operational,NA
-,,Not available,202,,Operational,NA
-,,Not available,203,,Operational,NA
-,,Not available,204,,Operational,NA
-,,Not available,205,,Operational,NA
-,,Not available,206,,Operational,NA
-,,Not available,207,,Operational,NA
-,,Not available,208,,Operational,NA
-,,Not available,209,,Operational,NA
-,,Not available,210-254,,Operational,NA
-,,,255,,Operational,NA

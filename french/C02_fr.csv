@@ -64,7 +64,6 @@ ID,DateOfAssignment_fr,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,06/05/2015,62,62,MARL-A ou Vektor-M - MRZ-3MK (Fédération de Russie),Operational,PDF
 ,07/11/2018,63,63,"Radiosonde Modem M20 avec capteur thermostatique, capteur capacitif d'humidité relative, et pression déduite de l'altitude GPS (France)",Operational,PDF
 ,07/11/2018,64,64,Radiosonde Modem PilotSonde GPS (France),Operational,PDF
-,,65,65,,Operational,NA
 ,Avant,66,66,Vaisala RS80/Autosonde (Finlande),Operational,PDF
 ,Avant,67,67,Vaisala RS80/DigiCora III (Finlande),Operational,PDF
 ,Avant,68,68,AVK-RZM-2 (Fédération de Russie),Operational,PDF
@@ -74,8 +73,6 @@ ID,DateOfAssignment_fr,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,Avant,72,72,Vaisala RS90/PC-Cora (Finlande),Operational,PDF
 ,02/11/2016,73,73,MARL-A (Fédération de Russie) - ASPAN-15 (Kazakhstan),Operational,PDF
 ,Avant,74,74,Vaisala RS90/Star (Finlande),Operational,PDF
-,,75,75,,Operational,NA
-,,76,76,,Operational,NA
 ,15/03/2010,77,77,Modem GPSonde M10 (France),Operational,PDF
 ,Avant,78,78,Vaisala RS90/Digicora III (Finlande),Operational,PDF
 ,Avant,79,79,"Vaisala RS92/Digicora I, II ou Marwin (Finlande)",Operational,PDF
@@ -99,11 +96,8 @@ ID,DateOfAssignment_fr,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,Avant,97,97,iMet-2/iMet-1500 RDF radiosonde avec microcapteur de pression (Afrique du Sud),Operational,PDF
 ,Avant,98,98,iMet-2/iMet-1500 radiosonde GPS avec pression déduite de l'altitude GPS (Afrique du Sud),Operational,PDF
 ,Avant,99,99,iMet-2/iMet-3200 radiosonde GPS avec pression déduite de l'altitude GPS (Afrique du Sud)),Operational,PDF
-,,Not available,100,,Operational,NA
 ,,01,101,Non vacant,Operational,PDF
-,,Not available,102-106,,Operational,NA
 ,,07,107,Non vacant,Operational,PDF
-,,Not available,108-109,,Operational,NA
 ,Avant,10,110,VIZ type A à commutation par pression (États-Unis d'Amérique),Operational,PDF
 ,01/01/2008,11,111,"Sippican LMS-6 avec thermistance pavé, capteur capacitif d'humidité relative fixé à un bras externe et pression dérivée de la hauteur GPS",Operational,PDF
 ,06/05/2015,12,112,Jin Yang RSG-20A avec pression dérivée de l'altitude GPS/GL-5000P (République de Corée),Operational,PDF
@@ -133,7 +127,6 @@ ID,DateOfAssignment_fr,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,02/05/2018,36,136,"Meisei iMDS-17 catasonde à GPS avec capteur thermostatique, capteur capacitif d'humidité relative et capteur pression de type capacitif (Japon)",Operational,PDF
 ,,37,137,Non vacant,Operational,PDF
 ,Avant,38,138,VIZ LOCATE Loran-C (états-Unis d'Amérique),Operational,PDF
-,,39-40,139-140,,Operational,NA
 ,03/11/2011,41,141,Vaisala RS41 avec pression dérivée de l'altitude GPS/ DigiCORA MW41 (Finlande),Operational,PDF
 ,Avant,42,142,Sprenger E086 (Allemagne),Operational,PDF
 ,07/05/2014,43,143,NanJing Daqiao XGP-3G (Chine),Operational,PDF
@@ -148,38 +141,14 @@ ID,DateOfAssignment_fr,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSys
 ,03/11/2011,52,152,Vaisala RS92-NGP/Intermet IMS-2000 (États-Unis d'Amérique),Operational,PDF
 ,06/05/2015,53,153,AVK - I-2012 (Fédération de Russie),Operational,PDF
 ,08/05/2019,54,154,Graw DFM-17 (Allemagne),Operational,PDF
-,,55-59,155-159,,Operational,NA
 ,06/05/2015,60,160,MARL-A ou Vektor-M - I-2012 (Fédération de Russie),Operational,PDF
 ,,61,161,Non vacant,Operational,PDF
 ,06/05/2015,62,162,MARL-A ou Vektor-M - MRZ-3MK (Fédération de Russie),Operational,PDF
 ,07/11/2018,63,163,"Radiosonde Modem M20 avec capteur thermostatique, capteur capacitif d'humidité relative, et pression déduite de l'altitude GPS (France)",Operational,PDF
 ,07/11/2018,64,164,Radiosonde Modem PilotSonde GPS (France),Operational,PDF
-,,65,165,,Operational,NA
 ,Avant,66,166,Vaisala RS80/Autosonde (Finlande),Operational,PDF
-,,67-72,167-172,,Operational,NA
 ,02/11/2016,73,173,MARL-A (Fédération de Russie) - ASPAN-15 (Kazakhstan),Operational,PDF
-,,74-76,174-176,,Operational,NA
 ,15/03/2010,77,177,Modem GPSonde M10 (France),Operational,PDF
-,,78-81,178-181,,Operational,NA
 ,07/11/2012,82,182,"Lockheed Martin LMS-6 w avec thermistance pavé, capteur d'humidité relative de type capacitif polymère, fixé à un bras externe, capteur de pression de type capacitif et vent par GPS",Operational,PDF
 ,07/11/2012,83,183,"Vaisala RS92-D/Intermet IMS 1500 w avec capteur pression de type capacitif au silicium, capteur de température de type capacitif, capteur d'humidité relative de type capacitif à couche mince, chauffé, double capteur et vent par RDF",Operational,PDF
 ,06/11/2019,84,184,iMet-54/iMet-3200/3400 radiosonde GPS avec pression déduite de l'altitude GPS (Afrique du Sud) (à suivre),Operational,PDF
-,,85-89,185-189,,Operational,NA
-,,Not available,190,,Operational,NA
-,,Not available,191,,Operational,NA
-,,Not available,192,,Operational,NA
-,,Not available,193,,Operational,NA
-,,Not available,194-196,,Operational,NA
-,,97-99,197-199,,Operational,NA
-,,Not available,200,,Operational,NA
-,,Not available,201,,Operational,NA
-,,Not available,202,,Operational,NA
-,,Not available,203,,Operational,NA
-,,Not available,204,,Operational,NA
-,,Not available,205,,Operational,NA
-,,Not available,206,,Operational,NA
-,,Not available,207,,Operational,NA
-,,Not available,208,,Operational,NA
-,,Not available,209,,Operational,NA
-,,Not available,210-254,,Operational,NA
-,,,255,,Operational,NA

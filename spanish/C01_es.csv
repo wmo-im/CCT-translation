@@ -1,6 +1,5 @@
 ID,CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres_es,Status,translation_source
 C01/000,00,000,0,Secretaría de la OMM,Operational,PDF
-C01//1,,,,,Operational,NA
 C01/001,01,001,1,Melbourne,Operational,PDF
 C01/002,02,002,2,Melbourne,Operational,PDF
 C01/003,03,003,3,),Operational,PDF
@@ -27,7 +26,6 @@ C01/022,22,022,22,ACMAD,Operational,PDF
 C01/023,23,023,23,Mozambique (CMN),Operational,PDF
 C01/024,24,024,24,Pretoria (CMRE),Operational,PDF
 C01/025,25,025,25,La Reunión (CMRE),Operational,PDF
-C01//3,,,,,Operational,NA
 C01/026,26,026,26,Jabarovsk (CMRE),Operational,PDF
 C01/027,27,027,27,),Operational,PDF
 C01/028,28,028,28,Nueva Delhi (CMRE),Operational,PDF
@@ -36,7 +34,6 @@ C01/030,30,030,30,Novosibirsk (CMRE),Operational,PDF
 C01/031,31,031,31,),Operational,PDF
 C01/032,32,032,32,Tashkent (CMRE),Operational,PDF
 C01/033,33,033,33,Yeddah (CMRE),Operational,PDF
-C01/034,34,034,34,,Operational,NA
 C01/035,35,035,35,),Operational,PDF
 C01/036,36,036,36,Bangkok,Operational,PDF
 C01/037,37,037,37,Ulaanbaatar,Operational,PDF
@@ -78,7 +75,6 @@ C01/069,69,069,69,Wellington (CMRE),Operational,PDF
 C01/070,70,070,70,),Operational,PDF
 C01/071,71,071,71,Nadi (CMRE),Operational,PDF
 C01/072,72,072,72,Singapur,Operational,PDF
-C01/073,73,073,73,,Operational,NA
 C01//7,,,,74-99: Centros de la Región VI,Operational,PDF
 C01/074,74,074,74,"Oficina Meteorológica del Reino Unido, Exeter (CMRE)",Operational,PDF
 C01/075,75,075,75,),Operational,PDF
@@ -106,7 +102,6 @@ C01/096,96,096,96,Atenas,Operational,PDF
 C01/097,97,097,97,Agencia Espacial Europea (AEE),Operational,PDF
 C01/098,98,098,98,Centro europeo de predicción meteorológica a medio plazo (CEPMMP) (CMRE),Operational,PDF
 C01/099,99,099,99,De Bilt Centros adicionales,Operational,PDF
-C01//8,,,,,Operational,NA
 C01/100,Not applicable,100,100,Brazzaville,Operational,PDF
 C01/101,Not applicable,101,101,Abidjan,Operational,PDF
 C01/102,Not applicable,102,102,Libia (CMN),Operational,PDF
@@ -123,7 +118,6 @@ C01/112,Not applicable,112,112,Bahrein (CMN),Operational,PDF
 C01/113,Not applicable,113,113,Bangladesh (CMN),Operational,PDF
 C01/114,Not applicable,114,114,Bhután (CMN),Operational,PDF
 C01/115,Not applicable,115,115,Camboya (CMN),Operational,PDF
-C01/116,Not applicable,116,116,,Operational,NA
 C01/117,Not applicable,117,117,República Islámica del Irán (CMN),Operational,PDF
 C01/118,Not applicable,118,118,Iraq (CMN),Operational,PDF
 C01/119,Not applicable,119,119,Kazajstán (CMN),Operational,PDF
@@ -144,7 +138,6 @@ C01/133,Not applicable,133,133,Turkmenistán (CMN),Operational,PDF
 C01/134,Not applicable,134,134,Emiratos Árabes Unidos (CMN),Operational,PDF
 C01/135,Not applicable,135,135,Uzbekistán (CMN),Operational,PDF
 C01/136,Not applicable,136,136,Viet Nam (CMN),Operational,PDF
-C01/137-139,Not applicable,137-139,137-139,,Operational,NA
 C01/140,Not applicable,140,140,"Bolivia, Estado Plurinacional de (CMN)",Operational,PDF
 C01/141,Not applicable,141,141,Guyana (CMN),Operational,PDF
 C01/142,Not applicable,142,142,Paraguay (CMN),Operational,PDF
@@ -170,7 +163,6 @@ C01/161,Not applicable,161,161,Oficina de Investigación Oceánica y Atmosféric
 C01/162,Not applicable,162,162,Guatemala (CMN),Operational,PDF
 C01/163,Not applicable,163,163,Haití (CMN),Operational,PDF
 C01/164,Not applicable,164,164,Honduras (CMN),Operational,PDF
-C01/165,Not applicable,165,165,,Operational,NA
 C01/166,Not applicable,166,166,Ciudad de México,Operational,PDF
 C01/167,Not applicable,167,167,Curasao y San Martín (CMN),Operational,PDF
 C01/168,Not applicable,168,168,Nicaragua (CMN),Operational,PDF
@@ -186,10 +178,6 @@ C01/177,Not applicable,177,177,Servicio Oceánico Nacional de la NOAA (Estados U
 C01/178,Not applicable,178,178,"Spire Global, Inc.",Operational,PDF
 C01/179,Not applicable,179,179,"GeoOptics, Inc.",Operational,PDF
 C01/180,Not applicable,180,180,PlanetiQ,Operational,PDF
-C01/181,Not applicable,181,181,,Operational,NA
-C01/182,Not applicable,182,182,,Operational,NA
-C01/183,Not applicable,183,183,,Operational,NA
-C01/184-189,Not applicable,184-189,184-189,,Operational,NA
 C01/190,Not applicable,190,190,Islas Cook (CMN),Operational,PDF
 C01/191,Not applicable,191,191,Polinesia Francesa (CMN),Operational,PDF
 C01/192,Not applicable,192,192,Tonga (CMN),Operational,PDF
@@ -205,7 +193,6 @@ C01/201,Not applicable,201,201,Filipinas (CMN),Operational,PDF
 C01/202,Not applicable,202,202,Samoa (CMN),Operational,PDF
 C01/203,Not applicable,203,203,Islas Salomón (CMN),Operational,PDF
 C01/204,Not applicable,204,204,Instituto Nacional de Investigaciones Hidrológicas y Atmosféricas (NIWA - Nueva Zelandia),Operational,PDF
-C01/205-209,Not applicable,205-209,205-209,,Operational,NA
 C01/210,Not applicable,210,210,Frascati (AEE/ESRIN),Operational,PDF
 C01/211,Not applicable,211,211,Lanion,Operational,PDF
 C01/212,Not applicable,212,212,Lisboa,Operational,PDF
@@ -218,7 +205,6 @@ C01/218,Not applicable,218,218,Budapest,Operational,PDF
 C01/219,Not applicable,219,219,Liubliana,Operational,PDF
 C01/220,Not applicable,220,220,Varsovia,Operational,PDF
 C01/221,Not applicable,221,221,Zagreb,Operational,PDF
-C01/222,Not applicable,222,222,,Operational,NA
 C01/223,Not applicable,223,223,Armenia (CMN),Operational,PDF
 C01/224,Not applicable,224,224,Austria (CMN),Operational,PDF
 C01/225,Not applicable,225,225,Azerbaiyán (CMN),Operational,PDF
@@ -243,7 +229,6 @@ C01/243,Not applicable,243,243,República Árabe Siria (CMN),Operational,PDF
 C01/244,Not applicable,244,244,Macedonia del Norte (CMN),Operational,PDF
 C01/245,Not applicable,245,245,Ucrania (CMN),Operational,PDF
 C01/246,Not applicable,246,246,República de Moldova (CMN) meteorológica obtenida por radares (OPERA) - EUMETNET,Operational,PDF
-C01/247,Not applicable,247,247,,Operational,NA
 C01/248,Not applicable,248,248,Montenegro (CMN),Operational,PDF
 C01/249,Not applicable,249,249,Centro de Predicción del Polvo Atmosférico de Barcelona,Operational,PDF
 C01/250,Not applicable,250,250,Consorcio para la modelización a pequeña escala (COSMO),Operational,PDF
@@ -252,4 +237,3 @@ C01/252,Not applicable,252,252,Instituto de Meteorología Max Planck,Operational
 C01/253,Not applicable,253,253,Reservada para otros centros,Operational,PDF
 C01/254,Not applicable,254,254,Centro de operaciones de EUMETSAT,Operational,PDF
 C01/255,Not applicable,255,255,Valor faltante,Operational,PDF
-C01/256-999,Not applicable,256-999,Not applicable,,Operational,NA

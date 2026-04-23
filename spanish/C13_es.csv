@@ -27,30 +27,6 @@ C13/1/20,1,Datos de superficie - marinos,20,Perfiles ASDAR/ACARS (AMDAR),Operati
 C13/1/25,1,Datos de superficie - marinos,25,Observaciones climatológicas desde estaciones terrestres fijas (CLIMAT TEMP),Operational,PDF
 C13/1/30,1,Datos de superficie - marinos,30,Mareógrafo,Operational,PDF
 C13/1/31,1,Datos de superficie - marinos,31,Serie temporal observada al nivel del agua terrestres fijas (PILOT) SHIP) terrestres móviles (PILOT MOBIL),Operational,PDF
-C13/2/1,2,,1,,Operational,NA
-C13/2/2,2,,2,,Operational,NA
-C13/2/3,2,,3,,Operational,NA
-C13/2/4,2,,4,,Operational,NA
-C13/2/5,2,,5,,Operational,NA
-C13/2/6,2,,6,,Operational,NA
-C13/2/7,2,,7,,Operational,NA
-C13/2/10,2,,10,,Operational,NA
-C13/2/11,2,,11,,Operational,NA
-C13/2/14,2,,14,,Operational,NA
-C13/2/15,2,,15,,Operational,NA
-C13/2/16,2,,16,,Operational,NA
-C13/2/20,2,,20,,Operational,NA
-C13/2/21,2,,21,,Operational,NA
-C13/2/25,2,,25,,Operational,NA
-C13/2/26,2,,26,,Operational,NA
-C13/2/40,2,,40,,Operational,NA
-C13/2/50,2,,50,,Operational,NA
-C13/2/104,2,,104,,Operational,NA
-C13/2/105,2,,105,,Operational,NA
-C13/2/106,2,,106,,Operational,NA
-C13/2/114,2,,114,,Operational,NA
-C13/2/115,2,,115,,Operational,NA
-C13/2/116,2,,116,,Operational,NA
 C13/3/0,3,Sondeos verticales (por satélite),0,Temperatura (SATEM),Operational,PDF
 C13/3/1,3,Sondeos verticales (por satélite),1,TIROS (TOVS),Operational,PDF
 C13/3/2,3,Sondeos verticales (por satélite),2,ATOVS,Operational,PDF
@@ -130,12 +106,3 @@ C13/31/5,31,Datos oceanográficos,5,Imágenes de rayos,Operational,PDF
 C13/31/6,31,Datos oceanográficos,6,Imágenes en onda corta de alta resultado para observaciones terrestres,Operational,PDF
 C13/31/7,31,Datos oceanográficos,7,Datos SMOS,Operational,PDF
 C13/31/8,31,Datos oceanográficos,8,,Operational,PDF
-C13/32/0,32,,0,,Operational,NA
-C13/101/0,101,,0,,Operational,NA
-C13/101/1,101,,1,,Operational,NA
-C13/101/2,101,,2,,Operational,NA
-C13/101/3,101,,3,,Operational,NA
-C13/101/4,101,,4,,Operational,NA
-C13/101/5,101,,5,,Operational,NA
-C13/101/6,101,,6,,Operational,NA
-C13/101/7,101,,7,,Operational,NA

@@ -1,13 +1,8 @@
 ID,Code,Agency_es,Type_es,InstrumentShortName_es,InstrumentLongName_es,Status,translation_source
-C08/7,7,,,,,Operational,NA
-C08/8,8,,,,,Operational,NA
-C08/9,9,,,,,Operational,NA
 C08/10,10,BNSC,Radiómetro,AATSR,Radiómetro de exploración por pista avanzado,Operational,PDF
 C08/11,11,BNSC,Radiómetro,ATSR,Radiómetro de exploración por pista,Operational,PDF
 C08/12,12,BNSC,Radiómetro,ATSR-2,Radiómetro de exploración por pista-2,Operational,PDF
 C08/13,13,BNSC,Radiómetro,MWR,Radiómetro de microondas,Operational,PDF
-C08/14,14,,,,,Operational,NA
-C08/15,15,,,,,Operational,NA
 C08/30,30,CNES,Comunicaciones,ARGOS,,Operational,PDF
 C08/40,40,CNES,Lidar,Reflectores láser,,Operational,PDF
 C08/41,41,CNES,Lidar,DORIS,Orbitografía Doppler y posicionamiento por radio integrados por satélite,Operational,PDF
@@ -26,27 +21,20 @@ C08/57,57,ESA/,Altímetro de radar,POSEIDON-4,"Altimetría de gran precisión, c
 C08/60,60,CNES,Espectrómetro,VEGETATION,VEGETATION,Operational,PDF
 C08/61,61,CNES,Espectrómetro,WINDII,WINDII,Operational,PDF
 C08/62,62,CNES,Altímetro,AltiKa,Altímetro de radar de banda Ka,Operational,PDF
-C08/63,63,,,,,Operational,NA
 C08/80,80,CSA,Comunicaciones,RADARSAT DTT,,Operational,PDF
 C08/81,81,CSA,Comunicaciones,RADARSAT TTC,,Operational,PDF
 C08/85,85,CSA,Radar,SAR (CSA),Radar de abertura sintética (CSA),Operational,PDF
 C08/90,90,CSA,Radiómetro,MOPITT,Mediciones de contaminación en la troposfera,Operational,PDF
-C08/91,91,,,,,Operational,NA
 C08/92,92,CSA,Sonda para la exploración,ACE-FTS,Experimento de química atmosférica -,Operational,PDF
 C08/97,97,CSIRO,Radiómetro,Reproductor de imágenes pancromático,,Operational,PDF
 C08/98,98,CRCSS,Sonda para la temperatura y humedad atmosféricas,Receptor GPS,,Operational,PDF
 C08/102,102,DLR,Radiómetro,Sonda SPM CHAMP,Receptor espacial TurboRogue SPM (TRSR),Operational,PDF
 C08/103,103,DLR,Radiómetro,IGOR,GPS integrado y receptor de ocultación,Operational,PDF
-C08/104,104,,,,,Operational,NA
 C08/116,116,DLR,Magnetómetro,Equipo de gravedad CHAMP (Acelerómetro+SPM),Acelerómetro STAR,Operational,PDF
 C08/117,117,DLR,Magnetómetro,Equipo de,Magnetómetro Overhauser (OVM) y,Operational,PDF
 C08/120,120,AEE,Comunicaciones,Coms. ENVISAT,Paquete de comunicaciones en ENVISAT,Operational,PDF
 C08/121,121,AEE,Comunicaciones,Coms. ERS,Paquete de comunicaciones para ERS investigación de la atmósfera,Operational,PDF
-C08/130,130,,,,,Operational,NA
 C08/131,131,AEE,Lidar,ATLID,Lidar atmosférico imagen ondas viento,Operational,PDF
-C08/140,140,,,,,Operational,NA
-C08/141,141,,,,,Operational,NA
-C08/142,142,,,,,Operational,NA
 C08/143,143,AEE,Radar,ASAR,ASAR,Operational,PDF
 C08/144,144,AEE,Radar de producción de,ASAR,Radar avanzado de apertura sintética (modo,Operational,PDF
 C08/145,145,AEE,Radar de producción de,ASAR,Radar avanzado de apertura sintética (modo,Operational,PDF
@@ -54,17 +42,12 @@ C08/146,146,AEE,Radar de perfil de las nubes y lluvia,CPR,Radar de nubes,Operati
 C08/147,147,AEE,Radar,RA-2/MWR,Altímetro de radar - 2,Operational,PDF
 C08/148,148,AEE,Radar,RA/MWR,Altímetro de radar,Operational,PDF
 C08/150,150,AEE,Dispersómetro,SCATTEROMETER,Dispersómetro,Operational,PDF
-C08/151,151,,,,,Operational,NA
 C08/152,152,AEE,Exploración a través del nadir,SW,Sonda de vigilancia troposférica TROPOMI,Operational,PDF
 C08/161,161,AEE,Radiómetro,MIPAS,Sonda atmosférica pasiva por interferometría Michelson,Operational,PDF
 C08/162,162,AEE,Radiómetro productor de imágenes multiespectrales (microondas pasivo),MWR-2,Radiómetro de microondas-2,Operational,PDF
-C08/163,163,,,,,Operational,NA
-C08/170,170,,,,,Operational,NA
 C08/172,172,AEE,Espectrómetro,GOMOS,Vigilancia del ozono mundial por ocultación de estrellas,Operational,PDF
-C08/173,173,,,,,Operational,NA
 C08/174,174,AEE,Espectrómetro,MERIS,Espectrómetro de imagenización de resolución media,Operational,PDF
 C08/175,175,AEE,Espectrómetro,SCIAMACHY,Espectrómetro de absorción de imagenización mediante exploración para cartografía de la atmósfera imágenes con síntesis de apertura,Operational,PDF
-C08/176,176,,,,,Operational,NA
 C08/177,177,ESA,Altímetro de radar,SIRAL,SAR/altímetro de radar interferométrico,Operational,PDF
 C08/178,178,ESA,Altímetro de radar,SRAL,Altímetro de radar de apertura sintética,Operational,PDF
 C08/179,179,ESA,Productor de imágenes,OLCI,Productor de imágenes en color oceánicas y,Operational,PDF
@@ -73,31 +56,12 @@ C08/181,181,EUMETSAT,Comunicaciones,Coms. METEOSAT,Paquete de comunicaciones par
 C08/182,182,EUMETSAT,Comunicaciones,Coms. MSG,Paquete de comunicaciones para MSG,Operational,PDF
 C08/190,190,AEE/ EUMETSAT,Dispersómetro,ASCAT,Dispersómetro avanzado,Operational,PDF
 C08/200,200,EUMETSAT,Radiómetro,GERB,Balance geoestacionario de radiación terrena,Operational,PDF
-C08/202,202,,,,,Operational,NA
 C08/203,203,EUMETSAT,Radiómetro,MHS,Sonda de humedad por microondas,Operational,PDF
 C08/205,205,EUMETSAT,Radiómetro,MVIRI,Reproductor de imágenes visible e infrarrojo METEOSAT,Operational,PDF
 C08/207,207,EUMETSAT,Radiómetro,SEVIRI,Reproductor de imágenes visible e infrarrojo mejorado rotatorio,Operational,PDF
 C08/208,208,EUMETSAT,Radiómetro productor de imágenes multiespectrales (vis/IR),VIRI,VIRI,Operational,PDF
-C08/209,209,,,,,Operational,NA
-C08/210,210,,,,,Operational,NA
-C08/211,211,,,,,Operational,NA
-C08/212,212,,,,,Operational,NA
-C08/213,213,,,,,Operational,NA
-C08/214,214,,,,,Operational,NA
-C08/215,215,,,,,Operational,NA
-C08/216,216,,,,,Operational,NA
 C08/220,220,AEE/,Espectrómetro,GOME-2,Experimento de vigilancia del ozono mundial,Operational,PDF
 C08/221,221,CNES/,Sonda para la temperatura,IASI,Interferómetro de sondeo atmosférico,Operational,PDF
-C08/230,230,,,,,Operational,NA
-C08/231,231,,,,,Operational,NA
-C08/232,232,,,,,Operational,NA
-C08/233,233,,,,,Operational,NA
-C08/234,234,,,,,Operational,NA
-C08/235,235,,,,,Operational,NA
-C08/236,236,,,,,Operational,NA
-C08/237,237,,,,,Operational,NA
-C08/238,238,,,,,Operational,NA
-C08/240,240,,,,,Operational,NA
 C08/245,245,CAST,Radiómetro,CCD,Cámara CCD de alta resolución,Operational,PDF
 C08/246,246,INPE,Sonda para la temperatura y humedad atmosféricas,HSB,Sonda de humedad/Brasil,Operational,PDF
 C08/248,248,INPE,Radiómetro productor de imágenes multiespectrales (vis/IR),OBA,Observador Brasileiro da Amazonia,Operational,PDF
@@ -105,7 +69,6 @@ C08/250,250,CAST,Radiómetro,WFI,Reproductor de imágenes de campo extenso,Opera
 C08/255,255,CAST,Espectrómetro,IRMSS,Explorador multiespectral infrarrojo,Operational,PDF
 C08/260,260,ISRO,Órbita de precisión,Transpondedores BSS y FSS,,Operational,PDF
 C08/261,261,ISRO,Órbita de precisión,DRT-S&R,,Operational,PDF
-C08/262,262,,,,,Operational,NA
 C08/268,268,ISRO,Productor de imágenes ópticas de alta resolución,HR-PAN,Cámara pancromática de alta resolución,Operational,PDF
 C08/269,269,ISRO,Radiómetro productor,MSMR,Radiómetro de microondas por exploración,Operational,PDF
 C08/270,270,ISRO,Radiómetro productor de imágenes multiespectrales (vis/IR),VHRR,Radiómetro de muy alta resolución,Operational,PDF
@@ -117,7 +80,6 @@ C08/278,278,ISRO,Productor de imágenes ópticas de alta resolución,LISS-III,Au
 C08/279,279,ISRO,Productor de imágenes ópticas de alta resolución,LISS-IV,Autoexplorador de imagenización lineal - IV,Operational,PDF
 C08/284,284,ISRO,Productor de imágenes ópticas de alta resolución,PAN,Sensor pancromático,Operational,PDF
 C08/285,285,ISRO,Radiómetro productor de imágenes multiespectrales (vis/IR) para el océano,MOS,Explorador optoelectrónico modular,Operational,PDF
-C08/286,286,,,,,Operational,NA
 C08/287,287,ASI,,ROSA,Sonda atmosférica por radio ocultación,Operational,PDF
 C08/288,288,ISRO,Dispoersómetro,SCAT,Dispersómetro,Operational,PDF
 C08/289,289,ISRO,Reproductor de imágenes óptico,IMG,Reproductor de imágenes,Operational,PDF
@@ -128,7 +90,6 @@ C08/295,295,JMA,Radiómetro multiespectral productor de imágenes,IMAGER/MTSAT-2
 C08/296,296,JMA,Radiómetro multiespectral,VISSR (GMS4),Radiómetro de exploración visible e infrarrojo,Operational,PDF
 C08/297,297,JMA,Radiómetro multiespectral productor de imágenes,AHI,Reproductor avanzado de imágenes Himawari,Operational,PDF
 C08/300,300,NASA,Lidar,GLAS,Sistema de altímetro por láser para ciencias de la Tierra,Operational,PDF
-C08/301,301,,,,,Operational,NA
 C08/302,302,NASA,Lidar,MBLA,Altímetro láser de haz múltiple,Operational,PDF
 C08/303,303,NASA,Lidar,CALIOP,Lidar de aerosoles de nube con polarización ortogonal,Operational,PDF
 C08/309,309,NASA,Radar de perfil de las nubes y lluvia,CPR (Cloudsat),Radar perfilador de nubes,Operational,PDF
@@ -136,7 +97,6 @@ C08/312,312,NASA,Radar,NSCAT,Dispersómetro NASA,Operational,PDF
 C08/313,313,NASA,Radar,SeaWinds,Dispersómetro ADEOS II - NASA,Operational,PDF
 C08/314,314,NASA,Radar,RapidScat,Dispersómetro RapidScat,Operational,PDF
 C08/330,330,NASA,Radiómetro del balance,ACRIM,Monitor de irradiancia por radiómetro de,Operational,PDF
-C08/334,334,,,,,Operational,NA
 C08/336,336,NASA,Productor de imágenes ópticas de alta resolución,ALI,Reproductor de imágenes terrestre avanzado,Operational,PDF
 C08/347,347,NASA,Productor de imágenes,ASTER,Radiómetro avanzado de emisión y reflexión,Operational,PDF
 C08/348,348,NASA,Radiómetro del balance,CERES-2,Sistema de estudio del balance radiativo de,Operational,PDF
@@ -145,13 +105,11 @@ C08/353,353,NASA,Ozono total y perfil del ozono,HiRDLS,Sonda tangencial dinámic
 C08/354,354,NASA,Ozono total y perfil del,HRDI,Reproductor de imágenes Doppler de alta,Operational,PDF
 C08/356,356,NASA,Radiómetro,LIS,Sensor de imagenización de relámpagos,Operational,PDF
 C08/358,358,NASA,"Campo magnético, límite de centelleo de imágenes aurorales",PEM,Monitor de partículas del medio ambiente,Operational,PDF
-C08/359,359,,,,,Operational,NA
 C08/360,360,NASA,Radiómetro del balance de radiación de la Tierra,SUSIM (UARS),Monitor de irradiancia ultravioleta solar,Operational,PDF
 C08/363,363,NASA,Ozono total y perfil del,SBUV/1,Detector de retrodispersión solar,Operational,PDF
 C08/365,365,NASA,Radiómetro productor,TMI,Reproductor de imágenes de microondas,Operational,PDF
 C08/366,366,NASA,Radiómetro productor de imágenes multiespectrales (microondas pasivo),JMR,Radiómetro de microondas JASON-1,Operational,PDF
 C08/367,367,NASA,Radiómetro multiespectral de imagenización,AMR,Radiómetro de microondas avanzado,Operational,PDF
-C08/368,368,,,,,Operational,NA
 C08/369,369,NASA,Ozono total y perfil del,LIMS,Aparato de sondeo tangencial infrarrojo de la,Operational,PDF
 C08/370,370,NASA,Ozono total y perfil del,LRIR,Radiómetro de inversión de la radiancia del,Operational,PDF
 C08/371,371,NASA,Ozono total y perfil del,EPIC,Cámara de imágenes policromáticas de la,Operational,PDF
@@ -170,28 +128,18 @@ C08/386,386,NASA,Espectrorradiómetro,MLS,Sonda tangencial de microondas,Operati
 C08/387,387,NASA,Espectrorradiómetro,MLS (EOS-Aura),Sonda tangencial de microondas (EOS-Aura),Operational,PDF
 C08/389,389,NASA,Espectrorradiómetro,MODIS,Espectrorradiómetro de imagenización de resolución moderada,Operational,PDF
 C08/393,393,NASA,Gravedad ozono,HAIRS,Sistema de telemetría intersatelital de gran precisión,Operational,PDF
-C08/394,394,,,,,Operational,NA
 C08/395,395,NASA,Radiómetro,Corrector atmosférico,Corrector atmosférico,Operational,PDF
 C08/396,396,NASA,Radiómetro,Hyperion,Reproductor de imágenes hiperespectral,Operational,PDF
-C08/397,397,,,,,Operational,NA
-C08/398,398,,,,,Operational,NA
 C08/399,399,NASA,Espectrorradiómetro,SAGE I,Experimento sobre gases y aerosoles estratosféricos-I,Operational,PDF
 C08/400,400,NASA,Espectrorradiómetro,SAGE II,Experimento sobre gases y aerosoles estratosféricos-II,Operational,PDF
 C08/401,401,NASA,Espectrorradiómetro,SAGE III,Experimento sobre gases y aerosoles estratosféricos-III,Operational,PDF
 C08/402,402,NASA,Espectrorradiómetro,SAMS,Sonda estratosférica y mesosférica,Operational,PDF
-C08/403,403,,,,,Operational,NA
 C08/404,404,NASA,Espectrorradiómetro,IRIS,Espectrómetro interferómetro infrarrojo,Operational,PDF
-C08/405,405,,,,,Operational,NA
 C08/420,420,NASA,Espectrómetro,AIRS,Sonda infrarroja atmosférica,Operational,PDF
-C08/421,421,,,,,Operational,NA
-C08/422,422,,,,,Operational,NA
 C08/426,426,NASA,Espectrómetro,SOLSTICE,Experimento de comparación de irradiancias solares y estelares,Operational,PDF
 C08/430,430,NASA,Espectrómetro,TES,Espectrómetro de emisión troposférica,Operational,PDF
 C08/431,431,NASA,Espectrómetro,TOMS,Espectrómetro de cartografía del ozono total,Operational,PDF
 C08/432,432,NASA,Espectrómetro,OCO,Observatorio en órbita del carbono,Operational,PDF
-C08/433,433,,,,,Operational,NA
-C08/434,434,,,,,Operational,NA
-C08/435,435,,,,,Operational,NA
 C08/450,450,JAXA,Comunicaciones,Coms. ADEOS,Paquete de comunicaciones para ADEOS,Operational,PDF
 C08/451,451,JAXA,Comunicaciones,DCS (JAXA),Sistema de recopilación de datos (JAXA),Operational,PDF
 C08/453,453,NASDA,Comunicaciones,Coms. GMS,Paquete de comunicaciones en GMS,Operational,PDF
@@ -200,10 +148,8 @@ C08/460,460,NASDA,Lidar,RIS,Retrorreflector en el espacio,Operational,PDF
 C08/461,461,NASDA,Radar,PR,Radar de precipitaciones,Operational,PDF
 C08/462,462,NASDA,Radar productor de imágenes por microondas,SAR,Radar de abertura sintética,Operational,PDF
 C08/470,470,JAXA,Radar productor de,PALSAR,Radar de abertura sintética en banda L de,Operational,PDF
-C08/477,477,,,,,Operational,NA
 C08/478,478,JAXA,Radiómetro multiespectral,AMSR2,Radiómetro de exploración en microondas,Operational,PDF
 C08/479,479,JAXA,Radiómetro multiespectral,AMSR-E,Radiómetro de exploración en microondas,Operational,PDF
-C08/480,480,,,,,Operational,NA
 C08/481,481,JAXA,Radiómetro,AMSR,Radiómetro de exploración en microondas avanzado,Operational,PDF
 C08/482,482,NASDA,Productor de imágenes,AVNIR,Radiómetro visible e infrarrojo cercano,Operational,PDF
 C08/483,483,JAXA,Productor de imágenes,AVNIR-2,Radiómetro visible e infrarrojo cercano,Operational,PDF
@@ -218,13 +164,10 @@ C08/510,510,NASDA,Espectrómetro,ILAS-I,Espectrómetro atmosférico tangencial m
 C08/511,511,NASDA,Espectrómetro,ILAS-II,Espectrómetro atmosférico tangencial mejorado,Operational,PDF
 C08/512,512,NASDA,Espectrómetro,IMG,Monitor interferométrico de gases de efecto invernadero,Operational,PDF
 C08/514,514,NASDA,Medio espacial,SEM,Aparato de control del medio espacial de la Academia Nacional de Ciencias (NASDA),Operational,PDF
-C08/515,515,,,,,Operational,NA
 C08/516,516,JAXA,Espectrómetro,TANSO-FTS,Sensor térmico y de infrarrojo corto para realizar observaciones del carbono (TANSO) - (FTS),Operational,PDF
 C08/517,517,JAXA,Productor de imágenes,TANSO-CAI,Sensor térmico y de infrarrojo corto para realizar observaciones del carbono (TANSO Productor de imágenes de nubes y aerosoles (CAI),Operational,PDF
 C08/518,518,JAXA,Radar de nubes y,DPR,Radar de doble frecuencia para,Operational,PDF
 C08/519,519,NASA,"Radiómetro de imagen o sondeo por microondas, exploración cónica",GMI,Productor de imágenes por microondas GPM,Operational,PDF
-C08/520,520,,,,,Operational,NA
-C08/521,521,,,,,Operational,NA
 C08/526,526,GeoOptics,Sonda de ocultación GNSS Cion-A,,Receptor de ocultación GNSS Cion-A de GeoOptics,Operational,PDF
 C08/527,527,GeoOptics,Sonda de ocultación GNSS Cion-B,,Receptor de ocultación GNSS Cion-B de GeoOptics,Operational,PDF
 C08/528,528,GeoOptics,Sonda de ocultación GNSS Cion-C,,Receptor de ocultación GNSS Cion-C de GeoOptics,Operational,PDF
@@ -235,8 +178,6 @@ C08/532,532,Spire,Sonda de ocultación GNSS SGNOS-C,,Sistema mundial de navegaci
 C08/533,533,Spire,Sonda de ocultación GNSS SGNOS-D,,Sistema mundial de navegación por satélite con sonda de ocultación Spire D,Operational,PDF
 C08/534,534,PlanetiQ,Sonda de ocultación GNSS Pyxis-A,,Receptor de ocultación GNSS Pyxis-A de PlanetiQ,Operational,PDF
 C08/535,535,PlanetiQ,Sonda de ocultación GNSS Pyxis-B,,Receptor de ocultación GNSS Pyxis-B de PlanetiQ,Operational,PDF
-C08/536,536,,,,,Operational,NA
-C08/537,537,,,,,Operational,NA
 C08/540,540,NOAA,Comunicaciones,DCS (NOAA),Sistema de recopilación de datos (NOAA),Operational,PDF
 C08/541,541,NOAA,Comunicaciones,Coms. GOES,Paquete de comunicaciones en GOES,Operational,PDF
 C08/542,542,NOAA,Comunicaciones,Coms. LANDSAT,Paquete de comunicaciones para LANDSAT,Operational,PDF
@@ -269,12 +210,9 @@ C08/620,620,NOAA,Sonda para la temperatura,CrIRS/NP,Sonda infrarroja transversal
 C08/621,621,NOAA,Sonda para la temperatura y humedad atmosféricas,ATMS,Sonda de microondas de tecnología avanzada,Operational,PDF
 C08/622,622,NOAA,Radiómetro,MSS,Sistema de exploración multiespectral,Operational,PDF
 C08/623,623,NOAA,Radiómetro,MSU,Unidad de sondeo en microondas solar/2 solar/3,Operational,PDF
-C08/624,624,,,,,Operational,NA
-C08/625,625,,,,,Operational,NA
 C08/626,626,NOAA,Radiómetro,SOUNDER,SOUNDER,Operational,PDF
 C08/627,627,NOAA,Radiómetro,SSU,Unidad de sondeo estratosférico,Operational,PDF
 C08/628,628,NOAA,Radiómetro,TM,Trazador temático cartográfico,Operational,PDF
-C08/629,629,,,,,Operational,NA
 C08/630,630,NOAA,Radiómetro,VAS,Sonda atmosférica VISSR,Operational,PDF
 C08/631,631,NOAA,Radiómetro,SSZ,,Operational,PDF
 C08/645,645,NOAA,Espectrómetro,SEM,Monitor del medio ambiente espacial,Operational,PDF
@@ -291,7 +229,6 @@ C08/685,685,NSAU,Radiómetro,TRASSER,,Operational,PDF
 C08/686,686,SOA,Dispersómetro,SCAT,Dispersómetro,Operational,PDF
 C08/687,687,SOA,Altímetro de radar,ALT,Altímetro de radar,Operational,PDF
 C08/688,688,SOA,Radiómetro de microondas MWI,,Radiómetro de microondas,Operational,PDF
-C08/689,689,,,,,Operational,NA
 C08/700,700,ROSCOSMOS Comunicaciones,,KONDOR-2,Sistema de recopilación y transmisión de datos,Operational,PDF
 C08/701,701,ROSCOSMOS Comunicaciones,,BRK,,Operational,PDF
 C08/710,710,ROSCOSMOS Lidar,,ALISSA,Lidar de retrodispersión,Operational,PDF
@@ -336,7 +273,6 @@ C08/815,815,ROSCOSMOS Radiómetro productor de,imágenes multiespectrales (micro
 C08/820,820,ROSCOSMOS Radiómetro productor de,imágenes multiespectrales (microondas pasivo),R-225,Radiómetro de microondas de canal único,Operational,PDF
 C08/821,821,ROSCOSMOS Radiómetro,,R-400,,Operational,PDF
 C08/822,822,ROSCOSMOS Radiómetro,,R-600,Radiómetro de microondas de canal único,Operational,PDF
-C08/830,830,,,,,Operational,NA
 C08/835,835,ROSCOSMOS Radiómetro,,Cámara de TV,,Operational,PDF
 C08/836,836,ROSCOSMOS Radiómetro,,SILVA,,Operational,PDF
 C08/840,840,ROSCOSMOS Espectrorradiómetro,,SROSMO,Espectrorradiómetro para vigilancia del océano,Operational,PDF
@@ -352,11 +288,7 @@ C08/861,861,ROSCOSMOS Sonda de temperatura y,,MTVZA-GY,Módulo para el sondeo de
 C08/862,862,ROSCOSMOS Espectrómetro,,IKFS-2,Espectrómetro infrarrojo por,Operational,PDF
 C08/900,900,NOAA,Radiómetro,MAXIE,Experimento de imagenización atmosférica magnetosférica en rayos X,Operational,PDF
 C08/901,901,NOAA,Radiómetro,OLS,Sistema de exploración de línea operacional,Operational,PDF
-C08/905,905,,,,,Operational,NA
-C08/906,906,,,,,Operational,NA
-C08/907,907,,,,,Operational,NA
 C08/908,908,NOAA,Radiómetro,SSMIS,Sonda de imágenes por microondas con sensor especial,Operational,PDF
-C08/909,909,,,,,Operational,NA
 C08/910,910,NOAA,Radiómetro,SXI,Imagenizador solar de rayos X,Operational,PDF
 C08/930,930,NOAA,Espectrómetro,EHIC,Experimento sobre la composición en iones pesados energéticos,Operational,PDF
 C08/931,931,NOAA,Espectrómetro,Material cargado para observaciones astronómicas en rayos X,,Operational,PDF
@@ -392,35 +324,6 @@ C08/961,961,CMA,Radiómetro multiespectral,AGRI,Imagenizador de radiación geoes
 C08/962,962,CMA,Sonda para la temperatura,GIIRS,Interferómetro geoestacionario de sondeo en,Operational,PDF
 C08/963,963,CMA,Generador óptico de imágenes de alta resolución,LMI,Generador de mapas de rayos,Operational,PDF
 C08/964,964,CMA,Medio espacial,SEP,Equipo de entorno espacial,Operational,PDF
-C08/965,965,,,,,Operational,NA
-C08/966,966,,,,,Operational,NA
-C08/967,967,,,,,Operational,NA
-C08/968,968,,,,,Operational,NA
-C08/969,969,,,,,Operational,NA
-C08/970,970,,,,,Operational,NA
-C08/971,971,,,,,Operational,NA
-C08/972,972,,,,,Operational,NA
-C08/973,973,,,,,Operational,NA
-C08/974,974,,,,,Operational,NA
-C08/975,975,,,,,Operational,NA
-C08/976,976,,,,,Operational,NA
-C08/977,977,,,,,Operational,NA
-C08/978-979,978-979,,,,,Operational,NA
 C08/980,980,KMA,Reproductor de imágenes AMI,,Reproductor avanzado de imágenes meteorológicas,Operational,PDF
 C08/981,981,KMA,Reproductor de imágenes MI,,Reproductor de imágenes meteorológicas espacial,Operational,PDF
-C08/982,982,,,,,Operational,NA
-C08/983,983,,,,,Operational,NA
-C08/984,984,,,,,Operational,NA
-C08/985,985,,,,,Operational,NA
-C08/986,986,,,,,Operational,NA
-C08/987,987,,,,,Operational,NA
-C08/988,988,,,,,Operational,NA
-C08/989,989,,,,,Operational,NA
-C08/990,990,,,,,Operational,NA
-C08/991,991,,,,,Operational,NA
-C08/992,992,,,,,Operational,NA
-C08/993,993,,,,,Operational,NA
-C08/994,994,,,,,Operational,NA
-C08/995-999,995-999,,,,,Operational,NA
-C08/1000-2046,1000-2046,,,,,Operational,NA
 C08/2047,2047,,Valor faltante,,,Operational,PDF
