@@ -1,0 +1,38 @@
+noteID,note_es
+1,"Todas las radiosondas GPS tienen termistor, sensor de presión piezorresistente de silicio o presión obtenida a partir de la altura mediante GPS, sensor capacitivo de humedad relativa y viento obtenido a partir de la altura mediante GPS."
+2,Todos los números no asignados se reservan para uso futuro.
+3,Los números de versión 8 a 15 de la tabla maestra de CREX no se utilizan.
+4,"Unidad Dobson = DU. Una unidad Dobson corresponde a una capa de 0,01 mm de ozono puro, si la columna atmosférica total se comprimiera a P = 1013 hPa y T = 0°C."
+5,"Para la definición de los centros secundarios proporcionada a la Secretaría de la OMM, véase la Tabla de cifrado común C–12."
+6,"En el caso de BUFR y CREX, estos números de versión se aplican a la tabla maestra 0."
+7,La incorporación de la Tabla de cifrado común C-0 es una iniciativa jurídica. Los Miembros de la OMM y otros usuarios de las claves determinadas por tablas pueden usar los números de versión prácticamente de la misma manera en que lo han venido haciendo hasta que su programa informático pueda referirse a las tablas de cifrado común.
+8,"Abreviaturas ajenas a la OMM con juegos de caracteres limitados tomados de ISO 2955-1983. En otras abreviaturas, se procura guardar coherencia con esta norma."
+9,"Los prefijos superiores a exa y atto han sido propuestos, pero no están aún adoptados. No se aconseja utilizar los prefijos hecto, deca, deci o centi."
+10,"Por lo general, los prefijos no deberían utilizarse con unidades que tengan múltiplos y submúltiplos no decimales, como las de tiempo o de ángulo, o con nudos y millas náuticas."
+11,"Los países mencionados entre paréntesis son los fabricantes de los instrumentos, y no necesariamente quienes los utilizan."
+12,"Algunas de las radiosondas mencionadas se encuentran fuera de servicio, pero se las conserva para los archivos."
+13,"La abreviatura de grados Celsius propuesta para uso de la OMM, C, podría inducir a confusión con los culombios. Cuando sea ese el caso, estos últimos deberían expresarse en amperios por segundo."
+14,"En el modelo de código alfanumérico sólo hay 2 dígitos y el primer dígito para la clave BUFR se identifica por la fecha, a saber: el primer dígito es 0 si la introducción de la radiosonda de observación se produjo antes del 30 de junio de 2007 y si no es 1. Las entradas de la segunda parte de la tabla (después de 99) declaradas ""vacantes"" pueden utilizarse para nuevas radiosondas, ya que el número de 2 dígitos se atribuyó inicialmente a sondas que ya no se usan. Se ha adoptado este sistema para poder incluir los informes del modelo del código alfanumérico tradicional de TEMP hasta el momento de que se use plenamente la clave BUFR en los informes de las radiosondas."
+15,Un paréntesis de cierre ) indica que la correspondiente cifra de clave se reserva para el centro previamente citado.
+16,Un paréntesis de cierre ) indica que la correspondiente cifra de clave se reserva para el centro previamente citado.
+17,"El decibelio es la décima parte de un belio, que es, a su vez, el logaritmo decimal de un cociente de dos potencias. Es frecuente añadir sufijos para denotar información sobre una de las cantidades del cociente, por ejemplo dB(mW), dBm, dBZ, dBW, dBmW, dB(uV/m). Se recomienda utilizar solamente dB, habiendo explicado enteramente el significado del cociente, incluidos los niveles de referencia."
+18,La profundidad se calcula a partir de los coeficientes a y b y el tiempo t como sigue: z = at + 10–3bt2.
+19,"El sistema internacional de unidades (Système International d'Unités (SI)) fue creado en 1960 por la undécima Conferencia general de pesas y medidas, y ampliado en la conferencia de 1980. Hay siete unidades básicas, dos unidades suplementarias sin dimensiones y un conjunto de prefijos para determinar la escala decimal. Combinando estos últimos, se obtienen unidades compuestas. Algunas unidades compuestas tienen nombres especiales, y se denominan ""unidades derivadas""."
+20,Los valores de a y b se proporcionan para información solamente.
+21,Esta lista se compone de las unidades no mencionadas anteriormente que figuran en los Manuales de la OMM en vigor.
+22,"Al exponer las unidades SI compuestas, se ha separado mediante un espacio cada símbolo de cada unidad básica. No hay espacios entre la unidad y los prefijos o exponentes. Cada prefijo establece una nueva unidad a la que es aplicable cualquier exponente (por ejemplo, km2 = (km) 2 = m6 y no k(m2) = m5). Los prefijos deberán figurar en mayúsculas o minúsculas, conforme se especifique. El nombre completo de la unidad no deberá comenzar por una mayúscula. Si se usa el signo de barra (/), deberá haber solamente uno, sin espacios a su izquierda ni a su derecha."
+23,"Si es necesario definir si el centro de origen/generación es un centro secundario o no en las claves GRIB o BUFR, debe procederse de la siguiente manera:
+
+para la clave GRIB edición 1 utilizar el octeto 26 de la Sección 1; o, para la clave BUFR edición 3, el octeto 5 de la Sección 1, con el siguiente significado:
+
+Cifra de clave
+0 No es un centro secundario, el centro de origen/generación es el centro definido por el octeto 5 de la Sección 1 de la clave GRIB edición 1; o por el octeto 6 de la Sección 1 de la clave BUFR edición 3.
+1 a 254 Identificador del centro secundario que es el centro de origen/generación. El identificador del centro secundario es asignado por el centro asociado definido por el octeto 5 de la Sección 1 de la clave GRIB edición 1, o por el octeto 6 de la Sección 1 de la clave BUFR edición 3. Los identificadores de los centros secundarios deberían ser proporcionados a la Secretaría de la OMM por el centro asociado para su publicación."
+24,"Si es necesario definir si el centro de origen/generación es un centro secundario o no en las claves GRIB edición 2 o BUFR, debe procederse de la siguiente manera:
+
+Para la clave GRIB edición 2 utilizar los octetos 8–9 de la Sección 1; o, para la clave BUFR edición 4, los octetos 7–8 de la Sección 1, con el siguiente significado:
+
+Cifra de clave
+0 No es un centro secundario, el centro de origen/generación es el centro definido por los octetos 6–7, Sección 1, de la clave GRIB edición 2; o por los octetos 5–6, Sección 1, de la clave BUFR edición 4.
+1 a 254 Identificador del centro secundario que es el centro de origen/generación. El identificador del centro secundario es asignado por el centro asociado definido por los octetos 6–7, Sección 1 de la clave GRIB edición 2, o por los octetos 5–6, Sección 1 de la clave BUFR edición 4. Los identificadores de los centros secundarios deberían ser proporcionados a la Secretaría de la OMM por el centro asociado para su publicación."
+25,"En las series 000 a 849 y 870 a 998, los decilos pares indican satélites de órbita polar y los decilos impares indican satélites geoestacionarios. La serie comprendida entre 850 y 869 se utilizará para indicar diferentes combinaciones de satélites, de manera que la norma sobre los decilos descrita anteriormente no se aplica a esta serie."
