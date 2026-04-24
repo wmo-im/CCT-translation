@@ -1,0 +1,49 @@
+ID,CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_fr,Status,translation_source
+C07/0,00,0,Pas de mesure du vent,Operational,PDF
+C07/1,01,1,Système automatique avec mesure optique auxiliaire de la direction,Operational,PDF
+C07/2,02,2,Système automatique avec radiogoniométrie auxiliaire,Operational,PDF
+C07/3,03,3,Système automatique avec télémétrie auxiliaire,Operational,PDF
+C07/4,04,4,Non utilisé,Operational,PDF
+C07/5,05,5,Système automatique utilisant des signaux multiples VLF-Oméga,Operational,PDF
+C07/6,06,6,Système automatique Loran-C,Operational,PDF
+C07/7,07,7,Système automatique avec profileur du vent auxiliaire,Operational,PDF
+C07/20,20,20,Navire arrêté,Operational,PDF
+C07/21,21,21,Navire détourné de sa destination d'origine,Operational,PDF
+C07/22,22,22,Arrivée du navire retardée,Operational,PDF
+C07/23,23,23,Conteneur endommagé,Operational,PDF
+C07/24,24,24,Panne d'alimentation du conteneur,Operational,PDF
+C07/29,29,29,Autres problèmes SYSTÈME DE SONDAGE,Operational,PDF
+C07/30,30,30,Graves problèmes d'alimentation,Operational,PDF
+C07/31,31,31,Non fonctionnement de l'unité d'alimentation sans coupure,Operational,PDF
+C07/32,32,32,Problèmes matériels du récepteur,Operational,PDF
+C07/33,33,33,Problèmes logiciels du récepteur,Operational,PDF
+C07/34,34,34,Problèmes matériels de l'unité de traitement,Operational,PDF
+C07/35,35,35,Problèmes logiciels de l'unité de traitement,Operational,PDF
+C07/36,36,36,Système NAVAID endommagé,Operational,PDF
+C07/37,37,37,Pénurie de gaz de sustentation,Operational,PDF
+C07/38,38,38,En réserve,Operational,PDF
+C07/39,39,39,Autres problèmes DISPOSITIF DE LâCHER DE BALLON,Operational,PDF
+C07/40,40,40,Défaut mécanique,Operational,PDF
+C07/41,41,41,Défaut matériel (dispositif de lâcher manuel),Operational,PDF
+C07/42,42,42,Panne d'alimentation,Operational,PDF
+C07/43,43,43,Défaillance du système de commande (à suivre),Operational,PDF
+C07/44,44,44,Défaillance pneumatique/hydraulique,Operational,PDF
+C07/45,45,45,Autres problèmes,Operational,PDF
+C07/46,46,46,Problèmes de compresseur,Operational,PDF
+C07/47,47,47,Problèmes de ballon,Operational,PDF
+C07/48,48,48,Problèmes de lâcher de ballon,Operational,PDF
+C07/49,49,49,Dispositif de lâcher endommagé SYSTÈME D'ACQUISITION DE DONNéES,Operational,PDF
+C07/50,50,50,Défaut de l'antenne du récepteur de la radiosonde,Operational,PDF
+C07/51,51,51,Défaut de l'antenne du système NAVAID,Operational,PDF
+C07/52,52,52,Défaut de câblage (de l'antenne) du récepteur de la radiosonde,Operational,PDF
+C07/53,53,53,Défaut de câblage de l'antenne du système NAVAID,Operational,PDF
+C07/59,59,59,Autres problèmes TRANSMISSIONS,Operational,PDF
+C07/60,60,60,Transmissions défectueuses du système ASAP,Operational,PDF
+C07/61,61,61,Données rejetées par les installations de télécommu nication,Operational,PDF
+C07/62,62,62,Pas d'énergie à l'antenne d'émission,Operational,PDF
+C07/63,63,63,Câble d'antenne rompu,Operational,PDF
+C07/64,64,64,Défaut sur le câble d'antenne,Operational,PDF
+C07/65,65,65,Puissance d'émission du message inférieure à la normale,Operational,PDF
+C07/69,69,69,Autres problèmes,Operational,PDF
+C07/70,70,70,Fonctionnement normal de tous les systèmes,Operational,PDF
+C07/99,99,99,état du système et de ses composantes non spécifié,Operational,PDF

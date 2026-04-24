@@ -1,0 +1,141 @@
+ID,CodeFigure,UnitType_fr,Meaning_fr,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID,Status,translation_source
+C06/001,001,mètre,m,m,m,M,,(see Note 1),19,Operational,PDF
+C06/002,002,kilogramme,kg,kg,kg,KG,,,,Operational,PDF
+C06/003,003,seconde,s,s,s,S,,,,Operational,PDF
+C06/004,004,ampère,A,A,A,A,,,,Operational,PDF
+C06/005,005,kelvin,K,K,K,K,,,,Operational,PDF
+C06/006,006,mole,mol,mol,mol,MOL,,,,Operational,PDF
+C06/007,007,candela,cd,cd,cd,CD,,,,Operational,PDF
+C06/021,021,radian,rad,rad,rad,RAD,,(see Note 1),19,Operational,PDF
+C06/022,022,stéradian,sr,sr,sr,SR,,,,Operational,PDF
+C06/030,030,hertz,Hz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational,PDF
+C06/031,031,newton,N,N,N,N,kg m s^-2,,,Operational,PDF
+C06/032,032,pascal,Pa,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational,PDF
+C06/033,033,joule,J,J,J,J,kg m^2 s^-2,,,Operational,PDF
+C06/034,034,watt,W,W,W,W,kg m^2 s^-3,,,Operational,PDF
+C06/035,035,coulomb,C,C,C,C,A s,,,Operational,PDF
+C06/036,036,volt,V,V,V,V,kg m^2 s^-3 A^-1,,,Operational,PDF
+C06/037,037,farad,F,F,F,F,kg^-1 m^-2 s^4 A^2,,,Operational,PDF
+C06/038,038,ohm,Ω,Ω,Ohm,OHM,kg m^2 s^-3 A^-2,,,Operational,PDF
+C06/039,039,siemens,S,S,S,SIE,kg^-1 m^-2 s^3 A^2,,,Operational,PDF
+C06/040,040,weber,Wb,Wb,Wb,WB,kg m^2 s^-2 A^-1,,,Operational,PDF
+C06/041,041,tesla,T,T,T,T,kg s^-2 A^-1,,,Operational,PDF
+C06/042,042,henry,H,H,H,H,kg m^2 s^-2 A^-2,,,Operational,PDF
+C06/060,060,degré Celsius,°C,˚C,Cel,CEL,K+273.15,,,Operational,PDF
+C06/070,070,lumen,lm,lm,lm,LM,cd sr,,,Operational,PDF
+C06/071,071,lux,lx,lx,lx,LX,cd sr m^-2,,,Operational,PDF
+C06/080,080,becquerel,Bq,Bq,Bq,BQ,s^-1,,,Operational,PDF
+C06/081,081,grey,Gy,Gy,Gy,GY,m^2 s^-2,,,Operational,PDF
+C06/082,082,sievert,Sv,Sv,Sv,SV,m^2 s^-2,,,Operational,PDF
+C06/110,110,degré (angle),°,˚,deg,DEG,,(see Note 4),10,Operational,PDF
+C06/111,111,minute (angle),',',',MNT,,(see Note 10),27,Operational,PDF
+C06/112,112,seconde (angle),"""","""","""",SEC,,(see Note 10),27,Operational,PDF
+C06/120,120,litre,l ou L,l or L,l or L,L,,,,Operational,PDF
+C06/130,130,minute (temps),min,min,min,MIN,,,,Operational,PDF
+C06/131,131,heure,h,h,h,HR,,,,Operational,PDF
+C06/132,132,jour,d,d,d,D,,,,Operational,PDF
+C06/150,150,tonne,t,t,t,TNE,,,,Operational,PDF
+C06/160,160,électronvolt,eV,eV,eV,EV,,,,Operational,PDF
+C06/161,161,unité de masse atomique,u,u,u,U,,(see Note 11),28,Operational,PDF
+C06/170,170,unité astronomique,AU,AU,AU,ASU,,,,Operational,PDF
+C06/210,210,décibel (6),dB,dB,dB,DB,,(see Note 6),17,Operational,PDF
+C06/220,220,hectare,ha,ha,ha,HAR,,,,Operational,PDF
+C06/171,171,parsec,pc,pc,pc,PRS,,(see Note 7),21,Operational,PDF
+C06/200,200,mille marin,,,,,,,,Operational,PDF
+C06/201,201,nœud,kt,kt,kt,KT,,,,Operational,PDF
+C06/230,230,semaine,,,,,,,,Operational,PDF
+C06/231,231,année,a,a,a,A,,,,Operational,PDF
+C06/300,300,pourcentage,%,%,%,PERCENT,,,,Operational,PDF
+C06/301,301,partie par millier,‰,‰,0/00,PERTHOU,,,,Operational,PDF
+C06/310,310,huitième de la voûte céleste,octa,okta,okta,OKTA,,,,Operational,PDF
+C06/320,320,degré vrai,°,˚,deg,DEG,,,,Operational,PDF
+C06/321,321,degré par seconde,degré/s,degree/s,deg/s,DEG/S,,,,Operational,PDF
+C06/350,350,degré Celsius (8),°C,˚C,C,C,,(see Note 8),13,Operational,PDF
+C06/351,351,degré Celsius par mètre,°C/m,˚C/m,C/m,C/M,,,,Operational,PDF
+C06/352,352,degré Celsius par 100 mètres,,˚C/100 m,C/100 m,C/100 M,,,,Operational,PDF
+C06/360,360,Dobson (9),DU,DU,DU,DU,,(see Note 9),4,Operational,PDF
+C06/430,430,mois,mon,mon,mon,MON,,,,Operational,PDF
+C06/441,441,par seconde (identique à hertz),s -1,s^-1,/s,/S,,,,Operational,PDF
+C06/442,442,par seconde carrée,s -2,s^-2,s-2,,,,,Operational,PDF
+C06/501,501,nœud par 1000 mètres,kt/1000 m,kt/1000 m,kt/km,KT/KM,,,,Operational,PDF
+C06/510,510,pied,ft.,ft,ft,FT,,,,Operational,PDF
+C06/511,511,pouce,in.,in,in,IN,,,,,PDF
+C06/520,520,décipascal par seconde (microbar par seconde),dPa s -1,dPa s^-1,dPa/s,DPAL/S,,,,Operational,PDF
+C06/521,521,centibar par seconde,cb s -1,cb s^-1,cb/s,CB/S,,,,Operational,PDF
+C06/522,522,centibar par 12 heures,cb/12 h,cb/12 h,cb/12 h,CB/12 HR,,,,Operational,PDF
+C06/523,523,décapascal,daPa,daPa,daPa,DAPAL,,,,Operational,PDF
+C06/530,530,hectopascal,hPa,hPa,hPa,HPAL,,,,Operational,PDF
+C06/531,531,hectopascal par seconde,hPa s -1,hPa s^-1,hPa/s,HPAL/S,,,,Operational,PDF
+C06/532,532,hectopascal par heure,hPa h -1,hPa h^-1,hPa/h,HPAL/HR,,,,Operational,PDF
+C06/533,533,hectopascal par 3 heures,hPa/3 h,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational,PDF
+C06/535,535,nanobar = hPa 10 -6,nbar,nbar,nbar,NBAR,,,,Operational,PDF
+C06/620,620,gramme par kilogramme,g kg -1,g kg^-1,g/kg,G/KG,,,,Operational,PDF
+C06/621,621,gramme par kilogramme par seconde,g kg -1 s -1,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational,PDF
+C06/622,622,kilogramme par kilogramme,kg kg -1,kg kg^-1,kg/kg,KG/KG,,,,Operational,PDF
+C06/623,623,kilogramme par kilogramme par seconde,kg kg -1 s -1,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational,PDF
+C06/624,624,kilogramme par mètre carré,kg m -2,kg m^-2,kg m-2,,,,,Operational,PDF
+C06/630,630,accélération de la pesanteur,g,g,g,,,,,Operational,PDF
+C06/631,631,mètre géopotentiel,gpm,gpm,gpm,,,,,Operational,PDF
+C06/710,710,millimètre,mm,mm,mm,MM,,,,Operational,PDF
+C06/711,711,millimètre par seconde,mm s -1,mm s^-1,mm/s,MM/S,,,,Operational,PDF
+C06/712,712,millimètre par heure,mm h -1,mm h^-1,mm/h,MM/HR,,,,Operational,PDF
+C06/713,713,millimètre puissance six par mètre cube,mm 6 m -3,mm^6 m^-3,mm6 m-3,,,,,Operational,PDF
+C06/715,715,centimètre,cm,cm,cm,CM,,,,Operational,PDF
+C06/716,716,centimètre par seconde,cm s -1,cm s^-1,cm/s,CM/S,,,,Operational,PDF
+C06/717,717,centimètre par heure,cm h -1,cm h^-1,cm/h,CM/HR,,,,Operational,PDF
+C06/720,720,décimètre,dm,dm,dm,DM,,,,Operational,PDF
+C06/731,731,mètre par seconde,m s -1,m s^-1,m/s,M/S,,,,Operational,PDF
+C06/732,732,mètre par seconde par mètre,m s -1 /m,m s^-1/m,m s-1/m,,,,,Operational,PDF
+C06/733,733,mètre par seconde par 1000 mètres,m s -1 /1000 m,m s^-1/1000 m,m s-1/km,,,,,Operational,PDF
+C06/734,734,mètre carré,m 2,m^2,m2,M2,,,,Operational,PDF
+C06/735,735,mètre carré par seconde,m 2 s -1,m^2 s^-1,m2/s,M2/S,,,,Operational,PDF
+C06/740,740,kilomètre,km,km,km,KM,,,,Operational,PDF
+C06/741,741,kilomètre par heure,km h -1,km h^-1,km/h,KM/HR,,,,Operational,PDF
+C06/742,742,kilomètre par jour,km/d,km/d,km/d,KM/D,,,,Operational,PDF
+C06/743,743,par mètre,m -1,m^-1,m-1,/M,,,,Operational,PDF
+C06/750,750,becquerel par litre,Bq l -1,Bq l^-1,Bq/l,BQ/L,,,,Operational,PDF
+C06/751,751,becquerel par mètre carré,Bq m -2,Bq m^-2,Bq m-2,BQ/M2,,,,Operational,PDF
+C06/752,752,becquerel par mètre cube,Bq m -3,Bq m^-3,Bq m-3,BQ/M3,,,,Operational,PDF
+C06/753,753,millisievert,mSv,mSv,mSv,MSV,,,,Operational,PDF
+C06/760,760,mètre par seconde carrée,m s -2,m s^-2,m s-2,,,,,Operational,PDF
+C06/761,761,mètre carré-seconde,m 2 s,m^2 s,m2 s,,,,,Operational,PDF
+C06/762,762,mètre carré par seconde carrée,m 2 s -2,m^2 s^-2,m2 s-2,,,,,Operational,PDF
+C06/763,763,mètre carré par radianseconde,m 2 rad -1 s,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational,PDF
+C06/764,764,mètre carré par hertz,m 2 Hz -1,m^2 Hz^-1,m2/Hz,,,,,Operational,PDF
+C06/765,765,mètre cube,m 3,m^3,m3,,,,,Operational,PDF
+C06/766,766,mètre cube par seconde,m 3 s -1,m^3 s^-1,m3/s,,,,,Operational,PDF
+C06/767,767,mètre cube par mètre cube,m 3 m -3,m^3 m^-3,m3 m-3,,,,,Operational,PDF
+C06/768,768,mètre puissance quatre,m 4,m^4,m4,,,,,Operational,PDF
+C06/769,769,mètre puissance deux tiers par seconde,m 2/3 s -1,m^2/3 s^-1,m2/3 s-1,,,,,Operational,PDF
+C06/772,772,logarithme par mètre,log (m -1 ),log (m^-1),log (m-1),,,,,Operational,PDF
+C06/773,773,logarithme par mètre carré,log (m -2 ),log (m^-2),log (m-2),,,,,Operational,PDF
+C06/775,775,kilogramme par mètre,kg m -1,km m^-1,kg/m,,,,,Operational,PDF
+C06/776,776,kilogramme par mètre carré par seconde,kg m -2 s -1,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational,PDF
+C06/777,777,kilogramme par mètre cube,kg m -3,kg m^-3,kg m-3,,,,,Operational,PDF
+C06/778,778,par kilogramme carré par seconde,kg -2 s -1,kg^-2 s^-1,kg-2 s-1,,,,,Operational,PDF
+C06/779,779,seconde par mètre,s m -1,s m^-1,s/m,,,,,Operational,PDF
+C06/785,785,mètre-kelvin par seconde,K m s -1,K m s^-1,K m s-1,,,,,Operational,PDF
+C06/786,786,kelvin par mètre,K m -1,K m^-1,K/m,,,,,Operational,PDF
+C06/787,787,mètre carré-kelvin par kilogramme par seconde,K m 2 kg -1 s -1,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational,PDF
+C06/788,788,mole par mole,mol mol -1, mol mol^-1,mol/mol,,,,,Operational,PDF
+C06/790,790,radian par mètre,rad m -1,rad m^-1,rad/m,,,,,Operational,PDF
+C06/795,795,newton par mètre carré,N m -2,N m^-2,N m-2,,,,,Operational,PDF
+C06/800,800,pascal par seconde,Pa s -1,Pa s^-1,Pa/s,,,,,Operational,PDF
+C06/801,801,kilopascal,kPa,kPa,kPa,,,,,Operational,PDF
+C06/805,805,joule par mètre carré,J m -2,J m^-2,J m-2,,,,,Operational,PDF
+C06/806,806,joule par kilogramme,J kg -1,J kg^-1,J/kg,,,,,Operational,PDF
+C06/810,810,watt par mètre par stéradian,W m -1 sr -1,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational,PDF
+C06/811,811,watt par mètre carré,W m -2,W m^-2,W m-2,,,,,Operational,PDF
+C06/812,812,watt par mètre carré par stéradian,W m -2 sr -1,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational,PDF
+C06/813,813,watt par mètre carré par stéradian centimètre,W m -2 sr -1 cm,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational,PDF
+C06/814,814,watt par mètre carré par stéradian mètre,W m -2 sr -1 m,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational,PDF
+C06/815,815,watt par mètre cube par stéradian,W m -3 sr -1,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational,PDF
+C06/820,820,siemens par mètre,S m -1,S m^-1,S/m,,,,,Operational,PDF
+C06/825,825,degré carré,degré 2,degrees^2,deg2,,,,,Operational,PDF
+C06/830,830,becquerel-seconde par mètre cube,Bq s m -3,Bq s m^-3,Bq s m-3,,,,,Operational,PDF
+C06/835,835,décibel par mètre,dB m -1,dB m^-1,dB/m,,,(see Note 6),17,Operational,PDF
+C06/836,836,décibel par degré,dB degré -1,dB degree^-1,dB/deg,,,(see Note 6),17,Operational,PDF
+C06/841,841,unité pH,unité pH,pH unit,pH unit,,,,,Operational,PDF
+C06/842,842,unité N,unité N,N units,N units,,,,,Operational,PDF
+C06/843,843,Unité de turbidité néphélométrique,UTN,NTU,,,,,,Operational,PDF
+C06/844,844,Unité de contenu total d'électrons,TECU,TECU,,,10^16 Electrons m^-2,,,,PDF

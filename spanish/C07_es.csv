@@ -1,0 +1,51 @@
+ID,CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_es,Status,translation_source
+C07/0,00,0,Ausencia de medición del viento,Operational,PDF
+C07/1,01,1,Automático con goniómetro auxiliar óptico,Operational,PDF
+C07/2,02,2,Automático con radiogoniómetro auxiliar,Operational,PDF
+C07/3,03,3,Automático con telemetría auxiliar,Operational,PDF
+C07/4,04,4,No utilizada,Operational,PDF
+C07/5,05,5,Automático con señales múltiples VLF-Omega,Operational,PDF
+C07/6,06,6,Automático Loran C de cadena cruzada,Operational,PDF
+C07/7,07,7,Automático con perfilador del viento auxiliar,Operational,PDF
+C07/8,08,8,Ubicación automática por satélite,Operational,PDF
+C07/19,19,19,Técnica de seguimiento no especificada TÉCNICA DE SEGUIMIENTO/ESTADO DEL SISTEMA ASAP SITUACIÓN DEL SISTEMA DE LOS BUQUES,Operational,PDF
+C07/20,20,20,Barco detenido,Operational,PDF
+C07/21,21,21,Barco desviado de su destino original,Operational,PDF
+C07/22,22,22,Llegada retrasada del barco,Operational,PDF
+C07/23,23,23,Falla del contenedor,Operational,PDF
+C07/24,24,24,Falla de alimentación del contenedor,Operational,PDF
+C07/29,29,29,Otros problemas SISTEMA DE SONDEO,Operational,PDF
+C07/30,30,30,Problemas graves de alimentación,Operational,PDF
+C07/31,31,31,UPS no operativo,Operational,PDF
+C07/32,32,32,Problemas físicos en el receptor,Operational,PDF
+C07/33,33,33,Problemas de software en el receptor,Operational,PDF
+C07/34,34,34,Problemas físicos en el procesador,Operational,PDF
+C07/35,35,35,Problemas de software en el procesador,Operational,PDF
+C07/36,36,36,Daños en el sistema NAVAID,Operational,PDF
+C07/37,37,37,Escasez de gas de sustentación,Operational,PDF
+C07/38,38,38,Reservada,Operational,PDF
+C07/39,39,39,Otros problemas EQUIPO DE LANZAMIENTO DEL GLOBO,Operational,PDF
+C07/40,40,40,Defecto mecánico,Operational,PDF
+C07/41,41,41,Defecto material (lanzamiento manual),Operational,PDF
+C07/42,42,42,Falla de alimentación,Operational,PDF
+C07/43,43,43,Falla de control,Operational,PDF
+C07/44,44,44,Falla neumática/hidráulica,Operational,PDF
+C07/45,45,45,Otros problemas,Operational,PDF
+C07/46,46,46,Problemas en el compresor,Operational,PDF
+C07/47,47,47,Problemas en el globo para BUFR,Operational,PDF
+C07/48,48,48,Problemas en el lanzamiento del globo,Operational,PDF
+C07/49,49,49,Daños en el lanzador SISTEMA DE ACOPIO DE DATOS,Operational,PDF
+C07/50,50,50,Defecto en la antena del receptor R/S,Operational,PDF
+C07/51,51,51,Defecto en la antena NAVAID,Operational,PDF
+C07/52,52,52,Defecto en los cables (antena) del receptor R/S,Operational,PDF
+C07/53,53,53,Defecto en los cables de la antena NAVAID,Operational,PDF
+C07/59,59,59,Otros problemas COMUNICACIONES,Operational,PDF
+C07/60,60,60,Defecto en la comunicación ASAP,Operational,PDF
+C07/61,61,61,Datos rechazados por las instalaciones de comunicación,Operational,PDF
+C07/62,62,62,Antena de transmisión sin energía,Operational,PDF
+C07/63,63,63,Cable de la antena roto,Operational,PDF
+C07/64,64,64,Defecto en el cable de la antena,Operational,PDF
+C07/65,65,65,Potencia de emisión del mensaje inferior a la normal,Operational,PDF
+C07/69,69,69,Otros problemas,Operational,PDF
+C07/70,70,70,Todos los sistemas operan normalmente,Operational,PDF
+C07/99,99,99,Estado del sistema y sus componentes no especificado,Operational,PDF

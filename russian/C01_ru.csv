@@ -1,0 +1,243 @@
+ID,CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres_ru,Status,translation_source
+C01/000,00,000,0,Секретариат ВМО,Operational,PDF
+C01//1,,,,01-09: ММЦ,Operational,PDF
+C01/001,01,001,1,Мельбурн,Operational,PDF
+C01/002,02,002,2,Мельбурн,Operational,PDF
+C01/003,03,003,3,),Operational,PDF
+C01/004,04,004,4,Москва,Operational,PDF
+C01/005,05,005,5,Москва,Operational,PDF
+C01/006,06,006,6,),Operational,PDF
+C01/007,07,007,7,Национальная метеорологическая служба США - национальные центры по прогнозированию окружающей среды (НЦПОС),Operational,PDF
+C01/008,08,008,8,Телесвязь Национальной метеорологической службы США (NWSTG),Operational,PDF
+C01/009,09,009,9,Национальная метеорологическая служба США - прочие,Operational,PDF
+C01//2,,,,10-25: Центры в Регионе I,Operational,PDF
+C01/010,10,010,10,Каир (РСМЦ),Operational,PDF
+C01/011,11,011,11,),Operational,PDF
+C01/012,12,012,12,Дакар (РСМЦ),Operational,PDF
+C01/013,13,013,13,),Operational,PDF
+C01/014,14,014,14,Найроби (РСМЦ),Operational,PDF
+C01/015,15,015,15,),Operational,PDF
+C01/016,16,016,16,Касабланка (РСМЦ),Operational,PDF
+C01/017,17,017,17,Тунис (РСМЦ),Operational,PDF
+C01/018,18,018,18,Тунис-Касабланка (РСМЦ),Operational,PDF
+C01/019,19,019,19,),Operational,PDF
+C01/020,20,020,20,Лас-Пальмас,Operational,PDF
+C01/021,21,021,21,Алжир (РСМЦ),Operational,PDF
+C01/022,22,022,22,АКМАД,Operational,PDF
+C01/023,23,023,23,Мозамбик (НМЦ),Operational,PDF
+C01/024,24,024,24,Претория (РСМЦ),Operational,PDF
+C01/025,25,025,25,Реюньон (РСМЦ),Operational,PDF
+C01//3,,,,26-40: Центры в Регионе II,Operational,PDF
+C01/026,26,026,26,Хабаровск (РСМЦ),Operational,PDF
+C01/027,27,027,27,),Operational,PDF
+C01/028,28,028,28,Нью-Дели (РСМЦ),Operational,PDF
+C01/029,29,029,29,),Operational,PDF
+C01/030,30,030,30,Новосибирск (РСМЦ),Operational,PDF
+C01/031,31,031,31,),Operational,PDF
+C01/032,32,032,32,Ташкент (РСМЦ),Operational,PDF
+C01/033,33,033,33,Джидда (РСМЦ),Operational,PDF
+C01/034,34,034,34,"Токио (РСМЦ), Японское метеорологическое агентство",Operational,PDF
+C01/035,35,035,35,),Operational,PDF
+C01/036,36,036,36,Бангкок,Operational,PDF
+C01/037,37,037,37,Улан-Батор,Operational,PDF
+C01/038,38,038,38,Пекин (РСМЦ),Operational,PDF
+C01/039,39,039,39,),Operational,PDF
+C01/040,40,040,40,Сеул,Operational,PDF
+C01//4,,,,41-50: Центры в Регионе III,Operational,PDF
+C01/041,41,041,41,Буэнос-Айрес (РСМЦ),Operational,PDF
+C01/042,42,042,42,),Operational,PDF
+C01/043,43,043,43,Бразилиа (РСМЦ),Operational,PDF
+C01/044,44,044,44,),Operational,PDF
+C01/045,45,045,45,Сантьяго,Operational,PDF
+C01/046,46,046,46,Бразильское космическое агентство - INPE,Operational,PDF
+C01/047,47,047,47,Колумбия (НМЦ),Operational,PDF
+C01/048,48,048,48,Эквадор (НМЦ),Operational,PDF
+C01/049,49,049,49,Перу (НМЦ),Operational,PDF
+C01/050,50,050,50,Венесуэла (Боливарианская Республика) (НМЦ),Operational,PDF
+C01//5,,,,51-63: Центры в Регионе IV,Operational,PDF
+C01/051,51,051,51,Майами (РСМЦ),Operational,PDF
+C01/052,52,052,52,"Майами (РСМЦ), Национальный центр по ураганам",Operational,PDF
+C01/053,53,053,53,МСК - Мониторинг,Operational,PDF
+C01/054,54,054,54,Монреаль (РСМЦ),Operational,PDF
+C01/055,55,055,55,Сан-Франциско,Operational,PDF
+C01/056,56,056,56,Центр АРИНК,Operational,PDF
+C01/057,57,057,57,Военно-воздушные силы США - Глобальный метеорологический центр ВВС,Operational,PDF
+C01/058,58,058,58,"Центр Военно-морского флота по численной метеорологии и океанографии, Монтерей, Калифорния, США",Operational,PDF
+C01/059,59,059,59,"Лаборатория НУОА по прогностическим системам, Боулдер, Колорадо, США",Operational,PDF
+C01/060,60,060,60,Национальный центр США по атмосферным исследованиям (НКАР),Operational,PDF
+C01/061,61,061,61,Служба АРГОС - Лэндовер,Operational,PDF
+C01/062,62,062,62,Океанографическое бюро ВМС США,Operational,PDF
+C01/063,63,063,63,Международный научно-исследовательский институт климата и общества (ИРИ),Operational,PDF
+C01//6,,,,64-73: Центры в Регионе V,Operational,PDF
+C01/064,64,064,64,Гонолулу (РСМЦ),Operational,PDF
+C01/065,65,065,65,Дарвин (РСМЦ),Operational,PDF
+C01/066,66,066,66,),Operational,PDF
+C01/067,67,067,67,Мельбурн (РСМЦ),Operational,PDF
+C01/068,68,068,68,Зарезервировано,Operational,PDF
+C01/069,69,069,69,Веллингтон (РСМЦ),Operational,PDF
+C01/070,70,070,70,),Operational,PDF
+C01/071,71,071,71,Нади (РСМЦ),Operational,PDF
+C01/072,72,072,72,Сингапур,Operational,PDF
+C01/073,73,073,73,Малайзия (НМЦ),Operational,PDF
+C01//7,,,,74-99: Центры в Регионе VI,Operational,PDF
+C01/074,74,074,74,Метеорологическое бюро СК - Эксетер (РСМЦ),Operational,PDF
+C01/075,75,075,75,),Operational,PDF
+C01/076,76,076,76,Москва (РСМЦ),Operational,PDF
+C01/077,77,077,77,Зарезервировано,Operational,PDF
+C01/078,78,078,78,Оффенбах (РСМЦ),Operational,PDF
+C01/079,79,079,79,),Operational,PDF
+C01/080,80,080,80,Рим (РСМЦ),Operational,PDF
+C01/081,81,081,81,),Operational,PDF
+C01/082,82,082,82,Норчёпинг,Operational,PDF
+C01/083,83,083,83,),Operational,PDF
+C01/084,84,084,84,Тулуза (РСМЦ),Operational,PDF
+C01/085,85,085,85,Тулуза (РСМЦ),Operational,PDF
+C01/086,86,086,86,Хельсинки,Operational,PDF
+C01/087,87,087,87,Белград,Operational,PDF
+C01/088,88,088,88,Осло,Operational,PDF
+C01/089,89,089,89,Прага,Operational,PDF
+C01/090,90,090,90,Эпископи,Operational,PDF
+C01/091,91,091,91,Анкара,Operational,PDF
+C01/092,92,092,92,Франкфурт-на-Майне,Operational,PDF
+C01/093,93,093,93,Лондон (ВЦЗП),Operational,PDF
+C01/094,94,094,94,Копенгаген,Operational,PDF
+C01/095,95,095,95,Рота,Operational,PDF
+C01/096,96,096,96,Афины,Operational,PDF
+C01/097,97,097,97,Европейское космическое агентство (ЕКА),Operational,PDF
+C01/098,98,098,98,Европейский центр среднесрочных прогнозов погоды (ЕЦСПП) (РСМЦ),Operational,PDF
+C01/099,99,099,99,Де-Бильт,Operational,PDF
+C01/100,Not applicable,100,100,Браззавиль,Operational,PDF
+C01/101,Not applicable,101,101,Абиджан,Operational,PDF
+C01/102,Not applicable,102,102,Ливия (НМЦ),Operational,PDF
+C01/103,Not applicable,103,103,Мадагаскар (НМЦ),Operational,PDF
+C01/104,Not applicable,104,104,Маврикий (НМЦ),Operational,PDF
+C01/105,Not applicable,105,105,Нигер (НМЦ),Operational,PDF
+C01/106,Not applicable,106,106,Сейшельские Острова (НМЦ),Operational,PDF
+C01/107,Not applicable,107,107,Уганда (НМЦ),Operational,PDF
+C01/108,Not applicable,108,108,Объединенная Республика Танзания (НМЦ),Operational,PDF
+C01/109,Not applicable,109,109,Зимбабве (НМЦ),Operational,PDF
+C01/110,Not applicable,110,110,"Гонконг, Китай",Operational,PDF
+C01/111,Not applicable,111,111,Афганистан (НМЦ),Operational,PDF
+C01/112,Not applicable,112,112,Бахрейн (НМЦ),Operational,PDF
+C01/113,Not applicable,113,113,Бангладеш (НМЦ),Operational,PDF
+C01/114,Not applicable,114,114,Бутан (НМЦ),Operational,PDF
+C01/115,Not applicable,115,115,Камбоджа (НМЦ),Operational,PDF
+C01/116,Not applicable,116,116,Корейская Народно-Демократическая Республика (НМЦ),Operational,PDF
+C01/117,Not applicable,117,117,Исламская Республика Иран (НМЦ),Operational,PDF
+C01/118,Not applicable,118,118,Ирак (НМЦ),Operational,PDF
+C01/119,Not applicable,119,119,Казахстан (НМЦ),Operational,PDF
+C01/120,Not applicable,120,120,Кувейт (НМЦ),Operational,PDF
+C01/121,Not applicable,121,121,Кыргызстан (НМЦ),Operational,PDF
+C01/122,Not applicable,122,122,Лаосская Народно-Демократическая Республика (НМЦ),Operational,PDF
+C01/123,Not applicable,123,123,"Макао, Китай",Operational,PDF
+C01/124,Not applicable,124,124,Мальдивские Острова (НМЦ),Operational,PDF
+C01/125,Not applicable,125,125,Мьянма (НМЦ),Operational,PDF
+C01/126,Not applicable,126,126,Непал (НМЦ),Operational,PDF
+C01/127,Not applicable,127,127,Оман (НМЦ),Operational,PDF
+C01/128,Not applicable,128,128,Пакистан (НМЦ),Operational,PDF
+C01/129,Not applicable,129,129,Катар (НМЦ),Operational,PDF
+C01/130,Not applicable,130,130,Йемен (НМЦ),Operational,PDF
+C01/131,Not applicable,131,131,Шри-Ланка (НМЦ),Operational,PDF
+C01/132,Not applicable,132,132,Таджикистан (НМЦ),Operational,PDF
+C01/133,Not applicable,133,133,Туркменистан (НМЦ),Operational,PDF
+C01/134,Not applicable,134,134,Объединенные Арабские Эмираты (НМЦ),Operational,PDF
+C01/135,Not applicable,135,135,Узбекистан (НМЦ),Operational,PDF
+C01/136,Not applicable,136,136,Вьетнам (НМЦ),Operational,PDF
+C01/140,Not applicable,140,140,Боливия (Многонациональное Государство) (НМЦ),Operational,PDF
+C01/141,Not applicable,141,141,Гайана (НМЦ),Operational,PDF
+C01/142,Not applicable,142,142,Парагвай (НМЦ),Operational,PDF
+C01/143,Not applicable,143,143,Суринам (НМЦ),Operational,PDF
+C01/144,Not applicable,144,144,Уругвай (НМЦ),Operational,PDF
+C01/145,Not applicable,145,145,Французская Гвиана,Operational,PDF
+C01/146,Not applicable,146,146,Гидрографический центр военно-морских сил Бразилии,Operational,PDF
+C01/147,Not applicable,147,147,Национальная комиссия по космической деятельности (КОНАЕ) - Аргентина,Operational,PDF
+C01/148,Not applicable,148,148,Департамент управления воздушным пространством Бразилии - DECEA,Operational,PDF
+C01/149,Not applicable,149,149,Зарезервированы для других центров,Operational,PDF
+C01/150,Not applicable,150,150,Арнтигуа и Барбуда (НМЦ),Operational,PDF
+C01/151,Not applicable,151,151,Багамские Острова (НМЦ),Operational,PDF
+C01/152,Not applicable,152,152,Барбадос (НМЦ),Operational,PDF
+C01/153,Not applicable,153,153,Белиз (НМЦ) Центр Британских Карибских территорий,Operational,PDF
+C01/155,Not applicable,155,155,Сан-Хосе,Operational,PDF
+C01/156,Not applicable,156,156,Куба (НМЦ),Operational,PDF
+C01/157,Not applicable,157,157,Доминика (НМЦ) Доминиканская Республика (НМЦ),Operational,PDF
+C01/159,Not applicable,159,159,Сальвадор (НМЦ),Operational,PDF
+C01/160,Not applicable,160,160,НУОА США/НЕСДИС,Operational,PDF
+C01/161,Not applicable,161,161,Бюро исследований океана и атмосферы НУОА США,Operational,PDF
+C01/162,Not applicable,162,162,Гватемала (НМЦ),Operational,PDF
+C01/163,Not applicable,163,163,Гаити (НМЦ),Operational,PDF
+C01/164,Not applicable,164,164,Гондурас (НМЦ),Operational,PDF
+C01/165,Not applicable,165,165,Ямайка (НМЦ),Operational,PDF
+C01/166,Not applicable,166,166,Мехико,Operational,PDF
+C01/167,Not applicable,167,167,Кюрасао и Синт-Мартен (НМЦ),Operational,PDF
+C01/168,Not applicable,168,168,Никарагуа (НМЦ),Operational,PDF
+C01/169,Not applicable,169,169,Панама (НМЦ) Сент-Люсия (НМЦ),Operational,PDF
+C01/170,Not applicable,170,170,Тринидад и Тобаго (НМЦ),Operational,PDF
+C01/171,Not applicable,171,171,Французские Департаменты в РА IV,Operational,PDF
+C01/172,Not applicable,172,172,Национальное управление по аэронавтике и,Operational,PDF
+C01/173,Not applicable,173,173,исследованию космического пространства США (НАСА),Operational,PDF
+C01/174,Not applicable,174,174,Комплексное управление научными данными/ Служба данных по морской окружающей среде (ИСДМ/МЕДС - Канада),Operational,PDF
+C01/175,Not applicable,175,175,Университетская корпорация по исследованию атмосферы (ЮКАР) - США,Operational,PDF
+C01/176,Not applicable,176,176,"Кооперативный институт метеорологических спутниковых исследований (КИМСИ), США",Operational,PDF
+C01/177,Not applicable,177,177,Национальная океаническая служба НУОА - США,Operational,PDF
+C01/178,Not applicable,178,178,Корпорация Spire Global,Operational,PDF
+C01/190,Not applicable,190,190,Острова Кука (НМЦ),Operational,PDF
+C01/191,Not applicable,191,191,Французская Полинезия (НМЦ),Operational,PDF
+C01/192,Not applicable,192,192,Тонга (НМЦ),Operational,PDF
+C01/193,Not applicable,193,193,Вануату (НМЦ),Operational,PDF
+C01/194,Not applicable,194,194,Бруней-Даруссалам (НМЦ),Operational,PDF
+C01/195,Not applicable,195,195,Индонезия (НМЦ),Operational,PDF
+C01/196,Not applicable,196,196,Кирибати (НМЦ),Operational,PDF
+C01/197,Not applicable,197,197,Федеративные Штаты Микронезии (НМЦ),Operational,PDF
+C01/198,Not applicable,198,198,Новая Каледония (НМЦ),Operational,PDF
+C01/199,Not applicable,199,199,Ниуэ,Operational,PDF
+C01/200,Not applicable,200,200,Папуа-Новая Гвинея (НМЦ),Operational,PDF
+C01/201,Not applicable,201,201,Филиппины (НМЦ),Operational,PDF
+C01/202,Not applicable,202,202,Самоа (НМЦ),Operational,PDF
+C01/203,Not applicable,203,203,Соломоновы Острова (НМЦ),Operational,PDF
+C01/204,Not applicable,204,204,Национальный институт водных и атмосферных исследований (NIWA - Новая Зеландия),Operational,PDF
+C01/210,Not applicable,210,210,Фраскати (ЕКА/ЕСРИН),Operational,PDF
+C01/211,Not applicable,211,211,Ланьон,Operational,PDF
+C01/212,Not applicable,212,212,Лиссабон,Operational,PDF
+C01/213,Not applicable,213,213,Рейкьявик,Operational,PDF
+C01/214,Not applicable,214,214,Мадрид,Operational,PDF
+C01/215,Not applicable,215,215,Цюрих,Operational,PDF
+C01/216,Not applicable,216,216,Служба АРГОС - Тулуза,Operational,PDF
+C01/217,Not applicable,217,217,Братислава,Operational,PDF
+C01/218,Not applicable,218,218,Будапешт,Operational,PDF
+C01/219,Not applicable,219,219,Любляна,Operational,PDF
+C01/220,Not applicable,220,220,Варшава,Operational,PDF
+C01/221,Not applicable,221,221,Загреб,Operational,PDF
+C01/222,Not applicable,222,222,Албания (НМЦ),Operational,PDF
+C01/223,Not applicable,223,223,Армения (НМЦ),Operational,PDF
+C01/224,Not applicable,224,224,Австрия (НМЦ),Operational,PDF
+C01/225,Not applicable,225,225,Азербайджан (НМЦ),Operational,PDF
+C01/226,Not applicable,226,226,Беларусь (НМЦ),Operational,PDF
+C01/227,Not applicable,227,227,Бельгия (НМЦ),Operational,PDF
+C01/228,Not applicable,228,228,Босния и Герцеговина (НМЦ),Operational,PDF
+C01/229,Not applicable,229,229,Болгария (НМЦ),Operational,PDF
+C01/230,Not applicable,230,230,Кипр (НМЦ),Operational,PDF
+C01/231,Not applicable,231,231,Эстония (НМЦ),Operational,PDF
+C01/232,Not applicable,232,232,Грузия (НМЦ),Operational,PDF
+C01/233,Not applicable,233,233,Дублин,Operational,PDF
+C01/234,Not applicable,234,234,Израиль (НМЦ),Operational,PDF
+C01/235,Not applicable,235,235,Иордания (НМЦ),Operational,PDF
+C01/236,Not applicable,236,236,Латвия (НМЦ),Operational,PDF
+C01/237,Not applicable,237,237,Ливан (НМЦ),Operational,PDF
+C01/238,Not applicable,238,238,Литва (НМЦ),Operational,PDF
+C01/239,Not applicable,239,239,Люксембург,Operational,PDF
+C01/240,Not applicable,240,240,Мальта (НМЦ),Operational,PDF
+C01/241,Not applicable,241,241,Монако,Operational,PDF
+C01/242,Not applicable,242,242,Румыния (НМЦ),Operational,PDF
+C01/243,Not applicable,243,243,Сирийская Арабская Республика (НМЦ),Operational,PDF
+C01/244,Not applicable,244,244,Северная Македония (НМЦ),Operational,PDF
+C01/245,Not applicable,245,245,Украина (НМЦ),Operational,PDF
+C01/246,Not applicable,246,246,Республика Молдова (НМЦ),Operational,PDF
+C01/247,Not applicable,247,247,Оперативная программа для обмена информацией метеорологических радиолокаторов (ОПЕРА) - ЕВМЕТНЕТ,Operational,PDF
+C01/248,Not applicable,248,248,Черногория (НМЦ),Operational,PDF
+C01/249,Not applicable,249,249,"Центр прогнозирования пыльных бурь, Барселона",Operational,PDF
+C01/250,Not applicable,250,250,Консорциум по мелкомасштабному моделированию (КОСМО),Operational,PDF
+C01/251,Not applicable,251,251,Сотрудничество в области метеорологии по подготовке оперативных ЧПП (МетКоОп),Operational,PDF
+C01/252,Not applicable,252,252,Институт метеорологии им. Макса Планка (ИММП),Operational,PDF
+C01/253,Not applicable,253,253,Зарезервировано для других центров,Operational,PDF
+C01/254,Not applicable,254,254,Оперативный центр ЕВМЕТСАТ,Operational,PDF
+C01/255,Not applicable,255,255,Отсутствующее значение,Operational,PDF

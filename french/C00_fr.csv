@@ -1,0 +1,38 @@
+ID,GRIB version number,BUFR version number,CREX version number,Effective date,Status,translation_source
+C00/0,0,0,0,Version expérimentale,Operational,PDF
+C00/1,,1,,1er novembre 1988,Operational,PDF
+C00/2,,2,,1er novembre 1993,Operational,PDF
+C00/3,,3,,2 novembre 1994,Operational,PDF
+C00/4,,4,,8 novembre 1995,Operational,PDF
+C00/5,,5,,6 novembre 1996,Operational,PDF
+C00/6,,6,,5 novembre 1997,Operational,PDF
+C00/7,,7,,4 novembre 1998,Operational,PDF
+C00/8,,8,1,3 mai 2000,Operational,PDF
+C00/9,,9,,8 novembre 2000,Operational,PDF
+C00/10,1,10,2,7 novembre 2001,Operational,PDF
+C00/11,2,11,3,5 novembre 2003,Operational,PDF
+C00/12,3,12,4,2 novembre 2005,Operational,PDF
+C00/13,4,13,5,7 novembre 2007,Operational,PDF
+C00/14,5,14,6,4 novembre 2009,Operational,PDF
+C00/15,6,15,7,15 septembre 2010,Operational,PDF
+C00/16,7,16,16,4 mai 2011,Operational,PDF
+C00/17,8,17,17,2 novembre 2011,Operational,PDF
+C00/18,9,18,18,2 mai 2012,Operational,PDF
+C00/19,10,19,19,7 novembre 2012,Operational,PDF
+C00/20,11,20,20,8 mai 2013,Operational,PDF
+C00/21,12,21,21,14 novembre 2013,Operational,PDF
+C00/22,13,22,22,7 mai 2014,Operational,PDF
+C00/23,14,23,23,5 novembre 2014,Operational,PDF
+C00/24,15,24,24,6 mai 2015,Operational,PDF
+C00/25,16,25,25,11 novembre 2015,Operational,PDF
+C00/26,17,26,26,4 mai 2016,Operational,PDF
+C00/27,18,27,27,2 novembre 2016,Operational,PDF
+C00/28,19,28,28,3 mai 2017,Operational,PDF
+C00/29,20,29,29,8 novembre 2017,Operational,PDF
+C00/30,21,30,30,2 mai 2018,Operational,PDF
+C00/31,22,31,31,7 novembre 2018,Operational,PDF
+C00/32,23,32,32,15 mai 2019,Operational,PDF
+C00/33,24,33,33,6 novembre 2019,Operational,PDF
+C00/34,25,34,34,Version en préexploitation devant entrer en vigueur avec le prochain amendement,Operational,PDF
+C00/46-254,37-254,46-254,-,Versions futures,Operational,PDF
+C00/255,255,255,255,Valeur manquante,Operational,PDF
