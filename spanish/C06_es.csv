@@ -1,141 +1,141 @@
 ID,CodeFigure,UnitType_es,Meaning_es,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID,Status,translation_source
-C06/001,001,metro,m,m,m,M,,(see Note 1),19,Operational,PDF
-C06/002,002,kilogramo,kg,kg,kg,KG,,,,Operational,PDF
-C06/003,003,segundo,s,s,s,S,,,,Operational,PDF
-C06/004,004,amperio,A,A,A,A,,,,Operational,PDF
-C06/005,005,kelvin,K,K,K,K,,,,Operational,PDF
-C06/006,006,mol,mol,mol,mol,MOL,,,,Operational,PDF
-C06/007,007,candela,cd,cd,cd,CD,,,,Operational,PDF
-C06/021,021,radián,rad,rad,rad,RAD,,(see Note 1),19,Operational,PDF
-C06/022,022,estereorradián,sr,sr,sr,SR,,,,Operational,PDF
-C06/030,030,hertzio,Hz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational,PDF
-C06/031,031,newton,N,N,N,N,kg m s^-2,,,Operational,PDF
-C06/032,032,pascal,Pa,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational,PDF
-C06/033,033,julio,J,J,J,J,kg m^2 s^-2,,,Operational,PDF
-C06/034,034,vatio,W,W,W,W,kg m^2 s^-3,,,Operational,PDF
-C06/035,035,culombio,C,C,C,C,A s,,,Operational,PDF
-C06/036,036,voltio,V,V,V,V,kg m^2 s^-3 A^-1,,,Operational,PDF
-C06/037,037,faradio,F,F,F,F,kg^-1 m^-2 s^4 A^2,,,Operational,PDF
-C06/038,038,ohmio,Ω,Ω,Ohm,OHM,kg m^2 s^-3 A^-2,,,Operational,PDF
-C06/039,039,simensio,S,S,S,SIE,kg^-1 m^-2 s^3 A^2,,,Operational,PDF
-C06/040,040,weberio,Wb,Wb,Wb,WB,kg m^2 s^-2 A^-1,,,Operational,PDF
-C06/041,041,tesla,T,T,T,T,kg s^-2 A^-1,,,Operational,PDF
-C06/042,042,henrio,H,H,H,H,kg m^2 s^-2 A^-2,,,Operational,PDF
-C06/060,060,grado Celsius,°C,˚C,Cel,CEL,K+273.15,,,Operational,PDF
-C06/070,070,lumen,lm,lm,lm,LM,cd sr,,,Operational,PDF
-C06/071,071,lux,lx,lx,lx,LX,cd sr m^-2,,,Operational,PDF
-C06/080,080,becquerel,Bq,Bq,Bq,BQ,s^-1,,,Operational,PDF
-C06/081,081,grey,Gy,Gy,Gy,GY,m^2 s^-2,,,Operational,PDF
-C06/082,082,sievert,Sv,Sv,Sv,SV,m^2 s^-2,,,Operational,PDF
-C06/110,110,grado (ángulo),º,˚,deg,DEG,,(see Note 4),10,Operational,PDF
-C06/111,111,minuto (ángulo),',',',MNT,,(see Note 10),27,Operational,PDF
-C06/112,112,segundo (ángulo),"""","""","""",SEC,,(see Note 10),27,Operational,PDF
-C06/120,120,litro,l o L,l or L,l or L,L,,,,Operational,PDF
-C06/130,130,minuto (tiempo),min,min,min,MIN,,,,Operational,PDF
-C06/131,131,hora,h,h,h,HR,,,,Operational,PDF
-C06/132,132,día,d,d,d,D,,,,Operational,PDF
-C06/150,150,tonelada,t,t,t,TNE,,,,Operational,PDF
-C06/160,160,electronvoltio,eV,eV,eV,EV,,,,Operational,PDF
-C06/161,161,unidad de masa atómica,u,u,u,U,,(see Note 11),28,Operational,PDF
-C06/170,170,unidad astronómica,AU,AU,AU,ASU,,,,Operational,PDF
-C06/210,210,decibelio (6),dB,dB,dB,DB,,(see Note 6),17,Operational,PDF
-C06/220,220,hectárea,ha,ha,ha,HAR,,,,Operational,PDF
-C06/171,171,parsec,pc,pc,pc,PRS,,(see Note 7),21,Operational,PDF
-C06/200,200,milla náutica,,,,,,,,Operational,PDF
-C06/201,201,nudo,kt,kt,kt,KT,,,,Operational,PDF
-C06/230,230,semana,,,,,,,,Operational,PDF
-C06/231,231,año,a,a,a,A,,,,Operational,PDF
-C06/300,300,por ciento,%,%,%,PERCENT,,,,Operational,PDF
-C06/301,301,partes por millar,‰,‰,0/00,PERTHOU,,,,Operational,PDF
-C06/310,310,octavos de nube,octa,okta,okta,OKTA,,,,Operational,PDF
-C06/320,320,grados verdaderos,°,˚,deg,DEG,,,,Operational,PDF
-C06/321,321,grados por segundo,grado/s,degree/s,deg/s,DEG/S,,,,Operational,PDF
-C06/350,350,grados Celsius (8),°C,˚C,C,C,,(see Note 8),13,Operational,PDF
-C06/351,351,grados Celsius por metro,°C/m,˚C/m,C/m,C/M,,,,Operational,PDF
-C06/352,352,grados Celsius por 100 metros,°C/100 m,˚C/100 m,C/100 m,C/100 M,,,,Operational,PDF
-C06/360,360,Unidad Dobson (9),DU,DU,DU,DU,,(see Note 9),4,Operational,PDF
-C06/430,430,mes,mon,mon,mon,MON,,,,Operational,PDF
-C06/441,441,por segundo (idéntica al hertzio),s -1,s^-1,/s,/S,,,,Operational,PDF
-C06/442,442,por segundo al cuadrado,s -2,s^-2,s-2,,,,,Operational,PDF
-C06/501,501,nudos por 1 000 metros,kt/1000 m,kt/1000 m,kt/km,KT/KM,,,,Operational,PDF
-C06/510,510,pie,ft,ft,ft,FT,,,,Operational,PDF
-C06/511,511,pulgada,in,in,in,IN,,,,,PDF
-C06/520,520,decipascales por segundo (microbares por segundo),dPa s -1,dPa s^-1,dPa/s,DPAL/S,,,,Operational,PDF
-C06/521,521,centibares por segundo,cb s -1,cb s^-1,cb/s,CB/S,,,,Operational,PDF
-C06/522,522,centibares por 12 horas,cb/12 h,cb/12 h,cb/12 h,CB/12 HR,,,,Operational,PDF
-C06/523,523,decapascal,daPa,daPa,daPa,DAPAL,,,,Operational,PDF
-C06/530,530,hectopascal,hPa,hPa,hPa,HPAL,,,,Operational,PDF
-C06/531,531,hectopascales por segundo,hPa s -1,hPa s^-1,hPa/s,HPAL/S,,,,Operational,PDF
-C06/532,532,hectopascales por hora,hPa h -1,hPa h^-1,hPa/h,HPAL/HR,,,,Operational,PDF
-C06/533,533,hectopascales por 3 horas,hPa/3 h,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational,PDF
-C06/535,535,nanobar = hPa 10 -6,nbar,nbar,nbar,NBAR,,,,Operational,PDF
-C06/620,620,gramos por kilogramo,g kg -1,g kg^-1,g/kg,G/KG,,,,Operational,PDF
-C06/621,621,gramos por kilogramo por segundo,g kg -1 s -1,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational,PDF
-C06/622,622,kilogramos por kilogramo,kg kg -1,kg kg^-1,kg/kg,KG/KG,,,,Operational,PDF
-C06/623,623,kilogramos por kilogramo por segundo,kg kg -1 s -1,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational,PDF
-C06/624,624,kilogramos por metro cuadrado,kg m -2,kg m^-2,kg m-2,,,,,Operational,PDF
-C06/630,630,aceleración de la gravedad,g,g,g,,,,,Operational,PDF
-C06/631,631,metro geopotencial,mgp,gpm,gpm,,,,,Operational,PDF
-C06/710,710,milímetro,mm,mm,mm,MM,,,,Operational,PDF
-C06/711,711,milímetros por segundo,mm s -1,mm s^-1,mm/s,MM/S,,,,Operational,PDF
-C06/712,712,milímetros por hora,mm h -1,mm h^-1,mm/h,MM/HR,,,,Operational,PDF
-C06/713,713,milímetros a la sexta potencia por metro cúbico,mm 6 m -3,mm^6 m^-3,mm6 m-3,,,,,Operational,PDF
-C06/715,715,centímetro,cm,cm,cm,CM,,,,Operational,PDF
-C06/716,716,centímetros por segundo,cm s -1,cm s^-1,cm/s,CM/S,,,,Operational,PDF
-C06/717,717,centímetros por hora,cm h -1,cm h^-1,cm/h,CM/HR,,,,Operational,PDF
-C06/720,720,decímetro,dm,dm,dm,DM,,,,Operational,PDF
-C06/731,731,metros por segundo,m s -1,m s^-1,m/s,M/S,,,,Operational,PDF
-C06/732,732,metros por segundo por metro,m s -1 /m,m s^-1/m,m s-1/m,,,,,Operational,PDF
-C06/733,733,metros por segundo por 1 000 metros,m s -1 /1000 m,m s^-1/1000 m,m s-1/km,,,,,Operational,PDF
-C06/734,734,metros cuadrados,m 2,m^2,m2,M2,,,,Operational,PDF
-C06/735,735,metros cuadrados por segundo,m 2 s -1,m^2 s^-1,m2/s,M2/S,,,,Operational,PDF
-C06/740,740,kilómetro,km,km,km,KM,,,,Operational,PDF
-C06/741,741,kilómetros por hora,km h -2,km h^-1,km/h,KM/HR,,,,Operational,PDF
-C06/742,742,kilómetros por día,km/d,km/d,km/d,KM/D,,,,Operational,PDF
-C06/743,743,por metro,m -1,m^-1,m-1,/M,,,,Operational,PDF
-C06/750,750,becquereles por litro,Bq l -1,Bq l^-1,Bq/l,BQ/L,,,,Operational,PDF
-C06/751,751,becquereles por metro cuadrado,Bq m -2,Bq m^-2,Bq m-2,BQ/M2,,,,Operational,PDF
-C06/752,752,becquereles por metro cúbico,Bq m -3,Bq m^-3,Bq m-3,BQ/M3,,,,Operational,PDF
-C06/753,753,milisievert,mSv,mSv,mSv,MSV,,,,Operational,PDF
-C06/760,760,metros por segundo al cuadrado,m s -3,m s^-2,m s-2,,,,,Operational,PDF
-C06/761,761,metros cuadrados por segundo,m 2 s,m^2 s,m2 s,,,,,Operational,PDF
-C06/762,762,metros cuadrados por segundo al cuadrado,m 2 s -2,m^2 s^-2,m2 s-2,,,,,Operational,PDF
-C06/763,763,metros cuadrados por radián por segundo,m 2 rad -1 s,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational,PDF
-C06/764,764,metros cuadrados por hertzio,m 2 Hz -1,m^2 Hz^-1,m2/Hz,,,,,Operational,PDF
-C06/765,765,metros cúbicos,m 3,m^3,m3,,,,,Operational,PDF
-C06/766,766,metros cúbicos por segundo,m 3 s -1,m^3 s^-1,m3/s,,,,,Operational,PDF
-C06/767,767,metros cúbicos por metro cúbico,m 3 m -3,m^3 m^-3,m3 m-3,,,,,Operational,PDF
-C06/768,768,metros a la cuarta potencia,m 4,m^4,m4,,,,,Operational,PDF
-C06/769,769,metros a la potencia dos tercios por segundo,m 2/3 s -1,m^2/3 s^-1,m2/3 s-1,,,,,Operational,PDF
-C06/772,772,logaritmo por metro,log (m -1 ),log (m^-1),log (m-1),,,,,Operational,PDF
-C06/773,773,logaritmo por metro cuadrado,log (m -2 ),log (m^-2),log (m-2),,,,,Operational,PDF
-C06/775,775,kilogramos por metro,kg m -1,km m^-1,kg/m,,,,,Operational,PDF
-C06/776,776,kilogramos por metro cuadrado por segundo,kg m -2 s -1,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational,PDF
-C06/777,777,kilogramos por metro cúbico,kg m -3,kg m^-3,kg m-3,,,,,Operational,PDF
-C06/778,778,kilogramos al cuadrado por segundo,kg -2 s -1,kg^-2 s^-1,kg-2 s-1,,,,,Operational,PDF
-C06/779,779,segundos por metro,s m -1,s m^-1,s/m,,,,,Operational,PDF
-C06/785,785,kélvines por metro por segundo,K m s -1,K m s^-1,K m s-1,,,,,Operational,PDF
-C06/786,786,kélvines por metro,K m -1,K m^-1,K/m,,,,,Operational,PDF
-C06/787,787,kélvines por metro cuadrado por kilogramo por segundo,K m 2 kg -1 s -1,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational,PDF
-C06/788,788,mol por mol,mol mol -1, mol mol^-1,mol/mol,,,,,Operational,PDF
-C06/790,790,radianes por metro,rad m -1,rad m^-1,rad/m,,,,,Operational,PDF
-C06/795,795,newtons por metro cuadrado,N m -2,N m^-2,N m-2,,,,,Operational,PDF
-C06/800,800,pascales por segundo,Pa s -1,Pa s^-1,Pa/s,,,,,Operational,PDF
-C06/801,801,kilopascal,kPa,kPa,kPa,,,,,Operational,PDF
-C06/805,805,julios por metro cuadrado,J m -2,J m^-2,J m-2,,,,,Operational,PDF
-C06/806,806,julios por kilogramo,J kg -1,J kg^-1,J/kg,,,,,Operational,PDF
-C06/810,810,vatios por metro por estereorradián,W m -1 sr -1,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational,PDF
-C06/811,811,vatios por metro cuadrado,W m -2,W m^-2,W m-2,,,,,Operational,PDF
-C06/812,812,vatios por metro cuadrado por estereorradián,W m -2 sr -1,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational,PDF
-C06/813,813,vatios por metro cuadrado por estereorradián por centímetro,W m -2 sr -1 cm -1,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational,PDF
-C06/814,814,vatios por metro cuadrado por estereorradián por metro,W m -2 sr -1 m -1,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational,PDF
-C06/815,815,vatios por metro cúbico por estereorradián,W m -3 sr -1,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational,PDF
-C06/820,820,simensio por metro,S m -1,S m^-1,S/m,,,,,Operational,PDF
-C06/825,825,grados al cuadrado,grado 2,degrees^2,deg2,,,,,Operational,PDF
-C06/830,830,becquereles por segundo por metro cúbico,Bq s m -3,Bq s m^-3,Bq s m-3,,,,,Operational,PDF
-C06/835,835,decibelios por metro,dB m -1,dB m^-1,dB/m,,,(see Note 6),17,Operational,PDF
-C06/836,836,decibelios por grado,dB grado -1,dB degree^-1,dB/deg,,,(see Note 6),17,Operational,PDF
-C06/841,841,unidades pH,unidad pH,pH unit,pH unit,,,,,Operational,PDF
-C06/842,842,unidades N,unidades N,N units,N units,,,,,Operational,PDF
-C06/843,843,Unidades de turbiedad nefelométricas,NTU,NTU,,,,,,Operational,PDF
-C06/844,844,Unidad del contenido total de electrones,TECU,TECU,,,10^16 Electrons m^-2,,,,PDF
+C06/001,001,Unidades básicas SI,metro,m,m,M,,(see Note 1),19,Operational,PDF
+C06/002,002,Unidades básicas SI,kilogramo,kg,kg,KG,,,,Operational,PDF
+C06/003,003,Unidades básicas SI,segundo,s,s,S,,,,Operational,PDF
+C06/004,004,Unidades básicas SI,amperio,A,A,A,,,,Operational,PDF
+C06/005,005,Unidades básicas SI,kelvin,K,K,K,,,,Operational,PDF
+C06/006,006,Unidades básicas SI,mol,mol,mol,MOL,,,,Operational,PDF
+C06/007,007,Unidades básicas SI,candela,cd,cd,CD,,,,Operational,PDF
+C06/021,021,Unidades SI derivadas con nombres especiales,radián,rad,rad,RAD,,(see Note 1),19,Operational,PDF
+C06/022,022,Unidades SI derivadas con nombres especiales,estereorradián,sr,sr,SR,,,,Operational,PDF
+C06/030,030,Unidades SI derivadas con nombres especiales,hertzio,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational,PDF
+C06/031,031,Unidades SI derivadas con nombres especiales,newton,N,N,N,kg m s^-2,,,Operational,PDF
+C06/032,032,Unidades SI derivadas con nombres especiales,pascal,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational,PDF
+C06/033,033,Unidades SI derivadas con nombres especiales,julio,J,J,J,kg m^2 s^-2,,,Operational,PDF
+C06/034,034,Unidades SI derivadas con nombres especiales,vatio,W,W,W,kg m^2 s^-3,,,Operational,PDF
+C06/035,035,Unidades SI derivadas con nombres especiales,culombio,C,C,C,A s,,,Operational,PDF
+C06/036,036,Unidades SI derivadas con nombres especiales,voltio,V,V,V,kg m^2 s^-3 A^-1,,,Operational,PDF
+C06/037,037,Unidades SI derivadas con nombres especiales,faradio,F,F,F,kg^-1 m^-2 s^4 A^2,,,Operational,PDF
+C06/038,038,Unidades SI derivadas con nombres especiales,ohmio,Ω,Ohm,OHM,kg m^2 s^-3 A^-2,,,Operational,PDF
+C06/039,039,Unidades SI derivadas con nombres especiales,simensio,S,S,SIE,kg^-1 m^-2 s^3 A^2,,,Operational,PDF
+C06/040,040,Unidades SI derivadas con nombres especiales,weberio,Wb,Wb,WB,kg m^2 s^-2 A^-1,,,Operational,PDF
+C06/041,041,Unidades SI derivadas con nombres especiales,tesla,T,T,T,kg s^-2 A^-1,,,Operational,PDF
+C06/042,042,Unidades SI derivadas con nombres especiales,henrio,H,H,H,kg m^2 s^-2 A^-2,,,Operational,PDF
+C06/060,060,Unidades SI derivadas con nombres especiales,grado Celsius,˚C,Cel,CEL,K+273.15,,,Operational,PDF
+C06/070,070,Unidades SI derivadas con nombres especiales,lumen,lm,lm,LM,cd sr,,,Operational,PDF
+C06/071,071,Unidades SI derivadas con nombres especiales,lux,lx,lx,LX,cd sr m^-2,,,Operational,PDF
+C06/080,080,Unidades SI derivadas con nombres especiales,becquerel,Bq,Bq,BQ,s^-1,,,Operational,PDF
+C06/081,081,Unidades SI derivadas con nombres especiales,grey,Gy,Gy,GY,m^2 s^-2,,,Operational,PDF
+C06/082,082,Unidades SI derivadas con nombres especiales,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational,PDF
+C06/110,110,Otras unidades no SI reconocidas por la CGPM,grado (ángulo),˚,deg,DEG,,(see Note 4),10,Operational,PDF
+C06/111,111,Otras unidades no SI reconocidas por la CGPM,minuto (ángulo),',',MNT,,(see Note 10),27,Operational,PDF
+C06/112,112,Otras unidades no SI reconocidas por la CGPM,"segundo (ángulo)","""","""",SEC,,(see Note 10),27,Operational,PDF
+C06/120,120,Otras unidades no SI reconocidas por la CGPM,litro,l or L,l or L,L,,,,Operational,PDF
+C06/130,130,Otras unidades no SI reconocidas por la CGPM,minuto (tiempo),min,min,MIN,,,,Operational,PDF
+C06/131,131,Otras unidades no SI reconocidas por la CGPM,hora,h,h,HR,,,,Operational,PDF
+C06/132,132,Otras unidades no SI reconocidas por la CGPM,día,d,d,D,,,,Operational,PDF
+C06/150,150,Otras unidades no SI reconocidas por la CGPM,tonelada,t,t,TNE,,,,Operational,PDF
+C06/160,160,Otras unidades no SI reconocidas por la CGPM,electronvoltio,eV,eV,EV,,,,Operational,PDF
+C06/161,161,Otras unidades no SI reconocidas por la CGPM,unidad de masa atómica,u,u,U,,(see Note 11),28,Operational,PDF
+C06/170,170,Otras unidades no SI reconocidas por la CGPM,unidad astronómica,AU,AU,ASU,,,,Operational,PDF
+C06/210,210,Otras unidades no SI reconocidas por la CGPM,decibelio,dB,dB,DB,,(see Note 6),17,Operational,PDF
+C06/220,220,Otras unidades no SI reconocidas por la CGPM,hectárea,ha,ha,HAR,,,,Operational,PDF
+C06/171,171,Otras unidades,parsec,pc,pc,PRS,,(see Note 7),21,Operational,PDF
+C06/200,200,Otras unidades,milla náutica,,,,,,,Operational,PDF
+C06/201,201,Otras unidades,nudo,kt,kt,KT,,,,Operational,PDF
+C06/230,230,Otras unidades,semana,,,,,,,Operational,PDF
+C06/231,231,Otras unidades,año,a,a,A,,,,Operational,PDF
+C06/300,300,Otras unidades,por ciento,%,%,PERCENT,,,,Operational,PDF
+C06/301,301,Otras unidades,partes por millar,‰,0/00,PERTHOU,,,,Operational,PDF
+C06/310,310,Otras unidades,octavos de nube,okta,okta,OKTA,,,,Operational,PDF
+C06/320,320,Otras unidades,grados verdaderos,˚,deg,DEG,,,,Operational,PDF
+C06/321,321,Otras unidades,grados por segundo,degree/s,deg/s,DEG/S,,,,Operational,PDF
+C06/350,350,Otras unidades,grados Celsius,˚C,C,C,,(see Note 8),13,Operational,PDF
+C06/351,351,Otras unidades,grados Celsius por metro,˚C/m,C/m,C/M,,,,Operational,PDF
+C06/352,352,Otras unidades,grados Celsius por 100 metros,˚C/100 m,C/100 m,C/100 M,,,,Operational,PDF
+C06/360,360,Otras unidades,Unidad Dobson,DU,DU,DU,,(see Note 9),4,Operational,PDF
+C06/430,430,Otras unidades,mes,mon,mon,MON,,,,Operational,PDF
+C06/441,441,Otras unidades,por segundo (idéntica al hertzio),s^-1,/s,/S,,,,Operational,PDF
+C06/442,442,Otras unidades,por segundo al cuadrado,s^-2,s-2,,,,,Operational,PDF
+C06/501,501,Otras unidades,nudos por 1 000 metros,kt/1000 m,kt/km,KT/KM,,,,Operational,PDF
+C06/510,510,Otras unidades,pie,ft,ft,FT,,,,Operational,PDF
+C06/511,511,Otras unidades,pulgada,in,in,IN,,,,,PDF
+C06/520,520,Otras unidades,decipascales por segundo (microbares por segundo),dPa s^-1,dPa/s,DPAL/S,,,,Operational,PDF
+C06/521,521,Otras unidades,centibares por segundo,cb s^-1,cb/s,CB/S,,,,Operational,PDF
+C06/522,522,Otras unidades,centibares por 12 horas,cb/12 h,cb/12 h,CB/12 HR,,,,Operational,PDF
+C06/523,523,Otras unidades,decapascal,daPa,daPa,DAPAL,,,,Operational,PDF
+C06/530,530,Otras unidades,hectopascal,hPa,hPa,HPAL,,,,Operational,PDF
+C06/531,531,Otras unidades,hectopascales por segundo,hPa s^-1,hPa/s,HPAL/S,,,,Operational,PDF
+C06/532,532,Otras unidades,hectopascales por hora,hPa h^-1,hPa/h,HPAL/HR,,,,Operational,PDF
+C06/533,533,Otras unidades,hectopascales por 3 horas,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational,PDF
+C06/535,535,Otras unidades,nanobar = hPa 10 -6,nbar,nbar,NBAR,,,,Operational,PDF
+C06/620,620,Otras unidades,gramos por kilogramo,g kg^-1,g/kg,G/KG,,,,Operational,PDF
+C06/621,621,Otras unidades,gramos por kilogramo por segundo,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational,PDF
+C06/622,622,Otras unidades,kilogramos por kilogramo,kg kg^-1,kg/kg,KG/KG,,,,Operational,PDF
+C06/623,623,Otras unidades,kilogramos por kilogramo por segundo,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational,PDF
+C06/624,624,Otras unidades,kilogramos por metro cuadrado,kg m^-2,kg m-2,,,,,Operational,PDF
+C06/630,630,Otras unidades,aceleración de la gravedad,g,g,,,,,Operational,PDF
+C06/631,631,Otras unidades,metro geopotencial,gpm,gpm,,,,,Operational,PDF
+C06/710,710,Otras unidades,milímetro,mm,mm,MM,,,,Operational,PDF
+C06/711,711,Otras unidades,milímetros por segundo,mm s^-1,mm/s,MM/S,,,,Operational,PDF
+C06/712,712,Otras unidades,milímetros por hora,mm h^-1,mm/h,MM/HR,,,,Operational,PDF
+C06/713,713,Otras unidades,milímetros a la sexta potencia por metro cúbico,mm^6 m^-3,mm6 m-3,,,,,Operational,PDF
+C06/715,715,Otras unidades,centímetro,cm,cm,CM,,,,Operational,PDF
+C06/716,716,Otras unidades,centímetros por segundo,cm s^-1,cm/s,CM/S,,,,Operational,PDF
+C06/717,717,Otras unidades,centímetros por hora,cm h^-1,cm/h,CM/HR,,,,Operational,PDF
+C06/720,720,Otras unidades,decímetro,dm,dm,DM,,,,Operational,PDF
+C06/731,731,Otras unidades,metros por segundo,m s^-1,m/s,M/S,,,,Operational,PDF
+C06/732,732,Otras unidades,metros por segundo por metro,m s^-1/m,m s-1/m,,,,,Operational,PDF
+C06/733,733,Otras unidades,metros por segundo por 1 000 metros,m s^-1/1000 m,m s-1/km,,,,,Operational,PDF
+C06/734,734,Otras unidades,metros cuadrados,m^2,m2,M2,,,,Operational,PDF
+C06/735,735,Otras unidades,metros cuadrados por segundo,m^2 s^-1,m2/s,M2/S,,,,Operational,PDF
+C06/740,740,Otras unidades,kilómetro,km,km,KM,,,,Operational,PDF
+C06/741,741,Otras unidades,kilómetros por hora,km h^-1,km/h,KM/HR,,,,Operational,PDF
+C06/742,742,Otras unidades,kilómetros por día,km/d,km/d,KM/D,,,,Operational,PDF
+C06/743,743,Otras unidades,por metro,m^-1,m-1,/M,,,,Operational,PDF
+C06/750,750,Otras unidades,becquereles por litro,Bq l^-1,Bq/l,BQ/L,,,,Operational,PDF
+C06/751,751,Otras unidades,becquereles por metro cuadrado,Bq m^-2,Bq m-2,BQ/M2,,,,Operational,PDF
+C06/752,752,Otras unidades,becquereles por metro cúbico,Bq m^-3,Bq m-3,BQ/M3,,,,Operational,PDF
+C06/753,753,Otras unidades,milisievert,mSv,mSv,MSV,,,,Operational,PDF
+C06/760,760,Otras unidades,metros por segundo al cuadrado,m s^-2,m s-2,,,,,Operational,PDF
+C06/761,761,Otras unidades,metros cuadrados por segundo,m^2 s,m2 s,,,,,Operational,PDF
+C06/762,762,Otras unidades,metros cuadrados por segundo al cuadrado,m^2 s^-2,m2 s-2,,,,,Operational,PDF
+C06/763,763,Otras unidades,metros cuadrados por radián por segundo,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational,PDF
+C06/764,764,Otras unidades,metros cuadrados por hertzio,m^2 Hz^-1,m2/Hz,,,,,Operational,PDF
+C06/765,765,Otras unidades,metros cúbicos,m^3,m3,,,,,Operational,PDF
+C06/766,766,Otras unidades,metros cúbicos por segundo,m^3 s^-1,m3/s,,,,,Operational,PDF
+C06/767,767,Otras unidades,metros cúbicos por metro cúbico,m^3 m^-3,m3 m-3,,,,,Operational,PDF
+C06/768,768,Otras unidades,metros a la cuarta potencia,m^4,m4,,,,,Operational,PDF
+C06/769,769,Otras unidades,metros a la potencia dos tercios por segundo,m^2/3 s^-1,m2/3 s-1,,,,,Operational,PDF
+C06/772,772,Otras unidades,logaritmo por metro,log (m^-1),log (m-1),,,,,Operational,PDF
+C06/773,773,Otras unidades,logaritmo por metro cuadrado,log (m^-2),log (m-2),,,,,Operational,PDF
+C06/775,775,Otras unidades,kilogramos por metro,km m^-1,kg/m,,,,,Operational,PDF
+C06/776,776,Otras unidades,kilogramos por metro cuadrado por segundo,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational,PDF
+C06/777,777,Otras unidades,kilogramos por metro cúbico,kg m^-3,kg m-3,,,,,Operational,PDF
+C06/778,778,Otras unidades,kilogramos al cuadrado por segundo,kg^-2 s^-1,kg-2 s-1,,,,,Operational,PDF
+C06/779,779,Otras unidades,segundos por metro,s m^-1,s/m,,,,,Operational,PDF
+C06/785,785,Otras unidades,kélvines por metro por segundo,K m s^-1,K m s-1,,,,,Operational,PDF
+C06/786,786,Otras unidades,kélvines por metro,K m^-1,K/m,,,,,Operational,PDF
+C06/787,787,Otras unidades,kélvines por metro cuadrado por kilogramo por segundo,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational,PDF
+C06/788,788,Otras unidades,mol por mol, mol mol^-1,mol/mol,,,,,Operational,PDF
+C06/790,790,Otras unidades,radianes por metro,rad m^-1,rad/m,,,,,Operational,PDF
+C06/795,795,Otras unidades,newtons por metro cuadrado,N m^-2,N m-2,,,,,Operational,PDF
+C06/800,800,Otras unidades,pascales por segundo,Pa s^-1,Pa/s,,,,,Operational,PDF
+C06/801,801,Otras unidades,kilopascal,kPa,kPa,,,,,Operational,PDF
+C06/805,805,Otras unidades,julios por metro cuadrado,J m^-2,J m-2,,,,,Operational,PDF
+C06/806,806,Otras unidades,julios por kilogramo,J kg^-1,J/kg,,,,,Operational,PDF
+C06/810,810,Otras unidades,vatios por metro por estereorradián,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational,PDF
+C06/811,811,Otras unidades,vatios por metro cuadrado,W m^-2,W m-2,,,,,Operational,PDF
+C06/812,812,Otras unidades,vatios por metro cuadrado por estereorradián,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational,PDF
+C06/813,813,Otras unidades,vatios por metro cuadrado por estereorradián por centímetro,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational,PDF
+C06/814,814,Otras unidades,vatios por metro cuadrado por estereorradián por metro,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational,PDF
+C06/815,815,Otras unidades,vatios por metro cúbico por estereorradián,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational,PDF
+C06/820,820,Otras unidades,simensio por metro,S m^-1,S/m,,,,,Operational,PDF
+C06/825,825,Otras unidades,grados al cuadrado,degrees^2,deg2,,,,,Operational,PDF
+C06/830,830,Otras unidades,becquereles por segundo por metro cúbico,Bq s m^-3,Bq s m-3,,,,,Operational,PDF
+C06/835,835,Otras unidades,decibelios por metro,dB m^-1,dB/m,,,(see Note 6),17,Operational,PDF
+C06/836,836,Otras unidades,decibelios por grado,dB degree^-1,dB/deg,,,(see Note 6),17,Operational,PDF
+C06/841,841,Otras unidades,unidades pH,pH unit,pH unit,,,,,Operational,PDF
+C06/842,842,Otras unidades,unidades N,N units,N units,,,,,Operational,PDF
+C06/843,843,Otras unidades,Unidades de turbiedad nefelométricas,NTU,,,,,,Operational,PDF
+C06/844,844,Otras unidades,Unidad del contenido total de electrones,TECU,,,10^16 Electrons m^-2,,,,PDF
